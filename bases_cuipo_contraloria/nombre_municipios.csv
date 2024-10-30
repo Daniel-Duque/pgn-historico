@@ -1,0 +1,3687 @@
+index,NOMBRE_ENTIDAD
+0,Tena
+1,Roldanillo
+2,Santa Rosa - Cauca
+3,Aipe
+4,Dibulla
+5,Funes
+6,Paipa
+7,Instituto de Deportes del Departamento Norte de Santander
+8,Amalfi
+9,E.S.E. Hospital Regional Sur Oriental
+10,El Rosal
+11,E.S.E. Hospital San Antonio - Guatavita
+12,Nátaga
+13,Lejanías
+14,Villeta
+15,Ricaurte - Cundinamarca
+16,Pueblo Bello
+17,Caicedo
+18,Tocaima
+19,Santiago de Cali
+20,San Mateo
+21,Ipiales
+22,La Paz (Robles) - Cesar
+23,Armero - Guayabal
+24,El Peñol - Nariño
+25,E.S.E. Hospital San Rafael - El Cerrito
+26,E.S.P. Aguas del Carmelo S.A.
+27,San Roque
+28,El Espino
+29,Operadora Distrital de Transporte S.A.S.
+30,Fuente de Oro
+31,Madrid - Cundinamarca
+32,Restrepo - Valle del Cauca
+33,Baranoa
+34,Elías
+35,Sibundoy
+37,E.S.E. Hospital Antonio Roldan la Pintada
+38,Soacha
+39,Ponedera
+40,Puerto Wilches
+41,San Juan de Arama
+42,E.S.E. Centro de Salud Giovani Cristini - Carmen de Bolívar
+44,Apulo - Rafael Reyes
+45,Barbosa - Santander
+46,E.S.P. Electrificadora Santander S.A.
+47,Chaguaní
+48,Pamplonita
+49,E.S.E. Hospital Santa Rosa - Tenjo
+50,Hato Corozal
+51,Buenavista - Quindío
+52,Fresno
+53,E.S.E. Hospital Universitario del Caribe
+54,E.S.E. San José - San Bernardo del Viento
+55,Sincelejo
+56,E.S.E. Hospital Local de Cubarral
+57,Tasco
+58,"Departamento del Archipiélago de San Andrés, Providencia y Santa Catalina"
+59,E.S.E. Bellosalud
+60,Colegio Nacional de Bacteriología
+61,El Paso
+62,E.S.E. Centro de Salud Cartagena de Indias
+63,E.S.E. Hospital Local - Mahates (Bolívar)
+64,E.S.E. Hospital San Rafael - Venecia
+65,Girardot
+66,E.S.P. Empresas del Pueblo y para el Pueblo de Gigante S.A.
+67,E.S.E. Hospital San Roque
+69,Puerto Boyacá
+70,Departamento de la Guajira
+71,E.S.E. Hospital Olaya Herrera - Gamarra
+72,E.S.E. Hospital Gustavo González - San Andrés
+73,E.S.P Empresa de Acueducto Alcantarillado y Aseo de Sampués
+74,La Plata
+76,Neiva
+78,E.S.E. Hospital Materno Infantil - Vijes (Valle)
+79,Liborina
+80,Bucarasica
+81,San Luis - Antioquia
+82,Universidad de Antioquia
+83,E.S.P. de Sácama S.A.
+84,El Guacamayo
+85,Leticia
+88,Puerto Lleras
+89,Riohacha
+90,"Somos Sistema Operativo de Movilidad, Oriente Sostenible S.A.S"
+92,San Juan de Pasto
+94,Venecia - Cundinamarca
+95,Rioviejo
+96,El Carmen de Chucurí
+97,Socha
+98,Guayabetal
+99,San Bernardo del Viento
+100,E.S.P. de Guatavita S.A.
+101,Versalles
+103,Instituto Departamental del Deporte y la Recreación de Arauca
+104,"E.S.P. Empresa Colombiana de Procesos Tecnológicos, Tecnología y Comunicaciones S.A."
+105,Terminal de Transportes de Pasto S.A.
+106,Cerinza
+107,Departamento del Cauca
+108,Departamento del Valle del Cauca
+109,E.S.E. Hospital Departamental de Villavicencio
+110,Departamento de Caldas
+111,Departamento del Atlántico
+112,E.S.E. Hospital San José - San José del Guaviare
+113,Caracolí
+114,Pereira
+115,Departamento del Meta
+116,Cabrera - Cundinamarca
+117,Norcasia
+118,Palestina - Huila
+119,Charta
+123,Turbo
+125,E.S.P Domiciliarios de Mesetas
+129,Clemencia
+130,Tangua
+131,Saladoblanco
+133,Colegio Mayor de Antioquia
+134,Megabus S.A.
+135,Departamento del Huila
+138,Guaitarilla
+140,La Primavera
+143,Intervial Colombia S.A.S.
+144,Vetas
+145,E.S.E. Hospital San Antonio - Caramanta
+146,Chiscas
+147,Luruaco
+148,La Gloria
+149,E.S.E. Hospital Departamental Intercultural Renacer
+151,"Instituto Municipal de Cultura, Recreación y Deporte de Zipaquirá"
+153,Funza
+154,Villarrica - Tolima
+155,Corporación Salud U.N
+156,Guamal - Magdalena
+158,Risaralda
+159,Aquasibundoy S.A E.S.P
+160,La Uribe
+163,Zapatoca
+165,El Cocuy
+166,Granada - Meta
+168,Instituto de Tránsito y Transporte de Sogamoso
+169,Guaranda
+170,E.S.E. Hospital Regional de Miraflores
+171,Labranzagrande
+172,Guacamayas
+173,Mesitas del Colegio
+174,Mitú
+176,Instituto Departamental de Bellas Artes
+178,Iles
+179,La Palma
+182,Empresa de Tecnología y Servicios Alborada - Empresa Industrial y Comercial del Estado EICE
+184,E.S.P. Empresa de Servicios Públicos de Falán S.A.S.
+186,Chimichagua
+188,Bosconia
+189,Silvia
+192,El Calvario
+193,Nilo
+196,E.S.E. Primer Nivel Granada Salud
+197,E.S.E. Hospital Piloto Jamundí
+203,E.S.P. Empresa de Servicios Públicos Domiciliarios Paratebueno
+205,Coromoro
+206,E.S.E. Hospital Santa Catalina de Sena de Sucre
+208,Servicios Postales Nacionales S.A.
+209,E.S.E. Hospital San Antonio - Roldanillo (Valle)
+210,Envigado
+211,Roncesvalles
+213,Corporación para el Desarrollo Sostenible del Sur de la Amazonía
+215,Cisneros
+216,Filadelfia
+217,Departamento del Tolima
+218,San Antonio de Palmito
+219,E.S.E. Hospital Local de San Carlos de Guaroa
+220,Santa Rosa de Viterbo
+221,Calamar - Guaviare
+222,Venecia - Antioquia
+224,Ventaquemada
+225,Puerto Tejada
+226,El Zulia
+227,Puerto Parra
+229,E.S.P. Electrificadora del Meta S.A.
+230,Instituto de Cultura y Patrimonio de Antioquia
+232,San Miguel - Putumayo
+233,Anolaima
+235,Instituto de Salud de Bucaramanga
+236,Sucre - Cauca
+237,Departamento del Quindío
+239,Condoto
+240,Tumaco
+242,Cumaribo
+243,Pandi
+245,Tona
+246,Medina
+248,Maceo
+250,Valdivia
+252,Sitionuevo
+253,E.S.E. Hospital de San Onofre
+254,Pauna
+255,Ebéjico
+259,Mercaderes
+261,Sabanagrande
+262,San Carlos de Guaroa
+264,Empresas Públicas de Puerto Nare
+266,Santiago - Putumayo
+268,San José - Caldas
+269,E.S.E. Hospital de Orito - Orito
+274,Providencia
+276,Uramita
+277,Guatavita
+278,E.S.P. Acueducto Regional Costero Arcos S.A.
+279,El Dorado
+280,E.S.P. Aguas de Malambo S.A.
+281,Caja de Vivienda Popular
+282,Tello
+283,E.S.E. Hospital de la Vega
+284,E.S.E. Hospital Regional San Marcos - Sucre
+292,La Apartada
+293,Instituto para el Desarrollo de Antioquia
+295,Departamento de Casanare
+298,La Capilla
+301,San Lorenzo
+305,Cerrito
+306,Muzo
+307,Simijaca
+310,E.S.E. Hospital San Antonio - Herveo
+311,Subachoque
+312,Ortega
+314,Instituto Departamental de Deportes del Guaviare
+315,María la Baja
+319,E.S.E. Hospital San Juan de Dios - Valdivia
+320,Santa Rosa de Osos
+321,Santo Domingo
+322,E.S.E. Hospital San Camilo de Celis - Vegachi
+323,Armenia - Antioquia
+324,Boavita
+325,Pacho
+327,El Pital
+329,Cunday
+330,Guasca
+332,E.S.P. Empresas Municipales de Cali E.I.C.E
+333,Argelia -  Cauca
+334,Guaca
+335,Vista Hermosa
+338,Andes
+339,Cámara Comercio de Arauca
+340,Simacota
+341,San Pelayo
+342,Cantagallo
+344,Iquira
+345,Institución Prestadora de Servicios de Salud Arístides Fernández Isabella del Municipio de Cepitá
+346,Instituto Municipal de Cultura y Turismo de Tenjo
+347,E.S.E. Hospital Regional San Juan de Dios - Rionegro
+350,La Calera
+354,Ubalá
+358,San Francisco - Antioquia
+359,Cumbal
+361,Ospina
+365,Sabanalarga - Antioquia
+367,E.S.E. San Sebastian del Municipio de La Plata - Huila
+368,E.S.P. Domiciliarios de Valparaiso S.A.S.
+370,Departamento de Sucre
+373,Guachucal
+374,E.S.E. Hospital Local - Guamal
+377,Pitalito
+378,Bucaramanga
+379,Morales - Cauca
+381,Cajamarca
+382,Baraya
+387,E.S.E. Centro de Salud de Usiacurí
+392,Istmina
+395,Villanueva - Casanare
+398,E.S.E. Manuel Castro Tovar - Pitalito
+400,Dabeiba
+401,E.S.E. Hospital San Félix - La Dorada
+404,Argelia - Valle del Cauca
+405,E.S.E. Norte 3
+407,E.S.E. Hospital - San Martín
+408,E.S.P. de Puerto Triunfo S.A.
+412,Urrao
+415,Betulia - Antioquia
+418,Duitama
+419,Talaigua Nuevo
+420,Colmena Seguros S.A.
+422,E.S.E Hospital San Vicente de Paul - Salento
+423,E.S.P. de Colombia Huila S.A.S.
+425,Santa Ana
+426,Arauca
+427,Macaravita
+430,Sociedad de Televisión de las Islas
+431,El Roble
+433,Guadalupe - Antioquia
+434,Pedraza
+438,Buesaco
+439,La Cruz
+440,E.S.E. Centro de Salud de Polonuevo
+441,Yumbo
+442,Nobsa
+444,Jamundí
+445,Empresa Municipal de Servicios Públicos de Granada
+446,Carmen de Carupa
+450,Instituto para el Fomento del Deporte de Barrancabermeja
+451,Lérida
+453,Barrancominas
+456,Suaza
+458,Puerto Colombia
+459,Universidad del Cauca
+461,Riosucio - Caldas
+463,Salgar
+464,San Bernardo - Cundinamarca
+468,Universidad de Caldas
+470,Fosca
+471,E.S.E. Centro de Salud - San Pedro Sucre
+472,Hispania
+474,Puerto Salgar
+477,Tuta
+487,E.S.E. Hospital Civil Regional - Ipiales
+489,Universidad de Sucre
+494,Asociación Agroempresarial de Municipios del Sur Occidente del Departamento del Huila
+495,El Rosario
+498,Neira
+501,Prado
+503,I.P.S. Centro de Salud Ucatá - Charta Santander
+507,Instituto Departamental de Deportes de Córdoba
+509,Servicios Públicos de Puerto Gaitán - Meta
+511,E.S.E. Camu del Municipio de La Apartada
+514,Terminal de Transportes de Armenia S.A.
+518,Cogua
+521,Canal Regional de Televisión del Caribe Ltda.
+523,Paicol
+524,E.S.P. Empresa de Aseo de Bucaramanga S.A.
+525,Victoria
+526,E.S.E. Hospital San Vicente de Paul - Nemocón
+528,Interconexión Eléctrica S.A.
+529,Departamento de Antioquia
+531,E.S.E. Hospital San Juan de Dios - Riosucio
+533,U.A.E. De Salud de Arauca
+534,Firavitoba
+535,Departamento de Cundinamarca
+539,San Eduardo
+540,Toledo - Antioquia
+541,Palermo
+545,Suaita
+546,San Cayetano - Norte de Santander
+547,Tibacuy
+548,E.S.E. Centro de Salud - Nuevo Colón
+551,Silvania
+552,San Pedro de Cartago
+553,E.S.P. Servicios Públicos Domiciliarios de Altamira S.A.
+554,E.S.E Hospital Local Juan Hernando Urrego - Aguazul
+557,Departamento del Cesar
+559,San Marcos
+563,Juradó
+565,Yacopí
+568,Marinilla
+572,Instituto Municipal de Deportes de Carepa
+573,Balboa - Cauca
+575,E.S.E. Centro de Salud Ricardo Acosta - Palocabildo
+576,Isnos
+577,E.S.E. Hospital San Martín
+579,E.S.E. Red de Salud del Oriente
+583,"E.S.P. Empresa de Acueducto, Alcantarillado y Aseo de Guadalupe S.A."
+593,Salamina - Magdalena
+595,"E.I.C.E. del Orden Municipal, Denominada Empresa Municipal de Maquinaria, Transporte y Servicios"
+596,Empresa de Obras Sanitarias de la Provincia de Obando
+597,Ubaque
+601,Palmira
+602,Quetame
+604,E.S.E. Hospital Local de Tauramena
+605,E.S.E. Hospital San Roque de el Copey
+606,Universidad del Pacífico
+607,El Molino
+609,Albania - Santander
+611,Fonseca
+612,Girardota
+615,E.S.E. Hospital La Divina Misericordia de Magangué
+621,Olaya
+622,E.S.P. Retirar - El Retiro
+624,Camara de Comercio de Casanare
+625,Colegio Mayor del Cauca
+626,EPM Inversiones S.A.
+629,Betulia - Santander
+630,Sogamoso
+633,Cumaral
+636,Chámeza
+638,E.S.E. Hospital San Juan de Dios - Segovia
+642,Caloto
+650,Santiago - Norte de Santander
+651,E.S.E. Hospital San Camilo
+662,E.S.P. de Lejanías - Meta
+664,E.S.P. Serviteatinosamaca S.A.
+665,Casabianca
+667,Concordia - Antioquia
+670,Fondo Regional de Garantías de Nariño S.A.
+672,Viterbo
+675,Molagavita
+676,Somondoco
+681,E.S.E. Centro de Salud de Fosca - Cundinamarca
+683,E.S.P. del Valle del Guamuez S.A.
+686,Uribia
+687,Departamento de Risaralda
+689,"E.S.E. Assbasalud - Atención en Seguridad Social, Bienestar y Salud"
+691,Margarita
+692,Empresas Municipales de Cartago
+694,E.S.P. Aguas de Manizales S.A. - BIC
+695,E.S.E. Hospital Juan Pablo II - Aratoca (Santander)
+699,San Pedro de los Milagros
+704,Tenza
+706,Cota
+707,Sistemas Inteligentes en Red S.A.S.
+708,La Tebaida
+713,Hato
+714,Piedecuesta
+716,El Retiro
+718,Universidad de los Llanos
+719,La Sierra
+721,Puerto Nare (La Magdalena)
+722,Villanueva - Santander
+724,Santa Fe de Antioquia
+726,Fondo de Fomento de Leguminosas de Grano
+730,La Macarena
+736,Barbosa - Antioquia
+737,Sorteo Extraordinario de Colombia Ltda.
+738,E.S.E. Hospital Erasmo Meoz
+741,San Francisco -  Cundinamarca
+744,Puerres
+746,Cartago
+747,Santuario - Risaralda
+749,Tauramena.
+753,E.S.P. Empresa Municipal de Natagaima
+754,E.S.E. Hospital Local de Malambo
+755,Toledo - Norte de Santander
+757,Arroyohondo
+758,Empresa de Vivienda de Antioquia - VIVA
+759,E.S.P. Caribemar de la Costa S.A.S.
+760,Salento
+761,Nocaima
+762,E.S.E. Red Salud Casanare
+763,Florencia - Cauca
+765,Barichara
+766,Instituto Colombiano de Ballet Clásico
+768,Instituto Nacional de Formación Técnica Profesional Humberto Velásquez García
+771,E.S.E. Hospital Local - Turbaco
+772,Peque
+779,Cerro de San Antonio
+780,E.S.E. Hospital Local de Algarrobo
+782,E.S.E. Hospital Fronterizo - La Dorada
+786,E.S.E. Hospital Departamental María Inmaculada - Florencia Caquetá
+791,E.S.E. Hospital Local Municipio de Los Patios
+794,E.S.E. Hospital San Juan de Dios - Armenia
+798,E.S.P. Transelca S.A.
+800,Villa de Leyva
+813,Enciso
+815,E.S.E. Cayetano María de Rojas
+816,Puerto Triunfo
+821,Instituto de Cultura y Turismo de Manizales
+822,Los Andes (Sotomayor)
+823,E.S.E. Centro de Salud - La Candelaria
+824,U.A.E. de Catastro Distrital
+825,E.S.E. Centro de Salud de Tausa
+826,Orito
+827,E.S.E. Hospital Eduardo Arredondo Daza - Valledupar
+831,E.S.P. Aguas del Bagre S.A.
+833,E.S.P. Empresa de Obras Sanitarias de Caldas Ltda.
+835,Teorama
+836,Marmato
+839,E.S.P. Aguas y Aseo de Subachoque S.A.
+844,San Juan de Betulia
+847,Chinavita
+848,Cucaita
+850,E.S.P. Aguas Regionales EPM
+853,Rivera
+855,E.S.E. Hospital Francisco Valderrama - Turbo
+856,E.S.E. Centro de Salud - Ovejas
+860,Mogotes
+871,Oporapa
+873,Palocabildo
+875,E.S.E. Centro de Salud de Santana
+876,Departamento de Santander
+882,Quipile
+885,La Peña
+886,E.S.E. Hospital Atrato Medio Antioqueño - Vigía del Fuerte
+887,E.S.E. Hospital Local de Remolino
+888,Tame
+889,Tipacoque
+898,Guaduas
+902,Empresas de Parques y Eventos de Antioquia- Activa
+904,Armenia
+907,Paz de Ariporo
+908,Tausa
+909,E.S.E. Hospital San Rafael - Girardota
+910,Santa Isabel
+911,Pensilvania
+914,E.S.P. Aguas y Aseo de Risaralda S.A.
+917,Sasaima
+919,I.P.S. Indígena Pública The Wala
+920,Remolino
+921,Vianí
+925,Empresa de Acueducto y Alcantarillado del Municipio de San Gil
+926,Aranzazu
+927,Instituto de Movilidad y Transporte de Tame - Arauca
+929,Fondo de Fomento Algodonero
+930,Argelia - Antioquia
+931,E.S.P. Empresa de Acueducto y Alcantarillado - Mosquera
+933,La Mesa
+938,Sabana de Torres
+940,Empresa de Transporte del Tercer Milenio Transmilenio S.A.
+941,Universidad de Cartagena
+942,Campo de la Cruz
+950,E.S.E. Empresa Social del Estado Hospital San Antonio - Anolaima
+952,E.S.P. Sociedad de Acueducto y Alcantarillado de Buenaventura S.A.
+954,Universidad del Valle
+956,Instituto Financiero del Norte de Santander
+958,E.S.E. Carmen Emilia Ospina
+963,El Paujil
+964,Pachavita
+971,Segovia
+973,"Barranquilla, Distrito Especial, Industrial y Portuario"
+977,Socorro
+982,U.A.E. de Pensiones del Departamento de Cundinamarca
+983,Ayapel
+985,Instituto de Cultura y Turismo de Ventaquemada
+991,Canal Capital
+992,E.S.P. Empresa de Servicios Varios
+994,E.S.E. Centro de Salud de Los Andes
+995,San Miguel de Mocoa
+996,E.S.P. Empresas Públicas de Recetor S.A.S.
+997,Ecopetrol S.A.
+1001,E.S.P del Municipio de Andes S.A
+1003,Empresa de Desarrollo Sostenible del Oriente
+1007,E.S.P. Tocagua
+1025,Oleoducto Central S.A.
+1030,El Guamo - Tolima
+1031,E.S.P. Aguas de Cartagena S.A.
+1034,E.S.E. Hospital Sagrada Familia - Campamento
+1039,Manaure
+1043,La Estrella
+1046,E.S.E. Hospital San José - Becerril
+1047,Empresa para la Seguridad Urbana
+1048,E.S.E. San Juan de Betulia
+1049,Francisco Pizarro (Salahonda)
+1051,E.S.E. Hospital Regional de Sogamoso
+1052,E.S.E. Hospital San Rafael de Matanza
+1053,Coello
+1055,E.S.P. Nuestro Aseo
+1056,Natagaima
+1061,Mesetas
+1062,Circasia
+1067,E.S.E. Hospital - Guachucal
+1072,Villa Rica - Cauca
+1081,Valledupar
+1083,Briceño - Antioquia
+1085,Trujillo
+1086,E.S.E. Hospital San Antonio - Natagaima
+1088,Ansermanuevo
+1092,E.S.P. Los Palmitos S.A.
+1095,Medio San Juan
+1097,Remedios
+1099,E.S.E. Hospital Horacio Muñoz Suescún - Sopetrán
+1100,El Bagre
+1102,Santa Rosa del Sur
+1103,Cabuyaro
+1104,E.S.P. Promotora Miel II S.A.S.
+1105,E.S.P. Empresa Caucana de Servicios S.A.
+1108,Granada - Cundinamarca
+1110,Universidad Francisco de Paula Santander
+1112,Universidad Nacional Abierta y a Distancia
+1113,Instituto Municipal de Cultura y Turismo de Bucaramanga
+1114,Departamento del Putumayo
+1118,C.P.G.A. del Centro Oriente del Huila
+1122,Soledad
+1125,E.S.E. Hospital Departamental Mario Correa Rengifo - Cali
+1128,E.S.P. Enviaseo
+1133,"E.S.P. Empresa de Acueducto, Alcantarillado y Aseo del Espinal"
+1135,E.S.E. Centro de Salud Luis Lanceros - Coper
+1136,Candelaria - Valle del Cauca
+1142,Pueblorrico - Antioquia
+1144,E.S.E. Hospital San Rafael - Andes
+1147,E.S.P. Aguas del Pore S.A.
+1149,Becerril
+1150,Campoalegre
+1151,E.S.E. Hospital Local - San Pablo
+1155,Arjona
+1156,Turbaco
+1159,Tarso
+1165,La Virginia
+1170,Arboleda - Berruecos
+1173,Departamento del Norte de Santander
+1175,Caldas - Antioquia
+1177,Frontino
+1182,Pesca
+1185,E.S.P. Empresas Públicas de La Pintada S.A.
+1186,La Belleza
+1193,Ancuya
+1199,E.S.E. Hospital Local de Campo de La Cruz
+1201,Sutatausa
+1202,Agua de Dios
+1203,E.S.P. Empresas Públicas de Tesalia S.A.
+1206,Cucutilla
+1212,E.S.E. Hospital San Agustín - Puerto Merizalde (Buenaventura)
+1215,E.S.E. Hospital Local Nueva Granada
+1216,Hotel Guadalajara de Buga
+1217,E.S.E. Hospital el Buen Samaritano - La Cruz
+1219,San Miguel - Santander
+1224,Fondo Rotatorio de la Vivienda - Industria Licorera de Caldas
+1226,Capitanejo
+1227,E.S.E. Hospital San Lorenzo - Liborina
+1230,Algeciras
+1237,Betania
+1240,E.S.E. Centro de Salud de Togüí
+1250,El Castillo
+1253,San Pedro - Valle del Cauca
+1260,Corozal
+1263,Siachoque
+1264,La Argentina
+1269,E.S.E. Hospital Santa Isabel - Gómez Plata
+1278,Chitaraque
+1281,E.S.E. Hospital el Socorro - San Diego
+1282,E.S.E. Hospital Local Santa Catalina de Alejandría
+1284,Industria Licorera del Valle del Cauca
+1288,El Banco
+1289,Linares
+1302,Lebrija
+1305,Saravena
+1308,Honda
+1309,El Agrado
+1312,Santa Rosa de Cabal
+1313,Sardinata
+1315,Aguazul
+1318,Fondo de Fomento Arrocero
+1319,San Juanito
+1321,E.S.E. Hospital San Rafael - San Luis
+1322,Institución Prestadora de Servicio de Salud Indígena Guaitara
+1327,E.S.P. de Baraya
+1332,Gama
+1334,E.S.E. Centro de Salud de Yacuanquer
+1335,Taraira
+1337,Transcaribe S.A.
+1338,E.S.E. Camu de Pueblo Nuevo
+1342,Achí
+1347,Taminango
+1349,La Uvita
+1350,Departamento del Vichada
+1358,E.S.P. Domiciliarios de Puerres
+1359,I.P.S.I. Centro Integral de Salud
+1361,Villavieja
+1366,Tenjo
+1372,San Juan Nepomuceno
+1375,Jenesano
+1376,E.S.E. Salud Sogamoso
+1378,Une
+1388,Yacuanquer
+1400,Tota
+1408,Unidad Ejecutora de Saneamiento del Valle del Cauca
+1409,Central de Abastos de Bucaramanga S.A.
+1413,Agustín Codazzi
+1416,E.S.E. Centro de Salud Hermana Gertrudis de Aguada
+1422,Vergara
+1423,E.S.E. Centro Hospital de La Florida
+1424,Nimaima
+1425,Universidad Industrial de Santander
+1426,E.S.E. Hospital Departamental Hernando Moncaleano Perdomo - Neiva
+1431,Empresa Descentralizada Plaza de Mercado Cubierto - Socorro
+1435,Zambrano
+1437,Caicedonia
+1438,I.P.S. Centro de Salud de Encino
+1442,E.S.E. Manuel Elkin Patarroyo del Municipio de Otanche
+1444,Universidad de Cundinamarca
+1451,Empresa de Desarrollo Urbano de Armenia
+1452,Samaniego
+1453,Aldana
+1459,Terminal de Transportes de Pitalito S.A.
+1467,Manizales
+1469,Fiduciaria Agraria S.A.
+1470,E.S.E. Hospital Local de Cicuco
+1471,Tibasosa
+1473,San Francisco - Putumayo
+1477,Empresa Social del Estado Centro de Salud Santa Rita de Casia
+1483,Chivolo
+1490,Villavicencio
+1495,Pueblo Nuevo
+1496,Yarumal
+1508,Caimito
+1521,Hospital San Francisco - San Luis de Gaceno
+1522,Instituto Universitario de la Paz
+1523,La Salina
+1524,Empresa de Acueducto y Alcantarillado - Corinto
+1526,Puerto Caicedo
+1528,San Vicente Ferrer
+1542,El Tambo - Cauca
+1546,Trinidad
+1548,Suesca
+1554,Marulanda
+1568,Urumita
+1570,Dosquebradas
+1572,Yopal
+1573,Garagoa
+1575,Industria Licorera de Caldas
+1576,E.S.P. Domiciliarios de Sabanalarga S.A.
+1580,E.S.P Empresa de Acueducto y Alcantarillado de Pereira S.A.S
+1583,Cotorra
+1586,Chaparral
+1595,Medio Atrato
+1597,Zarzal
+1607,E.S.E. Hospital San Vicente de Paul - Remedios
+1611,Cumbitara
+1613,La Ceja del Tambo
+1614,Ginebra
+1628,Aguachica
+1631,Paime
+1633,Fredonia
+1635,Confines
+1637,E.S.P. Gecelca 3 S.A.S.
+1639,E.S.E. Barrancabermeja
+1640,Departamento del Amazonas
+1641,E.S.E. Hospital San Rafael - Oiba
+1642,El Retorno
+1646,E.S.E. Centro de Salud San Juan Bosco - La Llanada
+1647,Sutatenza
+1649,Mosquera - Cundinamarca
+1651,Melgar
+1653,Colombia
+1656,E.S.E. Hospital Sagrada Familia - Toro (Valle)
+1661,San Benito Abad
+1672,Lenguazaque
+1674,E.S.P. de Restrepo Agua Viva S.A.
+1679,Pailitas
+1684,San Juan de Urabá
+1685,Pueblo Rico - Risaralda
+1697,E.S.E. Hospital San Juan de Dios - Marinilla
+1703,E.S.P. Empresa Municipal de Acueducto Alcantarillado y Aseo del Municipio de San Benito ABAD-SUCRE S.A ESP Aguas de San Benito ABAD S.A.
+1706,E.S.P. de Giraldo S.A.
+1712,Hospital Sagrado Corazón de Jesús - El Charco
+1713,E.S.E. Hospital Regional de Duitama
+1717,Zetaquira
+1719,Leiva
+1721,Empresa Municipal de Servicios Públicos de Villa de Leyva
+1725,E.S.E. Hospital San Juan de Dios - Honda
+1730,La Victoria - Valle del Cauca
+1734,Acevedo
+1735,Pelaya
+1737,E.S.E. Hospital Hilario Lugo - Sasaima
+1742,Fondo de Desarrollo Social de El Retiro
+1752,Reforestadora Integral de Antioquia S.A.
+1754,Ambalema
+1757,Filandia
+1765,E.S.E. Centro de Salud Juan Soleri
+1768,Fondo Municipal de Vivienda de Armenia
+1776,Barrancabermeja
+1778,E.S.P. Empresa de Telecomunicaciones de Ipiales S.A.
+1780,E.S.P. Servicios Públicos de Puerto López S.A.
+1782,Empresa de Transporte Masivo de Cali S.A.
+1784,Tierralta
+1786,E.S.E. Centro de Salud Caimito
+1801,Fondo Nacional de la Panela
+1804,Arboletes
+1805,Valle del Guamuez (La Hormiga)
+1810,E.S.E. Hospital Sagrado Corazón de Jesús - Briceño
+1814,Bomberos de Bucaramanga
+1820,Sora
+1837,Juan de Acosta
+1838,E.S.E. Camu de los Córdobas
+1848,Obando
+1851,Puebloviejo
+1853,E.S.E. Departamental de Primer Nivel
+1855,Icononzo
+1856,Empresa de Acueducto y Alcantarillado de Santander de Quilichao
+1862,"Instituto Municipal de Deporte, Cultura, Recreación y Turismo de Sabana de Torres"
+1863,Valle de San Juan
+1865,E.S.P. Ituango S.A.
+1866,Departamento del Magdalena
+1870,Pasca
+1874,E.S.E. Suroccidente
+1875,E.S.E. Hospital Local de Concordia
+1880,Guateque
+1889,Coper
+1890,Santa Cruz de Lorica
+1891,Bochalema
+1892,Oiba
+1902,Ragonvalia
+1907,E.S.E. Red de Salud de Ladera de Santiago de Cali
+1910,E.S.E. Hospital Luis Ablanque de la Plata - Buenaventura
+1912,Guadalupe - Santander
+1917,E.S.P. de San Pedro de Cartago S.A.
+1923,E.S.E. Hospital San Francisco de Viotá
+1924,Guadalajara de Buga
+1935,E.S.E. Hospital San José de Maicao del Nivel II
+1937,Palmar
+1942,Asociación de Municipios Pueblos de Occidente
+1945,Consejo Nacional de Trabajo Social
+1956,Empresa de Desarrollo Urbano
+1959,El Cerrito
+1969,Alvarado
+1970,Montecristo
+1971,E.S.E. Hospital Manuel Elkin Patarroyo - Santa Rosa del Sur
+1986,"E.S.P. Empresa de Acueducto, Alcantarillado y Aseo de San Alberto S.A."
+1989,Universidad Militar Nueva Granada
+1998,San Antonio del Tequendama
+1999,E.S.P. Empresa de Acueducto y Alcantarillado y Aseo de Madrid
+2000,El Carmen
+2003,"E.S.P. Empresa de Acueducto, Alcantarillado, Aseo y Servicios Complementarios de Otanche S.A.S."
+2010,Bugalagrande
+2014,E.S.E. Hospital Francisco Canosa - Pelaya
+2024,Castilla la Nueva
+2028,Aracataca
+2037,Departamento de Arauca
+2046,Aguadas - Caldas
+2052,Sabaneta
+2055,E.S.E. Hospital Baudilio Acero
+2072,Contadero
+2080,El Doncello
+2086,E.S.E. Centro de Salud Con Cama Vitalio Sara Castillo - Soplaviento
+2096,Instituto Municipal del Deporte
+2099,E.S.E. Hospital San Cayetano - Marquetalia
+2105,E.S.E. Hospital Nuestra Señora de Guadalupe
+2107,Pore
+2118,Paya
+2119,Lourdes
+2120,Ataco
+2125,Heliconia
+2133,Chivor
+2136,Instituto Departamental de Deportes del Tolima
+2145,Belmira
+2149,E.S.E. Hospital Local - Santa Bárbara de Pinto
+2151,Agencia Nacional de Infraestructura
+2161,E.S.E. Hospital Materno Infantil Ciudadela Metropolitana - Soledad
+2168,E.S.P. Aguas de Villahermosa S.A.S.
+2173,Sabanalarga - Casanare
+2184,Piamonte
+2185,El Carmen de Viboral
+2189,Curipa E.S.P de San Joaquin AAA S.A.S
+2190,Junta de Deportes Copacabana
+2197,Miranda
+2201,Matanza
+2210,E.S.E. Hospital Planadas
+2211,Floridablanca
+2215,Puente Nacional
+2220,E.S.E. Centro 2- Rosas
+2231,Alpujarra
+2237,Copacabana
+2242,Puerto Concordia
+2254,Corrales
+2260,Sociedad de Acueducto y Alcantarillado del Valle del Cauca
+2261,Morroa
+2279,La Tola
+2284,Empresa Inmobiliaria de Cundinamarca
+2288,Guarne
+2296,Rioblanco
+2298,E.S.P. Empresa Municipal de Aguas y Aseo de la Merced S.A.S.
+2305,San Pablo de Borbur
+2316,Granada - Antioquia
+2318,Encino
+2324,Rionegro - Santander
+2325,Casa Municipal de la Cultura de Caldas
+2328,Los Palmitos
+2331,E.S.E. Luisa Santiaga Marquez Iguaran
+2338,E.S.E. Hospital San Juan de Dios de Betulia
+2345,Maicao
+2347,Cabrera - Santander
+2352,E.S.E. Hospital San Pedro Claver - Mogotes
+2357,Campohermoso
+2359,E.S.P. Red Vital Paipa S.A.
+2364,Pisba
+2367,Instituto de Cultura de Malambo
+2376,Quimbaya
+2378,Departamento del Guaviare
+2382,Supatá
+2392,Policarpa
+2402,I.P.S. Centro de Salud de Puerto Parra
+2403,Gestora Urbana de Ibagué
+2409,E.S.P. Colvatel S.A.
+2411,San Carlos -  Antioquia
+2414,Empresa de Desarrollo Urbano de la Ceja
+2416,Santo Domingo de Silos
+2420,California
+2423,Dolores
+2424,Rionegro - Antioquia
+2428,Cámara de Comercio del Huila
+2430,E.S.E. Hospital Local - Baranoa
+2434,E.S.E. Red de Salud del Norte
+2442,El Carmen de Atrato
+2446,E.S.P. Empresa Municipal de Servicios Públicos de Timbío
+2448,E.S.E. Salud Aquitania
+2452,La Vega - Cundinamarca
+2458,E.S.E. Hospital Integrado San Antonio - Puente Nacional
+2462,E.P.S. Suramericana S.A.
+2467,Metroparques E.I.C.E
+2473,Ocamonte
+2475,Fondo Municipal de Tránsito y Transporte de Magangué
+2478,"E.S.P. Empresa de Acueducto, Alcantarillado y Aseo de Silvania S.A."
+2488,E.S.E. Hospital Universitario de Sincelejo
+2494,Fortul
+2495,Rosas
+2504,Cubarral
+2507,E.S.E. Hospital Santander - Caicedonia
+2522,Marsella
+2530,Galapa
+2531,E.S.E. Hospital San Juan de Dios - Pamplona
+2532,Mutiscua
+2535,Cachipay
+2536,La Paz - Santander
+2540,E.S.E. Hospital San Bartolomé - Murindó
+2554,Tibirita
+2566,Administradora de los Recursos del Sistema General de Seguridad Social en Salud - Unidad Recursos Administrados
+2567,Barbacoas
+2578,E.S.P. Aguas del Socorro S.A.
+2582,Toca
+2586,La Florida
+2587,E.S.P. De Caloto
+2593,Empresa de Desarrollo Urbano y Medio Ambiente de Soledad S.A.
+2594,Universidad del Magdalena
+2595,E.S.E. Hospital San Bernabé - Bugalagrande
+2600,Villacaro
+2607,Chipaque
+2623,Vijes
+2624,Barranco de Loba
+2640,San Cayetano - Cundinamarca
+2642,Piedras
+2657,Buenos Aires
+2660,E.S.E. Centro de Salud El Rosario
+2662,E.S.E. Hospital San Vicente de Paul - Fresno
+2670,Arcabuco
+2684,Gamarra
+2687,La Jagua del Pilar
+2689,Imprenta Departamental del Valle del Cauca
+2691,E.S.E. Hospital de Chibolo
+2693,E.S.E. Hospital San Rafael - Pacho
+2705,Panqueba
+2706,"E.S.P. Empresa de Acueducto, Alcantarillado y Aseo -Funza"
+2712,Plato
+2717,El Cairo
+2720,Aratoca
+2727,Astrea
+2729,E.S.E. Hospital San Francisco - Peque
+2735,E.S.E. Hospital San Vicente de Paul - Onzaga
+2738,Arauquita
+2748,Instituto de Infraestructura y Concesiones de Cundinamarca
+2750,Tamalameque
+2753,E.S.E. Hospital del Perpetuo Socorro de Villavieja
+2755,E.S.E. Centro de Salud San Pablo de Borbur
+2762,Yotoco
+2767,Hospital Nuestra Señora del Rosario de Chiquinquirá del Municipio de Coello Tolima E.S.E.
+2771,Quebradanegra
+2777,Toro
+2785,E.S.P. de Santander S.A.
+2787,Instituto Municipal de Transportes y Tránsito de Maicao
+2796,E.S.E. Hospital San Roque - Pradera
+2804,Instituto Municipal de Cultura de Restrepo
+2805,Floresta
+2807,Instituto Municipal de Deportes de Venadillo
+2810,E.S.E. Hospital Local - Obando
+2837,Ecopetrol Energía S.A.S. E.S.P.
+2849,El Copey
+2855,E.S.E. Hospital San Rafael - Ebéjico
+2859,Sucre - Santander
+2870,"E.S.P. de Acueducto, Alcantarillado y Aseo de Mogotes S.A.."
+2885,Escuela Nacional del Deporte
+2889,E.S.E. Hospital Local Materno Infantil - Yotoco
+2891,Palestina - Caldas
+2903,E.S.E. Hospital Local de La Estrella
+2910,Curillo
+2912,Sociedad Hotelera Tequendama S.A.
+2920,Motavita
+2926,E.S.E. Pio X del Municipio de la Tebaida Quindío
+2928,Buenaventura
+2952,Guadalupe - Huila
+2965,San Luis de Palenque
+2973,Instituto de Cultura y Turismo de Duitama
+2977,Los Santos
+2993,Instituto de Deportes de Marinilla
+2999,Instituto Departamental de Salud de Norte de Santander
+3001,Zaragoza
+3004,"E.S.P. Empresa de Acueducto, Alcantarillado y Aseo de La Jagua de Ibirico S.A."
+3005,Florida
+3010,Los Patios
+3020,Instituto Municipal de Deportes Imdeportes - Turbo
+3029,Corinto
+3039,Regidor
+3049,E.S.E. Hospital San Rafael - Santo Domingo
+3052,Puerto Santander
+3053,E.S.E. Centro de Salud de Majagual
+3069,Tabio
+3070,Cimitarra
+3075,E.S.E. Centro de Salud Camilo Rueda  -Villanueva
+3087,E.S.E. Hospital Local de Aguachica
+3094,Terminal de Transporte S.A.
+3095,E.S.E. del Municipio de Villavicencio
+3097,E.S.E. Hospital Santa Cruz - Trujillo
+3116,Empresas Varias de Medellín
+3121,Instituto Municipal de Deportes de Villavicencio
+3125,E.S.E. Hospital Integrado San Juan de Cimitarra
+3127,Planeta Rica
+3145,Entidad Administradora de Pensiones de Antioquia
+3147,E.I.C.E. Empresa de Desarrollo Urbano y Rural de Dosquebradas - EDOS
+3150,Barrancas
+3152,E.S.E. Hospital Santa Isabel - San Pedro de los Milagros
+3163,Anapoima
+3185,Marquetalia
+3191,Central de Abastecimientos del Valle del Cauca S.A.
+3197,E.S.E. Norte 1
+3208,E.S.P. Aguas y Aseo del Macizo S.A.
+3212,E.S.P. Empresas Varias de Caicedonia
+3214,Sapuyes
+3218,Anserma de los Caballeros
+3227,E.S.E. Hospital Ismael Perdomo - Villahermosa
+3230,Paratebueno
+3232,E.S.E. Hospital Santa Matilde - Madrid
+3241,E.S.E. Sor Teresa - Adele
+3246,El Charco
+3252,San Alberto
+3259,Cravo Norte
+3265,Tenerife
+3271,Puerto Rico - Meta
+3280,San Pedro - Sucre
+3285,Instituto para la Recreación y el Deporte en el Municipio de Santa Fe de Antioquia
+3286,E.S.E. Hospital San Vicente de Paul - Mistrató
+3324,Valor + S.A.S
+3331,E.S.P. Aguas de Morrosquillo S.A.
+3333,Monterrey
+3334,E.S.P. Vallecaucana de Aguas S.A.
+3338,El Espinal
+3351,Malambo
+3353,La Jagua de Ibirico
+3358,E.S.E. Centro de Salud - San Miguel
+3362,E.S.E Subred Integrada de Servicios de Salud Sur
+3368,Campamento
+3374,Instituto de Investigaciones Ambientales del Pacífico Jhon Von Newman
+3391,Instituto de Movilidad de Pereira
+3397,E.S.E. Centro de Salud de Ricaurte
+3405,San Antero
+3414,Ulloa
+3419,Nueva Empresa Promotora de Salud S.A.
+3425,E.S.P. Aguas de Córdoba S.A.
+3427,Almeida
+3431,E.S.E. Hospital Nuestra Señora del Carmen
+3447,E.S.E. Hospital Salazar de Villeta
+3455,Hospital Santa Ana - Pijao
+3458,I.P.S. Centro de Salud de Coromoro
+3461,Ituango
+3471,E.S.E. Hospital Regional del Magdalena Medio
+3474,Coyaima
+3477,E.S.E. Hospital Luis Felipe Cabrera - Algeciras
+3492,Angostura
+3501,E.S.E. Hospital San Pablo -Tarso
+3503,E.S.E. Hospital San Roque - El Carmen de Atrato
+3525,E.S.P. Empresas Municipales de Tibasosa
+3530,Empresas Municipales de Miranda
+3533,E.S.E. Hospital Local Candelaria
+3535,E.S.E. Hospital Marco A. Cardona - Maceo
+3539,Arboledas
+3541,E.S.P. Domiciliarios de Liborina S.A.
+3555,E.S.E. Hospital Profesor Jorge Cavelier
+3563,E.S.E. Red Salud del Centro del Municipio de Cali
+3603,Empresa de Acueducto y Alcantarillado de Sincelejo
+3605,E.S.E. Hospital 7 de Agosto de Plato - Magdalena
+3613,Susa
+3616,E.S.E. Hospital Lorencita Villegas - Samaniego
+3627,Caldono
+3632,Villahermosa
+3634,Litoral del San Juan (Santa Genoveva de D.)
+3667,Miraflores - Guaviare
+3673,Agencia Nacional Inmobiliaria Virgilio Barco Vargas
+3693,E.S.E. Hospital Universitario San Rafael de Tunja
+3705,E.S.E. Hospital Local San Miguel - Olaya
+3715,Venadillo
+3729,La Equidad Seguros de Vida Organismo Cooperativo
+3734,E.S.E. Hospital San Juan de Dios - Ituango
+3752,Santander de Quilichao
+3760,E.S.P. Aguas Nacionales EPM S.A.
+3764,E.S.E. Red salud Armenia
+3769,Guamal - Meta
+3770,Terminal de Transporte de Cartagena S.A.
+3782,Salamina - Caldas
+3786,E.S.E. Centro de Salud Juan Francisco Berbeo
+3789,Cuaspud (Carlosama)
+3809,Universidad Nacional de Colombia
+3825,Momil
+3828,San Luis - Tolima
+3831,Majagual
+3832,Puerto Escondido
+3839,E.S.E. Hospital Regional de San Gil
+3853,Terminal de Transportes de Valledupar S.A.
+3876,Puerta de Oro Empresa de Desarrollo Caribe S.A.S
+3880,E.I.C.E. Amable
+3883,Terminal de Transportes de Manizales S.A E.I.C.E
+3889,Olaya Herrera (Bocas de Satinga)
+3896,Abejorral
+3903,E.S.P de Santa Fe de Antioquia S.A.S E.S.P
+3909,Empresa de Desarrollo Territorial Urbano y Rural de Risaralda
+3911,E.S.E. Hospital San Carlos - Aipe
+3915,Asociación de Municipios del Pacifico Sur - Colombia
+3929,Toluviejo
+3934,Skynet de Colombia S.A. E.S.P.
+3941,Sociedad Almidones de Sucre S.A.S
+3958,Pamplona
+3960,E.S.E. Centro de Salud de Linares - Jorge Zambrano
+3971,E.S.E. Hospital San Antonio - Betania
+3985,San Luis de Gaceno
+3990,E.S.P. Aseobando S.A.
+3995,"E.S.P. Empresa de Acueducto, Alcantarillado y Aseo de Saladoblanco S.A."
+3997,Aquitania
+4002,U.A.E Agencia para la Infraestructura del Meta
+4016,Chima - Santander
+4024,E.S.P. Aguas de Bolívar S.A.
+4041,Esenttia Masterbatch Ltda
+4061,Fondo de Vivienda Popular del Municipio de la Dorada
+4062,E.S.P. Empresa Municipal de Aseo - Floridablanca
+4063,E.S.P. Empresa de Servicios de Nobsa S.A.
+4064,E.S.P. Jaguazul S.A. - Montelibano
+4065,E.S.P CITYLUM S.A.S
+4067,Tesalia
+4073,San Benito
+4075,Instituto Departamental de Deportes del Cauca
+4082,Hospital Maria Auxiliadora Empresa Social del Estado del Municipio de Mosquera
+4095,Instituto Departamental de Cultura del Meta
+4103,Industria Licorera del Cauca
+4107,Bituima
+4164,E.S.E. Camu de Moñitos
+4165,Universidad Surcolombiana
+4168,Villanueva - Guajira
+4190,E.S.E. Cxayu Ce Jxut
+4208,Caucasia
+4210,E.S.E. Hospital San Rafael - Leticia
+4234,E.S.P. Servidolores
+4248,Salazar de las Palmas
+4289,E.S.E. Hospital Departamental San Rafael - Zarzal
+4297,Sociedad de Acueductos y Alcantarillados del Huila - Aguas del Huila S.A.
+4312,Mallama (Piedrancha)
+4315,E.S.E. Hospital Local Santa Rosa de Lima
+4318,Empresa de Desarrollo Urbano de Pereira - EDUP
+4326,Labateca
+4337,Fondo Nacional de Porcicultura
+4350,San Juan del Cesar
+4353,E.S.E. Hospital Local de Carepa
+4381,San Onofre
+4394,Hospital La Misericordia - San Antonio
+4437,Fondo Nacional de Prestaciones Sociales del Magisterio
+4448,Nueva Granada
+4451,E.S.P. de la Cruz
+4457,Instituto Departamental de Deportes de Antioquia
+4479,Empresa Comercial de Juegos de Suerte y Azar de Sucre
+4483,E.S.E. Centro de Salud los Palmitos - Sucre
+4485,Hospital San Antonio - Barbacoas
+4487,Sociedad Terminal de Transporte Terrestre de Ipiales S.A.
+4489,E.S.E. I.P.S. del Municipio de Cartago
+4490,E.S.P. de Barichara S.A.
+4503,E.S.E. San Antonio de Padua - Pinchote
+4511,San Fernando
+4522,Teruel
+4523,E.S.P. de la Calera
+4539,E.S.E. Hospital Regional Occidente - Norte de Santander
+4552,E.S.E. Centro de Salud - Cotorra
+4595,E.S.E. Pasto Salud
+4612,Cicuco
+4622,Socotá
+4631,E.S.E. Hospital Pio XII - Argelia
+4644,Morelia
+4672,San Jacinto del Cauca
+4674,Planadas
+4689,Empresa de Obras Sanitarias de Pasto
+4706,Asociación de Municipios del Centro del Departamento del Tolima
+4716,Palmar de Varela
+4730,E.S.P. Empresa de Acueducto y Alcantarillado de Silvia
+4752,E.S.E. Hospital San Antonio - Cisneros
+4762,E.S.E. Villa del Rosario
+4778,E.S.P. Aguas y Aseo de El Pital S.A.
+4781,Entidad Promotora de Salud Sanitas S.A.S.
+4788,Ovejas
+4800,Iza
+4805,Gigante
+4810,San Calixto
+4811,Hobo
+4812,Solita
+4813,Terminal de Transportes de Barranquilla S.A.
+4817,E.S.E. Metrosalud
+4824,El Dovio
+4833,Zona Bananera
+4849,Almaguer
+4853,E.S.E Subred Integrada de Servicios de Salud Sur Occidente
+4860,Manta
+4861,Sativanorte
+4876,E.S.E. Hospital Heli Moreno Blanco - Pailitas
+4879,E.S.E. Hospital Cerro de San Antonio
+4887,E.S.P Domiciliarios de el Castillo S.A
+4900,Tunja
+4909,Fondo Nacional del Ahorro
+4915,Montebello
+4929,Universidad de Pamplona
+4953,Balboa - Risaralda
+4961,E.S.P del Municipio de San Miguel S.A.
+4965,Caligen Ltda.
+4976,Mongua
+4997,Empresa de Obras Sanitarias de Taminango - EMPOTAM E.S.P
+4999,Murillo
+5039,Empresa de Vivienda y Desarrollo Urbano y Rural del Municipio de Envigado - DEsur
+5043,E.I.C.E de Mercados del Municipio de Santander de Quilichao
+5047,E.S.E. Hospital San Rafael - Albania
+5062,E.S.E. Hospital Dptal. San Juan Bautista - Chaparral
+5065,E.S.E. Centro de Salud de Guaranda - Sucre
+5066,E.S.E. Hospital de Pedraza
+5071,Mahates
+5085,Restrepo - Meta
+5086,E.S.E. Salud Dorada
+5088,E.S.E. Hospital Regional  - Granada
+5098,E.S.E. Hospital Departamental San Antonio - Pitalito
+5100,E.S.E. Hospital San Juan Bosco
+5101,E.S.P. Aguas de Barrancabermeja S.A.
+5103,Valencia
+5132,E.S.E.Camilo Trujillo Silva - Palestina
+5159,San Diego
+5179,E.S.P. Acueducto Metropolitano de Bucaramanga S.A.
+5181,E.S.E. Hospital Cristo Rey - Balboa
+5197,Canalete
+5201,Flandes
+5202,El Tarra
+5213,E.S.E. Centro de Salud Camilo Hurtado Cifuentes
+5245,E.S.E. Salud Yopal
+5253,Bello
+5255,E.S.E. Hospital Municipal de El Dorado
+5261,E.S.P Aguas la Cristalina S.A
+5274,E.S.E. Centro de Salud San Juan de Dios - El Pital
+5286,Instituto Distrital de las Artes
+5288,E.S.P. Sociedad Aguas de Arcabuco S.A.
+5303,Procolombia
+5310,E.S.E. Hospital San Rafael - Pueblorrico
+5318,Central de Transportes de Santa Marta Ltda.
+5319,Junta Municipal de Deportes - San Francisco
+5325,E.S.E. Hospital Santa Catalina - El Cairo
+5347,Empresa Colombiana de Productos Veterinarios S.A.
+5358,E.S.E Subred Integrada de Servicios de Salud Centro Oriente
+5359,Consejo Nacional de Arquitectura
+5375,Beneficencia de Cundinamarca
+5389,Cuerpo Oficial de Bomberos - Dosquebradas
+5391,E.S.E. Hospital San Vicente de Paul - Santa Rosa de Cabal
+5395,E.S.E. Hospital Local Municipal de Hobo - Huila
+5398,E.S.E. Centro Hospital San Luis - El Tambo
+5417,E.S.P. de Herveo S.A.
+5425,La Llanada
+5427,Pajarito
+5461,E.S.E. Hospital Local la Candelaria - Rioviejo
+5480,Pinchote
+5528,Onzaga
+5546,Instituto Municipal de Vivienda de Yumbo
+5574,E.S.E. Hospital Mental - Filandia
+5582,Sevilla
+5607,Hospital San Carlos - Saldaña
+5630,Instituto Municipal de Vivienda y Reforma Urbana de Zarzal
+5633,Tiquisio
+5652,Axa Colpatria Seguros de Vida S.A.
+5683,Algarrobo
+5702,E.S.P. Empresa de Servicios de Curillo S.A.
+5730,Empresa de Transporte de Bucaramanga
+5734,E.S.E. Hospital San Rafael Nivel II
+5738,Repelón
+5746,I.P.S. Centro de Salud de Cabrera
+5755,Dagua
+5767,La Dorada
+5778,Berbeo
+5812,Solano
+5842,E.S.E. Hospital Integrado San Bernardo de Barbosa
+5843,E.S.E. Centro de Salud de Paya
+5854,Junta Municipal de Deportes de Ricaurte - Cundeportes
+5861,Internexa S.A.
+5876,Beneficencia del Valle del Cauca
+5910,Buenavista - Sucre
+5914,Soplaviento
+5916,E.S.P Occidente limpio S.A.S
+5923,E.S.E. Centro de Salud de Sapuyes
+5940,Seguros de Vida Suramericana S.A.
+5948,E.S.E. Jaime Alvarado y Castilla - Arauca
+5951,Otanche
+5954,E.S.E. Hospital San Antonio - Manzanares
+5964,Instituto de Deporte y Recreación - San Juan Nepomuceno
+5997,La Cumbre
+5998,Ente Deportivo Municipal Santa Rosa de Viterbo
+6011,Giraldo
+6015,E.S.E. Hospital San Isidro - Alpujarra
+6025,E.S.E. Hospital San Rafael - Heliconia
+6037,"Ministerio de Vivienda, Ciudad y Territorio"
+6038,I.P.S.I. Supula Wayuu
+6065,E.S.E. Hospital de Sarare - Saravena
+6099,E.S.E. Hospital Local de Piedecuesta
+6102,Instituto de Patrimonio y Cultura - Cartagena de Indias
+6120,Santa Rosa Norte
+6128,E.S.P. Empresa de Acueducto Alcantarillado y Aseo del Municipio de Chalan S.A.
+6138,Instituto Municipal de Deportes de Arboletes
+6146,E.S.E. Hospital San Juan de Dios - Lebrija
+6183,Carepa
+6209,Palmas del Socorro
+6219,E.S.E. Centro de Salud Samuel Villanueva Valest - El Banco
+6225,E.S.E. Hospital Departamental Centenario de Sevilla
+6230,E.S.P. Sociedad de Aseo y Alcantarillado Serviulloa S.A.
+6248,E.S.E. Norte 2
+6267,Arenal
+6300,E.S.E. Centro de Salud San Francisco
+6327,Aguada - Santander
+6330,Chita
+6369,E.S.E. Centro de Salud la Uvita
+6377,E.S.P Domiciliarios de Acueducto Alcantarillado y Aseo de CURITI S.A.S
+6383,Fondo Cuenta de Impuestos al Consumo de Productos Extranjeros
+6388,E.S.E. Hospital Departamental San Antonio de Padua - La Plata
+6398,E.S.P. de Santo Domingo
+6399,Nutriceres S.A.S.
+6445,Empresa de Licores de Cundinamarca
+6462,"Camara de Comercio de Girardot, Alto Magdalena y Tequendama"
+6477,La Merced
+6478,Empresa Social del Estado Salud Pesca
+6490,E.S.P Empresas de Servicios Publicos de Pueblo Bello S.A.S
+6493,"E.S.P. Empresa de Acueducto, Alcantarillado y Aseo de Tenza S.A."
+6508,Recetor
+6535,Centrales de Transportes S.A.
+6536,E.S.P. Empresa de Servicios de San Marcos
+6540,E.S.P. Aguas del Magdalena S.A.
+6564,Pijao
+6567,E.S.E. Hospital San Isidro - Giraldo
+6584,E.S.E. Hospital el Carmen - Amalfi
+6601,E.S.E. Hospital Local de Tenerife
+6602,Pensiones de Antioquia - Fondo Reserva de Vejez
+6605,Instituto de Turismo de Villavicencio
+6622,E.S.E. Hospital Pedro Nel Cardona - Arboletes
+6635,E.S.E. Camu - San Pelayo
+6642,I.P.S.I. Anashiwaya
+6668,Alto del Rosario
+6679,San Gil
+6683,Hato Nuevo
+6704,E.S.E. Hospital  Francisco de Paula Santander  - Santander de Quilichao
+6710,E.S.E. Hospital Pedro Claver Aguirre - Toledo
+6718,La Vega - Cauca
+6752,E.S.E. Hospital Regional Norte
+6768,E.S.E. Santa Teresita
+6778,E.S.E Centro de Salud - Arcabuco
+6781,Promotora Ferrocarril de Antioquia S.A.S
+6783,E.S.E. Hospital de Salamina
+6786,E.S.E. Hospital Local San Benito Abad
+6825,E.S.E. Hospital San Vicente - Arauca
+6844,E.S.E. Hospital Santander Herrera  - Pivijay
+6853,E.S.E. Hospital Regional San Vicente de Paul - Caldas
+6877,E.S.E. Centro de Salud Macanal
+6887,"E.S.P. Empresa de Servicios de Acueducto, Alcantarillado y Aseo de Apulo S.A."
+6895,E.S.E. Centro de Salud Pauna - Edgar Alonso Pulido
+6952,E.S.P. Empresa de Servicios Varios la Victoria S.A.
+6981,E.S.E. Hospital Departamental San Antonio de Marmato - Caldas
+6997,E.S.E. Hospital Ricaurte
+7019,Instituto Municipal de Vivienda de Restrepo Valle
+7033,E.S.E. Hospital Local Cartagena de Indias
+7044,E.S.P. Servipuli S.A.
+7096,E.S.E. Hospital de Caldas
+7097,La Esperanza
+7104,E.S.P de Tena S.A
+7107,E.S.E. Hospital Santa Ana de los Caballeros - Ansermanuevo
+7114,E.S.E. Hospital San Vicente de Paul - San Carlos
+7124,Instituto Municipal de Deporte y Recreación - Ulloa
+7126,I.P.S. Centro de Salud San Benito
+7130,Universidad Popular del Cesar
+7158,E.S.E. Hospital San Juan de Dios - Barichara
+7186,Albania - Guajira
+7194,Comercializadora Lottired S.A.S.
+7216,Fondo Nacional de Fomento de la Papa
+7228,Padilla
+7251,E.S.E. Hospital San Bernardo - Filadelfia
+7257,Polonuevo
+7281,Instituto Municipal de Deportes - El Doncello
+7285,Instituto para el Desarrollo del Cesar
+7295,E.S.E. Hospital San Antonio
+7307,E.S.E. Centro de Salud de Norcasia
+7322,Departamento Administrativo Distrital del Medio Ambiente
+7329,E.S.E. Salud Pereira
+7330,Atrato
+7340,E.S.E. Hospital Nivel I - El Bordo
+7447,Universidad del Tolima
+7456,Rovira
+7464,E.S.E. Hospital La Inmaculada - Chimichagua
+7523,Puerto Libertador
+7547,"Instituto de Deporte,cultura y turismo de Subachoque"
+7658,E.S.E. Hospital San Rafael - Angostura
+7674,E.S.E. San Pedro de Cumbitara
+7683,E.S.E. Empresa de Salud de Soacha
+7686,Gramalote
+7704,Pradera
+7742,E.S.E. Hospital Municipal Jorge Isaac Rincon Torrez
+7802,E.S.E. Hospital - Cumbal
+7818,E.S.E. Centro de Salud San Roque - Alvarado
+7821,San Estanislao
+7832,Montenegro
+7890,Bahía Solano - Ciudad Mutis
+7894,E.S.E. Hospital de El Paso - Hernando Quintero Blanco
+7907,E.S.E. Hospital Departamental San Vicente de Paul - Aranzazu
+7997,E.S.E. Hospital Santa Ana
+8008,E.S.E. Hospital San Antonio - Montebello
+8070,I.P.S. Centro de Salud San Antonio California - Santander
+8092,E.S.E. Centro de Salud Sabanagrande
+8105,Unidad Central del Valle del Cauca
+8113,Manzanares
+8160,E.S.E. Hospital de Tamalameque
+8217,Instituto Municipal de Deportes de Malambo
+8223,E.S.E. Centro de Salud de Iles
+8227,Esenttia S.A
+8245,E.S.E. Hospital Local de San Juan Nepomuceno
+8248,E.S.E. Hospital San Vicente de Paul - Prado
+8251,San Rafael
+8319,Terminal de Transportes de Buenaventura
+8322,Fondo Nacional Cerealista
+8352,E.S.E. Hospital San Pedro - Sabanalarga
+8357,Santuario - Antioquia
+8390,E.S.P. Aguas de Buga S.A.
+8396,I.P.S.I. Karaquita
+8429,Empresa Social del Estado Santa Rosa de Lima de Paicol
+8442,I.P.S. Centro de Salud La Paz
+8491,E.S.E Subred Integrada de Servicios de Salud Norte
+8532,Instituto de Cultura y Turismo de Yopal
+8575,E.S.P. Aguas de Heliconia S.A.
+8593,Instituto Popular de Cultura
+8605,Consejo Profesional de Geología
+8612,Fondo de Vivienda Obrera de Duitama
+8657,E.S.E. Hospital Mental Rudesindo Soto
+8676,I.P.S.I. Manexka
+8703,Terminal de Transportes de Villavicencio S.A.
+8712,E.S.E. Red de Salud del Suroriente
+8720,Galeras
+8721,Instituto Municipal de Cultura y Turismo de Pradera
+8727,E.S.E. Hospital Regional San Juan de Dios - Yarumal
+8739,Empresa de Desarrollo Urbano y Rural del Municipio de Bello - EDUNORTE
+8767,E.S.E. Hospital Local de Arjona
+8810,E.S.P. Empresa Regional Aguas del Tequendama S.A.
+8834,E.S.E. Hospital Regional Noroccidental - Norte de Santander
+8836,Instituto de Vivienda Municipal de Bucaramanga
+8899,E.S.E. Suroriente - La Vega
+8946,E.S.E. Hospital Local Santa Rita de Cassia
+8956,Altamira
+8983,Macanal
+8991,Santana
+9001,E.S.E. Hospital Padre Clemente Giraldo - Granada
+9010,Museo Casa de la Memoria
+9027,E.S.E. Centro de Salud San Miguel - Arboleda
+9034,Sesquilé
+9069,Industria Militar
+9070,Pinillos
+9072,Hospital Sumapaz - Icononzo
+9111,"E.S.P. Empresa de Acueducto, Alcantarillado y Aseo - La Vega"
+9146,Empresa Municipal de Servicios de Santuario
+9202,San Miguel de Sema
+9256,Central de Inversiones S.A.
+9280,Pupiales
+9304,E.S.E. Centro de Salud Funes
+9309,Hospital Integrado de Sabana de Torres - Santander
+9326,E.S.E. Hospital Santa Ana de Muzo
+9327,UNE EPM Telecomunicaciones S.A.
+9361,San Antonio
+9362,E.S.E. Hospital San Francisco - Villa de Leyva
+9371,Empresa de Desarrollo Urbano Piedemonte EICM.
+9415,E.S.E. Centro de Salud Con Camas de Montecristo
+9420,Empresa Constructora de Vivienda de Tunja
+9427,E.S.E. Hospital San Vicente de Paul
+9453,E.S.E. Centro de Salud - Buenavista
+9516,E.S.E. Centro de Salud - Chitaraque
+9579,E.S.E. Hospital San Juan de Dios - Pensilvania
+9594,E.S.E. Hospital San Vicente de Paul - Paipa
+9610,E.S.P. Agua Rica AAA S.A.
+9616,E.S.E. Hospital San Pedro y San Pablo - La Virginia
+9619,Empresa Municipal para la Salud
+9625,"E.S.P. Empresa de Acueducto, Alcantarillado y Aseo de Ovejas - Sucre"
+9635,E.S.P. de Policarpa S.A.
+9668,Imprenta Nacional de Colombia
+9729,Instituto de Fomento para el Desarrollo de Risaralda
+9734,E.S.E. Hospital Nazareth - Uribia
+9867,Central Terminal de Transportes de Maicao S.A.
+9877,Sucre - Sucre
+9878,Villa del Rosario
+9965,E.S.E. Hospital Santa Margarita - Copacabana
+9970,E.S.E. Hospital San Rafael - Dolores
+9986,Instituto Financiero de Casanare
+9988,E.S.E. San Isidro - Tona
+10060,E.S.E. Hospital San Vicente de Paul - Lorica
+10093,La Pintada
+10167,Empresa de Desarrollo Urbano de Barranquilla S.A.
+10205,E.S.E. Centro de Salud Firavitoba
+10240,Herveo
+10268,Infotic S.A.
+10365,E.S.E. Centro de Salud San Bernardo
+10367,E.S.E. San Jorge - Ayapel
+10469,E.S.E. Hospital San Antonio - Guamo
+10603,Concordia - Magdalena
+10614,E.S.P. Aguas de Castilla S.A.
+10679,E.S.E. Centro de Salud - Ventaquemada
+10689,E.S.E. Hospital la Buena Esperanza - Yumbo
+10695,Coomeva Entidad Promotora de Salud S.A.
+10714,E.S.E. Centro Hospital Guaitarilla
+10736,E.S.E. Hospital San Carlos - San Pablo
+10754,E.S.E. Centro de Salud Municipal de Cartago
+10771,Terminal de Transportes de Aguazul el Garcero del Llano E.I.C.E.
+10821,Centro de Salud Santo Domingo Savio
+10866,E.S.E. Hospital Mental de Risaralda - Pereira
+10871,E.S.E. Camu de Buenavista
+10900,Fondo de Fomento Cauchero
+10918,E.S.P. Aguas Andaki S.A.
+10961,E.S.E. Hospital San Juan del Suroeste - Hispania
+10971,E.S.E. Puesto de Salud San Miguel - Tuta
+10975,E.S.P. Caudales de Colombia S.A.S
+11008,E.S.E. Hospital San Juan
+11075,I.P.S. Centro de Salud de Sucre Santander
+11103,Colegio Integrado Nacional Oriente de Caldas
+11230,E.S.E. Hospital Mental de Antioquia - Homo
+11237,Fondo de Desarrollo de Proyectos de Cundinamarca
+11353,C.P.G.A. del Sur del Huila
+11363,E.S.E. de Ocamonte Santander
+11393,Empresa de Desarrollo Competitividad y Productividad de Guarne
+11471,Cooperativa de Salud Comunitaria Empresa Promotora de Salud Subsidiada
+11499,E.S.E. Hospital Dptal. San Rafael - Espinal
+11515,Instituto para el Desarrollo Municipal de Santander
+11563,E.S.P. Empresas Municipales de Villa del Rosario
+11625,Entidad Promotora de Salud Servicio Occidental de Salud S.A S.O.S.
+11654,"E.S.P. Acueducto, Alcantarillado y Aseo de Tenjo S.A."
+11732,E.S.E. Camu - Momil
+11751,E.S.E. Hospital Guillermo Gaviria Correa - Caicedo
+11770,E.S.E. Centro de Salud Siachoque
+11830,E.S.P. Aguas con Futuro S.A.
+11875,Junta Municipal de Ferias y Exposiciones Agropecuarias de Girardot
+11996,Sistema Integrado de Transporte de Valledupar S.A.S.
+12009,Agencia de Cundinamarca para la Paz y la Convivencia
+12013,E.S.P. Domiciliarios Aguas del Upia S.A.S.
+12101,E.S.E. Hospital de Puerto Colombia
+12105,E.S.E. Hospital de Candelaria
+12151,I.P.S. Centro de Salud los Santos - Santander
+12158,E.S.E. Hospital Carlos Torrente Llanos - Santa Isabel
+12173,E.S.E. Hospital de Castilla La Nueva
+12221,Hatillo de Loba
+12248,E.P.S.I. Pijaos Salud
+12315,E.S.E. Centro de Salud San Judas Tadeo
+12321,Instituto Municipal de Empleo y Fomento Empresarial Bucaramanga
+12335,Fondo de Vivienda Obrera - Tibasosa
+12373,Empresa Municipal de Servicios de Aseo - Riosucio
+12442,Oleoducto de Colombia S.A.
+12505,Empresa de Desarrollo Urbano del Norte de Antioquia
+12509,E.S.E. Centro de Salud de Cuaspud Carlosama
+12551,E.S.E. Hospital San Francisco Javier del Municipio de Acevedo
+12610,La Celia
+12728,"E.S.P. Empresa de Acueducto, Alcantarillado y Aseo de Buenavista S.A."
+12741,E.S.P. Aguas del Cesar S.A.
+12749,E.S.E. Camu - San Antero
+12750,Banco Inmobiliario de Floridablanca
+12757,E.S.E. Hospital Octavio Olivares - Puerto Nare
+12780,E.S.E. Hospital San Lucas - El Molino
+12789,Instituto de Cultura - El Carmen de Viboral
+12821,Hospital Alejandro Maestre - El Dificil (Ariguani)
+12872,Terminal de Transportes del Socorro S.A.
+12888,E.S.E. Hospital La Merced
+12891,E.S.E. Hospital Local Calamar - Calamar
+12908,E.S.P. de Alcantarillado y Acueducto del Municipio de Ricaurte S.A.S.
+13066,Instituto Departamental de Cultura y Turismo de Cundinamarca
+13118,E.S.E. Hospital Santo Domingo - Casabianca
+13148,E.S.E. Hospital San Rafael
+13160,E.S.P. Electrificadora del Huila S.A.
+13186,Agencia Distrital de Infraestructura
+13319,I.P.S. Dusakawui
+13369,Universidad Colegio Mayor de Cundinamarca
+13568,E.S.E. Hospital de Ponedera
+13656,E.S.E. Hospital San Juan de Dios - Abejorral
+13756,Financiera de Desarrollo Nacional S.A.
+13838,E.S.P. de Roncesvalles S.A.
+13916,E.S.E. Hospital Marco Felipe Afanador de Tocaima
+13937,Empresa de Desarrollo Urbano y Rural del Municipio de El Carmen de Viboral
+13978,E.S.E. Centro de Salud de Toca
+13988,E.S.E. Hospital San Miguel - Santander
+13997,E.S.E. Hospital San Rafael - Carolina
+14028,E.S.E. Hospital Local de Zona Bananera
+14086,Entrerríos
+14142,E.S.P. Acueducto y Alcantarillado de Padilla - Cauca
+14365,Empresa para la Competitividad Territorial del Municipio de Girardota
+14366,Aeropuerto Internacional Santa Ana S.A.
+14385,Instituto Distrital de Turismo
+14503,E.P.S.S. Capital Salud S.A.S.
+14616,E.S.P. de San Francisco Antioquia S.A.S
+14641,E.S.E. Centro de Salud Santiago de Mallama
+14645,E.S.E. Hospital San Juan de Dios - Valparaiso
+14748,Transmetro S.A.
+14802,"E.S.P. Empresa Departamental de Acueducto, Alcantarillado y Aseo del Tolima S.A."
+14857,Gran Central de Abastos del Caribe S.A.
+14894,Instituto Distrital de Patrimonio Cultural
+14955,Instituto Municipal de Cultura de Yumbo
+15017,Líbano
+15044,Instituto de Turismo del Meta
+15171,I.P.S. Centro de Salud - Macaravita
+15330,I.P.S.I. Ayuuleepala Wayuu
+15494,E.S.P. de San Antonio del Tequendama S.A.
+15509,E.S.E. Hospital de Sitionuevo
+15546,Instituto de Desarrollo de Arauca
+15586,Distriseguridad
+15684,E.S.P de San Francisco S.A.S
+15714,E.S.P. de Tarso S.A.
+15743,E.S.P. de Leiva S.A.S.
+15752,E.S.P. Aguas de La Miel S.A.
+15788,E.P.S.I. Anas Wayuu
+15799,Instituto de Cultura y Turismo de San Gil
+15904,E.S.E. Hospital San Antonio - Ambalema
+15914,E.I.C.E. Profloridablanca
+15945,E.S.E. Hospital de Juan de Acosta
+16002,Instituto Financiero del Valle
+16110,Instituto Financiero del Huila
+16133,E.S.E. Hospital Santa Teresa - Tesalia
+16157,Casa de Reposo
+16275,E.S.E. Hospital Santa Margarita - La Cumbre
+16279,Aeropuerto Olaya Herrera
+16322,E.S.E. Centro de Salud Policarpa
+16381,E. S. P. del Distrito de Santa Marta
+16388,Generadora la Cascada S.A.S E.S.P
+16417,E.S.P. de Uramita S.A.S.
+16534,E.S.E. Centro de Salud - Floresta
+16683,Sativasur
+16782,"E.S.P. Empresa de Acueducto, Alcantarillado y Aseo de San Luis de Palenque S.A."
+16800,E.S.P. Empresa Regional de Aseo del Norte de Caldas S.A.
+16878,E.I.C.E. Faro del Catatumbo S.A.S.
+16929,E.S.E. Centro de Salud de Motavita
+17054,Sociedad de Activos Especiales S.A.S.
+17057,E.S.E. Centro de Salud San Francisco de Sales
+17061,Instituto Municipal de la Vivienda y Reforma Urbana de Pasto
+17099,U.A.E. Unidad de Licores del Meta
+17225,Empresa de Servicios Municipales y Regionales
+17245,I.P.S.I. EZEQ - Salud
+17304,K - YENA S.A.S.
+17311,Durania
+17527,E.S.E. Hospital San Vicente de Paul - Filandia
+17555,Instituto Distrital de Turismo de Santa Marta
+17605,E.S.E HOSPITAL MALVINAS HECTOR OROZCO OROZCO
+17644,E.S.E. Puesto de Salud de Corrales
+17660,E.S.P. de el Paujil S.A.
+17736,Instituto Municipal de Cultura y Turismo de Villeta
+17815,E.S.E. Hospital Regional Centro - Gramalote Norte de Santander
+18085,E.S.E. Centro de Salud Rafael Salgado
+18113,E.S.E. Hospital San Antonio del Tequendama I Nivel
+18119,Oleoducto Bicentenario de Colombia S.A.S.
+18216,E.S.E. Hospital Local Primer Nivel - Fuentedeoro
+18380,E.S.P. de Pandi S.A.S
+18383,E.S.P. Empresa de Servicio de Aseo Trujillo S.A.
+18540,Beneficencia de Santander
+18544,Seguros de Vida Alfa S.A.
+18704,E.S.E. Centro de Salud Campohermoso
+18751,E.S.E. Centro Hospital San Juan Bautista - Taminango
+18777,E.S.E. Centro de Salud de Puerres
+18789,I.P.S. Centro de Salud de Molagavita
+18818,E.S.E. Hospital Departamental San Rafael de Risaralda - Caldas
+18949,Pivijay
+18989,Empresa de Seguridad del Oriente S.A.S
+19006,E.S.E. Camu - Puerto Escondido
+19011,E.S.P. Empresa Aguas de Sucre S.A.
+19118,E.S.P. Empresa de Servicios de Florencia S.A.
+19185,E.S.E. Centro de Salud Con Cama Manuel H. Zabaleta G.
+19193,"E.S.P. Empresa de Acueducto, Alcantarillado y Aseo del Rosal S.A."
+19208,"E.S.P. Empresa Oficial de Acueducto, Alcantarillado y Aseo de Toluviejo S.A."
+19251,E.S.E. Centro Hospital Las Mercedes
+19288,Instituto de Desarrollo Urbano
+19350,Terminal de Transportes de Pereira S.A.
+19660,E.S.E. Hospital San Juan de Dios - Carmen de Viboral
+19687,E.S.P. de Maceo S.A.S.
+19797,E.S.E. Hospital San Vicente de Paul - Anserma
+19897,Universidad de la Guajira
+19970,E.S.P. Domiciliarios de Molagavita EAM S.A.
+20107,E.S.P. de Tabio S.A.
+20138,E.S.P. Aguas de Chitaraque S.A.
+20151,E.S.P. Aguas de Chiribiquete S.A.S
+20184,SUEJE Sistema Universitario del Eje Cafetero
+20261,Centro Municipal para el Control de la Movilidad
+20682,Hospital San Antonio - Rionegro
+20705,E.S.E. Centro de Salud de El Roble
+20746,E.S.E. Sanatorio de Agua de Dios
+20820,E.S.E. Hospital Gigante
+20875,Instituto Municipal de Vivienda Urbana y Rural - La Calera
+20884,E.S.E. Centro de Salud San Blas
+21087,E.S.E. Hospital San Juan de Dios de Floridablanca
+21470,E.S.E. Camu - Chima
+21558,E.S.P. Aguas de Padilla S.A.
+21709,Circulo de Suboficiales de las  Fuerzas Militares
+21715,Terminal de transporte de Girardot S.A.
+21789,E.S.P. de Almeida S.A.
+21869,E.S.E. Centro de Salud Palmar de Varela
+21876,E.S.P. Empresa de Aseo de Pereira S.A.S
+21933,E.S.E. Hospital la Candelaria - El Banco
+22038,E.S.P. de Planadas. S.A.S.
+22101,E.S.E. Hospital San Vicente de Paul - Santuario (Risaralda)
+22122,E.S.P. de Belmira
+22214,E.S.E. Hospital Barrancas
+22516,"Camara de Comercio de Honda, Guaduas y Norte del Tolima"
+22816,E.S.E. Hospital Universitario de Santander
+22896,E.S.P. Transportadora de Gas Internacional S.A.
+23078,Caja de Compensación Familiar del Sur del Tolima
+23109,E.S.E. Centro de Salud Timoteo Riveros Cubillos
+23256,Fondo de Fomento Agropecuario y Microempresarial de Aguazul
+23468,E.S.P. Acueducto y Alcantarillado de Villavicencio
+23500,E.S.E. Hospital San Vicente - Rovira
+23540,E.S.E. Hospital Local - San Fernando
+23637,Empresa de Desarrollo Urbano y Habitat.
+23934,E.S.P. Aguas de Puerto Wilches S.A.S.
+24004,"E.S.P. Empresa Municipal de Acueducto, Alcantarillado y Aseo del Municipio de Caimito - Sucre S.A."
+24008,Instituto Municipal para el Desarrollo de Hato Corozal
+24095,Isa Intercolombia S.A. E.S.P.
+24287,Hogar de Bienestar del Adulto Mayor y Centro de Vida el Buen Consejo  Jenesano
+24478,Renting de Antioquia S.A.S.
+24701,Orbitel Servicios Internacionales S.A.
+24713,Fondo Especial de Vivienda de Santiago de Cali
+24802,E.S.E. Hospital San Vicente de Paul - Pueblorrico
+24925,E.S.E. Centro de Salud San Antonio de Palmito
+24962,"E.S.P. Empresa de Acueducto, Alcantarillado y Aseo de Guasca S.A."
+24980,I.P.S. Centro de Salud San Antonio - Cerrito
+24988,Caramanta
+25087,Fondo Nacional Cacaotero
+25303,"E.S.P. Empresa Municipal de Acueducto, Alcantarillado y Aseo de San Juan de Betulia S.A."
+25513,E.S.E. Hospital Santa Cruz - Urumita
+25737,Terminal de Transportes de Sogamoso Ltda.
+25785,E.P.S. Aliansalud Entidad Promotora de Salud S.A.
+26069,E.S.E. Centro de Salud Virgen de Lourdes
+26134,Centro de Ferias Exposiciones y Convenciones de Bucaramanga S.A.
+26181,Casa de la Cultura Piedra del Sol - Floridablanca
+26448,Caja de Compensación Familiar de Antioquia
+26597,E.S.P. Empresa de Acueducto y Alcantarillado Aguas de Palmira S.A.
+26662,E.S.E. Centro de Salud - Cerinza
+26904,I.P.S.I KOTTUSHI SAO ANA-A
+27062,E.S.E. Centro de Salud Tota
+27233,PA Fondo Colombia en Paz
+27289,E.S.E. Hospital San Juan de Dios - Concordia
+27555,E.S.E. Hospital Ismael Silva - Silvania
+27664,C.P.G.A Corpoagrocentro
+27693,E.S.E. Hospital Nivel I Puerto Rico
+27812,E.S.E. Camu de Canalete
+27943,"E.S.P. de Acueducto, Alcantarillado y Aseo - Tambo"
+27974,Emtelco S.A.S.
+28074,E.S.E. Hospital Luis Pasteur - Melgar
+28101,Empresa Departamental de Juegos de Suerte y Azar
+28156,Caja de Compensacion Familiar de Casanare
+28217,Instituto Municipal de Cultura y Turismo de Puerto Tejada
+28831,E.S.P. de Aseo y Alcantarillado de Restrepo S.A.
+28845,E.S.P. Cumare S.A.
+28880,E.S.E. Hospital San Roque - Coyaima
+29264,Colpensiones - Fondo de Vejez
+29374,E.S.P Honda Triple A S.A.S
+29647,Instituto Municipal para el Deporte - Santander de Quilichao
+29688,Camara de Comercio Buenaventura
+29762,E.S.P. Generadora Santa Rita
+29859,E.S.E. Ceminsa
+29921,E.S.E. Hospital Local - Luruaco
+29952,Cámara de Comercio de Ipiales
+29963,E.S.E. Red de Servicios de Salud de Primer Nivel - Guaviare
+30082,"E.S.P. Empresa de Acueducto, Alcantarillado y Aseo de Labranzagrande S.A."
+30165,C.P.G.A. del Noroccidente del Huila
+30299,E.S.E. Municipal de Ipiales
+30523,E.S.P. Empresa Municipal de Aseo de Victoria
+30620,Rifas y Juegos del Valle Ltda.
+31052,Fondo Nacional del Tabaco
+31364,Afrocaucana de Aguas S.A. E.S.P.
+31396,E.S.E. Hospital San Roque - Simacota
+31601,E.I.C.E. Empresa de Desarrollo Urbano del Occidente- EDUOCCIDENTE
+31661,Empresa Departamental para la Salud
+31691,Entidad Promotora de Salud Famisanar S.A.S.
+31864,Instituto de Vivienda Municipal de Aguazul
+33084,"E.S.P. Empresa de Acueducto, Alcantarillado y Aseo  - Paz de Ariporo"
+33615,Casa de la Cultura de San Juan Nepomuceno
+34103,E.S.E. Hospital Universitario de La Samaritana
+34370,I.P.S.I. ANENU-JIA
+34964,E.S.E. Hospital del Rosario - Ginebra
+35296,E.S.E. Hospital La Milagrosa - Villarrica
+35354,Empresas Municipales de el Zulia
+35751,E.S.P Por Santa Rosa Sostenible S.A.S
+35811,Terminal de Transportes de Honda S.A.
+35860,Metro Sabanas S.A.S.
+35933,E.S.E. Hospital San Vicente de Paul - Barbosa
+36214,E.S.P. Domiciliarios de Albania S.A.
+36893,Empresa Nacional Promootora del Desarrollo Territorial
+37129,People Contact S.A.S.
+37464,E.S.P. Emsercota S.A.
+37483,Empresa de Desarrollo Sostenible del Municipio de Marinilla
+37586,E.S.E. Quilisalud
+38301,E.S.E. Hospital San José de Tadó
+38330,E.S.P. Instituto de Servicios Varios de Ipiales
+38751,E.S.P. Domiciliarios del Valle de San Juan S.A.S.
+38807,E.S.E. Hospital Universitario San Jorge - Pereira
+39109,E.S.E. Hospital de la Ceja
+39299,Hospital San Roque - Chima
+39644,E.S.E. Centro de Salud San Blas - Morroa
+40022,E.S.P. La Cimarrona - Carmen de Viboral
+40113,ENERMARSELLA S.A.S E.S.P
+40148,Conservatorio del Tolima
+40774,Fondo Mixto de Cultura - Ipiales
+40847,E.S.P. de Buenavista S.A.
+40912,Hospital Roberto Quintero Villa Hospital San Vicente - Montenegro E.S.E
+41025,E.S.E. Hospital Regional II Nivel Valle de Tenza
+41695,Instituto Departamental de Deportes de la Guajira
+41873,Camara de Comerdio de Barrancabermeja
+42161,"E.S.P. de Acueducto, Alcantarillado y Aseo del Municipio de Magui Payan S.A.S."
+42185,E.S.E. Hospital San Juan de Dios - Santuario
+42319,E.S.E. Hospital de Girardot
+43324,Málaga
+43843,E.S.E. Hospital Local San Juan de Puerto Rico - Tiquisio
+44625,E.S.E. Salud del Tundama
+45865,Comercializadora Mercabastos
+46701,Buga Abastos
+46913,E.S.E. Santiago de Tunja
+48008,E.I.C.E. Instituto Financiero Empresarial de Yopal
+48302,U.A.E Centro de Vida Dejando Huellas del Municipio de Ayapel
+48832,I.P.S. Centro de Salud San Cayetano del Municipio de Confines - Santander
+49218,E.S.E. Centro de Salud Con Cama - Arroyohondo
+49257,EEB Gas S.A.S.
+50022,E.S.E. Hospital Local de Arenal Manuela Pabuena Lobo - Arenal
+51195,E.S.E. Rafael Tovar Pineda
+53417,Fondo Financiero Distrital de Salud
+53579,Terminal de Transportes de San Gil
+54032,Parador de Transportes de La Plata S.A.
+55112,Pensiones de Antioquia - Fondo Reserva de Sobrevivencia
+56183,Junta Municipal de Deportes de Frontino
+57898,E.S.E. Hospital Eduardo Santos - Istmina
+57983,E.S.P. Río Aburrá S.A.S.
+58938,E.S.P. Empresa de Obras Sanitarias de Santa Rosa de Cabal - E.I.C.E.
+59788,E.S.P. Empresa Generadora del Tolima S.A.
+61149,E.S.P. Empresas Publicas Aguas de Florencia S.A.S
+61763,Administradora Colombiana de Pensiones
+62214,Empresa Vial del Municipio de Arauquita E.I.C.E.
+63925,"E.S.P. de Acueducto, Alcantarillado y Aseo de Ocamonte S.A."
+65847,E.S.E. Centro de Salud San Lorenzo
+68524,E.S.E. Centro de Salud Con Cama
+73827,E.S.P. Planta de Tratamiento Villa Santana S.A.
+75419,"E.S.P. Empresa de Acueducto, Alcantarillado y Aseo de San Antonio de Palmito"
+76057,Casa de la Tercera Edad
+78617,Terminal de Transportes de Neiva S.A.
+78685,Bolsa Mercantil de Colombia S.A.
+80102,Pensiones de Antioquia - Fondo de Reserva de Invalidez
+82179,E.S.P. Edatel S.A.
+84117,Hospital Departamental  de la Divina Misericordia de Palestina - Caldas E.S.E
+84135,Caja Colombiana de Subsidio Familiar
+85245,Empresa Departamental para la Salud LTDA
+94015,Sociedad Hotel de Tenza Ltda
+94564,E.S.P Distasa S.A.
+96006,E.S.P Aguas de Cimitarra S.A.S
+106258,Caja Santandereana de Subsidio Familiar
+109947,Colpensiones - Fondo de Sobrevivientes
+120850,Fondo de Fomento Palmero
+136910,Colpensiones - Fondo de Invalidez
+136924,Telecali S.A.
+152222,E.S.P. Amazonas Desarrollo Inteligente - ADI S.A.S.
+155719,Fondo Nacional de Vivienda
+187348,Caja de Compensacion Familiar del Magdalena
+218131,E.S.P. Empuservicios S.A.S SEM
+222135,Sociedad Administradora de la Plaza de Mercado y Matadero Municipal
+261793,E.S.P. EVAS Enviambientales S.A.
+292427,Allianz Seguros de Vida S.A.
+3476160,San Vicente de Chucurí
+3476161,La Unión - Nariño
+3476164,Chía
+3476165,"Empresa Prestadora de Servicios Públicos Domiciliarios de Acueducto, Alcantarillado y Aseo del Municipio de Valparaiso"
+3476169,E.S.P. Empresas Públicas de Hispania S.A.
+3476170,E.S.E. Centro de Salud Sagrado Corazón de Jesús - El Contadero
+3476171,E.S.P. de Suárez
+3476172,El Peñol - Antioquia
+3476173,E.S.E. Imsalud Cúcuta
+3476174,E.S.P. Empresa de Servicios Públicos de Ebéjico
+3476175,E.S.P. Empresa de Servicios Públicos de Potosí
+3476176,Cartagena del Chairá
+3476177,Concepción - Santander
+3476178,E.S.E. Hospital la Misericordia - Yalí
+3476179,Servicio Aéreo a Territorios Nacionales
+3476180,E.S.P. Centrales Eléctricas de Norte de Santander S.A.
+3476181,E.S.E. las Mercedes del Municipio de Monguí
+3476182,San Joaquín
+3476183,Cértegui
+3476184,Tuluá
+3476186,Inspección de Tránsito y Transporte de Barrancabermeja
+3476187,E.S.E. Hospital Manuel Uribe Ángel - Envigado
+3476188,Rio Iró
+3476189,Sopetrán
+3476190,Corporación Autónoma Regional del Magdalena
+3476191,Útica
+3476193,Ciénaga
+3476194,E.S.P. Empresa de Energía del Casanare S.A.
+3476195,E.S.E. Hospital Divino Niño - Buga
+3476196,Pijiño del Carmen
+3476197,San Agustín
+3476199,E.S.P. Empresa de Telecomunicaciones de Popayán S.A.
+3476200,Gámeza
+3476201,Junín
+3476202,"Santa Marta, Distrito Turístico, Cultural e Histórico"
+3476203,San Martín - Cesar
+3476204,E.S.E. Hospital Local de San Jacinto - Bolívar
+3476205,Río Quito
+3476206,Timaná
+3476208,E.S.E. Centro de Salud San Isidro - El Peñol Nariño
+3476209,E.S.P. Gestión Energética S.A.
+3476210,Empresas Públicas de Apartadó SAS ESP
+3476211,"E.S.P. Empresa de Servicios de Acueducto, Alcantarillado y Aseo - Líbano"
+3476214,"Fondo de Prestaciones Económicas, Cesantías y Pensiones"
+3476215,Corporación Autónoma Regional del Quindío
+3476216,E.S.P. De Manaure Balcón del Cesar
+3476217,Universidad Tecnológica del Chocó Diego Luis Córdoba
+3476218,E.S.P. San Agustín
+3476222,San Pablo - Nariño
+3476223,Radio Televisión Nacional de Colombia RTVC S.A.S.
+3476224,Gutiérrez
+3476225,Sahagún
+3476226,Salud Total Entidad Promotora de Salud del Régimen Contributivo y del Régimen Subsidiado S.A.
+3476227,Timbío
+3476228,E.S.E. Hospital San José de Marsella
+3476229,Orocué
+3476230,Jericó - Antioquia
+3476231,Lotería del Risaralda
+3476232,Albán
+3476233,E.S.P. Empresas Públicas Municipales de Calarcá
+3476235,Beltrán
+3476236,Cereté
+3476238,Instituto para la Recreación y el Deporte de Tunja
+3476240,E.S.E. Hospital San Juan de Dios de Galán
+3476241,E.S.P. Empresas Públicas de Aipe S.A.
+3476243,E.S.E. Hospital Regional de García Rovira
+3476244,Facatativá
+3476245,E.S.P. Empresa de Servicios Públicos de Chiquinquirá
+3476246,E.S.E. Hospital San Rafael  - Cáqueza
+3476247,Timbiquí
+3476249,Ibagué
+3476250,E.S.E. Hospital San Juan de Dios  - Anzoátegui
+3476251,Angelópolis
+3476252,Empresa de Acueducto - Suán
+3476254,Gualmatán
+3476255,Caja de Previsión Social Municipal de Bucaramanga
+3476256,Santa María - Boyacá
+3476257,E.S.E. Hospital San José - Viterbo
+3476259,Herrán
+3476260,E.S.P. Empresas Públicas de Valdivia S.A.
+3476261,San Andrés - Santander
+3476262,I.P.S. Indígena Gonawindua Ette Ennaka
+3476263,Chiquinquirá
+3476264,Nuquí
+3476265,E.S.E. Centro de Salud - Consacá
+3476266,E.S.E. Hospital Universitario San José - Popayán
+3476269,Magüí (Payán)
+3476270,Carolina del Príncipe
+3476272,E.S.E. Hospital San Antonio - Arbeláez
+3476275,Alto Baudó (Pie de Pato)
+3476276,Instituto de Fomento y Desarrollo de Boyacá
+3476278,Yaguará
+3476279,San Pablo - Bolívar
+3476280,Turbaná
+3476282,E.S.P. Servidonmatías S.A.S
+3476284,San Sebastián
+3476285,Mapiripán
+3476286,Vélez
+3476288,"Instituto de Financiamiento, Promoción y Desarrollo de Mariquita"
+3476290,Medio Baudó
+3476291,Bogotá D.C.
+3476292,Unidades Tecnológicas de Santander
+3476293,Gachancipá
+3476294,Villagómez
+3476295,Betéitiva
+3476296,Chocontá
+3476297,Corporación Autónoma Regional de los Valles del Sinú y San Jorge
+3476299,"Instituto de Deportes, Recreación y Aprovechamiento del Tiempo Libre Envigado"
+3476300,Cáchira
+3476301,Colosó (Ricaurte)
+3476302,Chachagüí
+3476304,Departamento del Vaupés
+3476305,Centro de Salud Alcides Jiménez Puerto Caicedo
+3476306,Corporación Autónoma Regional de Chivor
+3476309,Susacón
+3476311,"Instituto para el Deporte, el Aprovechamiento del Tiempo Libre y la Educación Extraescolar"
+3476313,Corporación Autónoma Regional del Valle del Cauca
+3476314,Puerto Berrío
+3476317,Soracá
+3476318,San José de la Montaña
+3476320,Guática
+3476321,E.S.E. Hospital Departamental Reina Sofía de España - Lérida
+3476323,Cucunubá
+3476324,Universidad Distrital Francisco José de Caldas
+3476325,E.S.P. Compañía de Servicios Públicos Sogamoso S.A.
+3476326,E.S.E. Puesto de Salud de Ciénega
+3476327,Fundación San Juan de Dios de Santanfé de Antioquia.
+3476328,E.S.E. Alejandro Próspero Reverand
+3476329,E.S.P. Empresa de Servicios Públicos de Villeta
+3476330,Guachetá
+3476331,Centro de Diagnóstico Automotor del Valle Ltda.
+3476332,Gómez Plata
+3476333,Corporación Cultural Municipal de Villavicencio - Meta
+3476334,Paz del Río
+3476335,E.S.E. Centro de Salud Nuestra Señora de Guadalupe - Pachavita
+3476337,Corporación Autónoma Regional del Tolima
+3476339,Departamento de Córdoba
+3476340,Tibaná
+3476342,Támara
+3476344,Tópaga
+3476345,Potosí
+3476346,Calima del Darién
+3476347,Sociedad Televisión de Antioquia Ltda.
+3476348,Anzoátegui
+3476349,E.S.P. Dinámica Servicios Públicos e Ingeniería S.A.S.
+3476351,Belén - Nariño
+3476352,Arbeláez
+3476353,Imués
+3476356,González
+3476357,Puerto Asís
+3476360,Chinchiná
+3476361,Instituto Municipal para la Recreación y el Deporte - Coldeportes Funza
+3476362,E.S.P. Empresa de Servicios Públicos - La Unión
+3476363,Empresa de Servicios Públicos de Valledupar S.A.
+3476364,San Bernardo - Nariño
+3476365,Ciénega - Boyacá
+3476366,Departamento de Nariño
+3476368,Rondón
+3476369,San Andrés de Sotavento
+3476370,Titiribí
+3476373,Sincé
+3476374,Fundación
+3476375,Itagüí
+3476378,E.P.S.I. Asociación Indígena del Cauca
+3476379,Maní
+3476380,Puerto Guzmán
+3476382,Génova
+3476383,Chalán
+3476384,Togüí
+3476385,Guayatá
+3476391,E.S.P. Empresas Públicas de Támara S.A.S
+3476392,San José de Cúcuta
+3476393,Moniquirá
+3476394,E.S.E. Hospital Santo Tomás - Villanueva
+3476397,Región Administrativa y de Planificación RAP - Eje Cafetero
+3476398,Fómeque
+3476400,Santacruz (Guachavés)
+3476402,Bolívar - Cauca
+3476403,Curití
+3476404,Puracé (Coconuco)
+3476405,Área Metropolitana del Valle de Aburrá
+3476407,E.S.E. Hospital Geriátrico San Isidro - Manizales
+3476410,E.S.E. Centro de Salud La Buena Esperanza - Colón
+3476411,"E.S.P. Cooperativa de Acueducto, Alcantarillado y Aseo de Ricaurte Nariño"
+3476412,E.S.P. Empresas Públicas de Timaná S.A.
+3476415,El Peñón - Bolívar
+3476416,E.S.P. Empresa de Servicios Públicos de el Colegio
+3476417,La Unión de Sucre
+3476418,Guatapé
+3476420,Belalcázar
+3476422,Área Metropolitana Centro Occidente
+3476423,Chigorodó
+3476425,E.S.P. Empresa de Acueducto y Alcantarillado de Bogotá
+3476426,Milán
+3476428,Zipaquirá
+3476430,Departamento del Guainía
+3476432,E.S.P. Empresa de Servicios Públicos de Cajicá S.A.
+3476439,Páez - Boyacá
+3476440,"Cartagena de Indias, Distrito Turístico y Cultural"
+3476441,Alcalá
+3476442,Carurú
+3476443,Puerto Leguízamo
+3476446,San José del Guaviare
+3476449,Riofrío
+3476453,E.S.P. Empresas Públicas de la Argentina S.A.
+3476455,E.S.P. Empresa de Servicios Públicos Domiciliarios Cáqueza S.A.
+3476456,E.S.E. Hospital Divino Niño - Rivera
+3476457,Turmequé
+3476458,Fúquene
+3476463,Santa Bárbara - Antioquia
+3476464,Villapinzón
+3476465,E.S.P. Empresa de Servicios Públicos - Orito
+3476467,Jericó - Boyacá
+3476469,E.S.E. Hospital Local - San Martín de Loba
+3476470,Santa Bárbara de Pinto
+3476472,E.S.E. Hospital Regional San Andrés de Chiriguaná
+3476473,Instituto Departamental del Deporte y la Recreación
+3476474,Aeropuerto Matecaña
+3476475,E.S.E. Hospital José Antonio Socarras Sánchez
+3476476,Tocancipá
+3476479,Cajibío
+3476480,E.S.E. Hospital San Vicente de Chucurí
+3476481,Guapotá
+3476482,"Distrito Especial de Ciencia, Tecnología e Innovación de Medellín"
+3476483,Necoclí
+3476486,U.A.E de Ciencia Tecnología e Innovación del Municipio de Tunja
+3476487,E.S.E. Popayán
+3476488,Sampués
+3476489,Consejo Nacional Profesional de Economía
+3476490,Ingeniería Desarrollo y Administración de Manizales S.A. E.S.P
+3476491,Simití
+3476492,Albán (San José)
+3476493,E.S.E. Hospital Departamental de Nariño
+3476495,San Martín de Loba
+3476496,Anzá
+3476497,E.S.E. Hospital Local del Río de Oro
+3476498,Hacarí
+3476499,Caparrapí
+3476500,Candelaria - Atlántico
+3476503,Instituto Distrital de Gestión de Riesgos y Cambio Climático
+3476504,Jardín
+3476505,Jordán
+3476506,Corporación Autónoma Regional de Nariño
+3476507,Vegachí
+3476508,Empresa de Desarrollo Urbano y Vivienda de Interés Social de Barrancabermeja
+3476510,Consacá
+3476511,Cañasgordas
+3476512,Instituto de Tránsito y Transporte Municipal de Ciénaga
+3476513,Instituto Tecnológico de Soledad Atlántico
+3476515,Coveñas
+3476520,Puerto Gaitán
+3476522,Acacías
+3476524,Cajicá
+3476525,Pácora
+3476528,Departamento del Chocó
+3476529,Colón (Génova) - Nariño
+3476530,Tecnológico de Antioquia
+3476531,Páramo
+3476532,Yolombó
+3476533,San Andrés de Cuerquia
+3476535,Instituto de Educación Técnica Profesional de Roldanillo
+3476536,Albania - Caquetá
+3476537,Ariguaní
+3476538,Caldas - Boyacá
+3476539,E.S.P. Empresa Solidaria de Servicios Públicos de Chinavita
+3476542,Tadó
+3476546,Curumaní
+3476547,Amagá
+3476549,E.S.E. María Auxiliadora - Garzón
+3476550,Florencia - Caquetá
+3476552,E.P.S. Convida- En liquidación
+3476553,Ricaurte - Nariño
+3476554,Gachalá
+3476555,El Carmen de Bolívar
+3476557,Ubaté
+3476559,E.S.E. Hospital María Auxiliadora - Chigorodó
+3476561,Chitagá
+3476562,Gachetá
+3476564,Gámbita
+3476565,Calarcá
+3476566,Institución Universitaria Pascual Bravo
+3476568,E.S.P. Empresa Departamental de Servicios Públicos de Boyacá
+3476569,Santiago de Tolú
+3476570,Güepsa
+3476573,Guataquí
+3476574,Buenavista - Córdoba
+3476575,La Unión - Antioquia
+3476576,San José de Uré
+3476577,Parque Temático de Flora y Fauna de Pereira S.A.S
+3476581,E.S.E. Hospital Regional Nuestra Señora de las Mercedes - Corozal
+3476582,E.S.E. Hospital Pedro León - La Mesa
+3476583,E.S.E. Centro de Salud Saul Quiñones
+3476584,Instituto Departamental de Salud de Nariño
+3476586,Consejo Profesional de Administración
+3476587,Universidad de la Amazonía
+3476589,Instituto Municipal de Cultura Joaquín Piñeros Corpas
+3476590,Garzón
+3476593,Unión Panamericana
+3476597,E.S.P. Cafuches Empresa de Servicios Domiciliarios de San Martín de los Llanos S.A.
+3476598,E.S.E. Hospital San Fernando - Amagá
+3476599,Suratá
+3476600,Asociación de Municipios del Golfo de Morrosquillo
+3476604,Caja de Compensación Familiar del Huila y Caquetá
+3476606,E.S.E. Hospital Jorge Julio Guzmán
+3476610,San José de Miranda
+3476611,Tinjacá
+3476612,San José de Pare
+3476613,Universidad Tecnológica de Pereira
+3476614,Valparaíso - Caquetá
+3476615,E.S.P. Empresas Públicas de Acevedo S.A.
+3476618,Sabanalarga - Atlántico
+3476620,Bojacá
+3476621,Cocorná
+3476622,E.S.P. Empresa de Generación y Promoción de Energía de Antioquia S.A.
+3476628,San Juan Bautista de Guacarí
+3476630,Instituto Municipal de Educación para el Trabajo y Desarrollo Humano
+3476634,E.S.P. Empresa de Servicios Públicos Municipales de El Copey
+3476635,Inzá
+3476636,Centro de Bienestar del Anciano San Antonio - Sonsón
+3476637,Corporación Autónoma Regional del Río Grande de la Magdalena
+3476641,Corporación Autónoma Regional del Alto Magdalena
+3476643,Nunchía
+3476645,Manatí
+3476646,Colegio de Boyacá
+3476649,Gachantivá
+3476651,Valle de San José
+3476653,Apartadó
+3476655,Abriaquí
+3476657,Asociación Canal Local de Televisión de Medellín
+3476658,El Peñón - Santander
+3476663,E.S.P. Aguas de San Jerónimo
+3476664,San Carlos - Córdoba
+3476667,El Retén
+3476671,E.S.P. Empresas Públicas de Briceño S.A.
+3476672,Machetá
+3476675,E.S.E. Hospital Susana López de Valencia - Popayán
+3476676,Guachené
+3476678,Sibaté
+3476682,Quípama
+3476683,E.S.P. Empresa de Servicios Públicos Domiciliarios del Municipio de Pacho
+3476685,Terminales de Transportes de Medellín S.A.
+3476692,E.S.E. Hospital Santa Teresita - Pácora
+3476695,Norosí
+3476696,Instituto Municipal del Deporte y Recreación de Armenia - Quindío
+3476698,Central de Abastos de Cúcuta - En liquidación
+3476700,Cáceres
+3476701,Choachí
+3476702,E.S.E. Hospital María A. Toro Elejalde - Frontino
+3476703,Viracachá
+3476706,Instituto Fondo de Vivienda de Interés Social y Reforma Urbana del Municipio de Sogamoso
+3476708,E.S.E. Centro de Salud Chivatá
+3476710,Belén - Boyacá
+3476711,Corporación Autónoma Regional de Santander
+3476713,E.S.E. Hospital Regional Nuestra Señora de los Remedios - Riohacha
+3476714,Universidad Francisco de Paula Santander - Seccional Ocaña
+3476715,Cubará
+3476718,E.S.E. Hospital San Diego - Cereté
+3476719,E.S.E. Centro de Salud Nuestra Señora del Carmen - La Tola
+3476720,E.S.E. Hospital Lázaro Alfonso Hernández Lara - San Alberto
+3476724,Carmen de Apicalá
+3476725,"Provincia Administrativa y de Planificación -PAP- del Agua, Bosque y el Turismo del Departamento de Antioquia"
+3476732,Institución Universitaria Antonio José Camacho
+3476733,E.S.P. Empresa de Servicios Públicos de San Antonio
+3476734,E.S.P. de Soracá S.A.
+3476735,"E.S.P. Aguas de Facatativá, Acueducto, Alcantarillado, Aseo y Servicios Complementarios. E.A.F   S.A.S"
+3476736,Puerto Carreño
+3476737,Suárez - Cauca
+3476739,E.S.P. Domiciliarios de Sesquilé S.A.
+3476743,E.S.E. Clinica Girón
+3476744,Cepitá
+3476746,Instituto Municipal para el Deporte y la Recreación
+3476749,Departamento del Caquetá
+3476757,Saboyá
+3476758,Popayán
+3476760,Sociedad de Capital Público Departamental Ltda -  En Liquidación
+3476768,Cámara de Comercio de Medellín para Antioquia
+3476769,Corporación Autónoma Regional de la Orinoquía
+3476772,Empresa de Servicios de Alumbrado Público de Corozal S.A.S - E.S.P
+3476773,E.S.P. Confineña de Servicios Públicos S.A.
+3476775,Oicatá
+3476776,Landázuri
+3476777,E.S.E. Centro de Salud de Providencia - Nariño
+3476779,Corporación para el Desarrollo y la Productividad de Bogotá Región
+3476781,Dirección Territorial de Salud de Caldas
+3476783,"Instituto de la Juventud, el Deporte y la Recreación de Bucaramanga"
+3476787,Roberto Payán (San José)
+3476788,Departamento de Bolívar
+3476791,E.S.P. Empresas Públicas de San Rafael S.A.
+3476792,Nariño - Antioquia
+3476795,E.S.P. de Moniquirá S.A.
+3476796,E.S.E. Hospital Isabel la Católica - Cáceres
+3476800,Instituto de las Artes y la Cultura - Orocué
+3476801,Jambaló
+3476802,Chimá - Córdoba
+3476804,Tubará
+3476805,E.S.E. Hospital Santa Ana - Guática
+3476806,E.S.P. Empresas Públicas de Dabeiba S.A.S.
+3476807,Skandia Administradora de Fondos de Pensiones y Cesantías S.A
+3476811,Instituto Municipal de Deporte y Recreación de Sesquilé IMDER
+3476812,Páez (Belalcázar) - Cauca
+3476813,E.S.E. Centro de Salud San Sebastian - Nariño
+3476814,Junta Municipal de Deportes - Ubalá
+3476815,Río de Oro
+3476816,Purificación
+3476817,A.C.I Agencia de Cooperación e Inversión de Medellín y el Área Metropolitana
+3476818,Promotora de Vivienda y Desarrollo del Quindío
+3476820,E.S.E. Hospital Nuestra Señora del Carmen - Tabio
+3476826,Yondó (Casabe)
+3476829,Barranca de Upía
+3476833,Fondo Nacional de Fomento Hortifrutícola
+3476837,Sipí
+3476838,Puerto Nariño
+3476839,E.S.P. Empresa Ibaguereña de Acueducto y Alcantarillado S.A.
+3476842,E.S.E. Centro de Salud de Guachavés
+3476843,E.S.E. Hospital Diógenes Troncoso - Puerto Salgar
+3476844,Quinchía
+3476849,Cenit Transporte y Logística de Hidrocarburos S.A.S.
+3476852,Calamar - Bolívar
+3476856,Nemocón
+3476857,Instituto Distrital para la Recreación y el Deporte
+3476861,Sonsón
+3476863,E.S.P. Empresa Regional de Servicio Público de Aseo de Candelaria
+3476864,E.S.P. Empresas Públicas de Chámeza S.A.S.
+3476865,Aquaterra Empresa de Servicios Públicos
+3476866,Departamento de Boyacá
+3476868,Belén de Umbría
+3476873,Tutasá
+3476876,"Instituto Municipal del Deporte, la Recreación y el Turismo de Cajicá"
+3476877,E.S.E. Hospital San Marcos - Chinchiná
+3476878,Montelíbano
+3476879,Bajo Baudó - Pizarro
+3476882,Establecimiento Público Ambiental Distrito de Buenaventura
+3476883,Santa Sofía
+3476884,Empresas Municipales de Chinácota
+3476887,Canal Regional de Televisión Teveandina S.A.S.
+3476888,E.S.P. Empresa de Servicios Públicos Domiciliarios de Peque S.A.
+3476889,E.S.P. Sociedad de Economía Mixta Enercaloto Iluminaciones S.A.S.
+3476896,Guayabal de Síquima
+3476898,Galán
+3476899,U.A.E. de Rehabilitación y Mantenimiento Vial
+3476901,San Jerónimo
+3476902,E.S.E. Hospital Nazareth - Quinchía
+3476903,Puerto López
+3476905,E.S.E. Hospital Presbítero Alfonso M. - San Rafael
+3476906,Corporación Autónoma Regional para el Desarrollo Sostenible del Chocó
+3476909,Chinácota
+3476910,Bojayá (Bellavista)
+3476913,E.S.E. Hospital San Antonio - Buriticá
+3476914,E.S.E. Hospital San Rafael - Itagüí
+3476916,E.S.E. Centro de Salud de Ancuyá - Nariño
+3476919,Sistema Estratégico de Transporte Público de Ibagué S.A.S
+3476922,Cámara de Comercio de Aguachica
+3476924,Instituto Municipal del Deporte y la Recreación - Zarzaleño
+3476925,E.S.P. Aguas y Aseo de El Peñol
+3476926,Instituto de Tránsito y Transporte de Los Patios
+3476928,Instituto Municipal de Deporte y Recreación - El Retiro
+3476934,Patrimonio Autónomo Fondo Nacional de Turismo
+3476936,Entidad Administradora del Recursos del Sistema General de Seguridad Social en Salud - Unidad Gestión General
+3476943,Corporación Autónoma Regional de Cundinamarca
+3476944,Anorí
+3476946,Frigorífico Jongovito S.A.
+3476948,Girón
+3476950,E.S.E. Hospital San Juan de Dios - Támesis
+3476954,Cámara de Comercio del Oriente Antioqueño
+3476958,Colegio Mayor de Bolívar
+3476960,E.S.E. Hospital Sagrado Corazón de Jesús - Socha
+3476962,E.S.E. Hospital Local Ismael Roldán Valencia - Quibdó
+3476968,Universidad Internacional del Trópico Americano
+3476972,Magangué
+3476973,Carmen del Darién
+3476980,"Instituto para la Educación Física, la Recreación y el Deporte de Duitama"
+3476985,E.S.E. Hospital Nuestra Señora de los Remedios
+3476986,Instituto Municipal del Deporte y Recreación de la Estrella
+3476987,Empresa de Servicios Públicos de Venadillo
+3476988,San Vicente del Caguán
+3476991,Instituto Municipal de Cultura y Turismo de Cajicá
+3476993,San Sebastián de Mariquita
+3476996,Dirección de Tránsito y Transporte - Floridablanca
+3476997,E.S.E. Hospital Héctor Abad Gómez - San Juan de Urabá
+3477002,E.S.E. Centro de Salud Paz del Río - Fundación
+3477003,Carcasí
+3477011,Sutamarchán
+3477016,E.S.E. Hospital San José - Ortega
+3477017,La Montañita
+3477019,Universidad de Córdoba
+3477021,E.S.E. Hospital Local - Montelíbano
+3477023,E.S.E. Centro 1 - Piendamó
+3477024,APC Acueducto Piendamó Morales Organización Autorizada
+3477030,E.S.P. de Vegachí S.A.
+3477031,E.S.P. Empresa de Servicios Públicos Domiciliarios de Dosquebradas
+3477032,Cuítiva
+3477033,E.S.E. Edmundo Germán Arias Duarte de Puerto Wilches
+3477034,"E.S.P. Empresa de Acueducto, Alcantarillado y Aseo del Bordo Patía"
+3477038,Sopó
+3477040,Santo Tomás
+3477041,Corporación Autónoma Regional de la Guajira
+3477042,La Provincia Administrativa y de Planificación -PAP- de la Paz en el Departamento de Antioquia
+3477044,Colón - Putumayo
+3477045,San Pedro de Urabá
+3477048,Bolívar - Santander
+3477051,Piscícola San Silvestre
+3477052,Instituto Amazónico de Investigaciones Científicas
+3477055,E.S.E. Hospital San Nicolás - Versalles
+3477057,E.S.P. Aguas de Bogotá S.A.
+3477060,E.S.E. Hospital San Rafael - El Águila
+3477064,E.S.E. Hospital San Antonio de Sesquilé
+3477065,Lotería de Nariño
+3477067,Asociación de Municipios Corporación Agencia para el Desarrollo de los Municipios de la Región de Bosques
+3477068,Instituto para el Deporte y la Recreación - Yopal
+3477069,Alejandría
+3477074,Soatá
+3477077,Tárqui
+3477080,Corporación Prodesarrollo y Seguridad del Municipio de Girardot
+3477084,Instituto para el Deporte y la Recreación de Paz de Ariporo
+3477088,Guavatá
+3477090,Instituto para el Deporte y la Recreación - Tauramena
+3477092,E.S.E. Hospital el Salvador de Ubaté
+3477094,Mutatá
+3477095,E.S.P. Electrificadora del Caquetá S.A.
+3477096,E.S.E. Hospital San Francisco de Asís - San Francisco
+3477097,E.S.E. Centro de Salud Manuel Alberto Sandoval - Sotaquirá
+3477101,López de Micay
+3477104,Instituto de Deporte y Recreación del Meta
+3477105,Empresa de Servicios Públicos de Pitalito
+3477106,Instituto Municipal para la Recreación y el Deporte de Soacha
+3477117,Nueva Licorera de Boyacá - NLB
+3477118,Contratación
+3477119,E.S.E. Hospital San Juan de Dios - Sonsón
+3477121,Instituto Municipal de Vivienda de Interés Social y Reforma Urbana de Copacabana
+3477124,Empresas Municipales de Piendamó
+3477125,Usiacurí
+3477126,Institución Universitaria Bellas Artes y Ciencias de Bolívar
+3477130,E.S.E. Centro de Salud Nuestra Señora de La Paz
+3477136,Fondo Nacional de Garantías S.A.
+3477141,Fusagasugá
+3477142,Corporación Autónoma Regional de Boyacá
+3477145,"Instituto de Deporte, Recreación Y Actividad Física"
+3477147,Fondo Municipal de Vivienda de Interés Social y Reforma Urbana de Sincelejo
+3477148,Apía
+3477149,Convención
+3477150,San José de la Fragua
+3477154,E.S.E. Hospital de Santo Tomás
+3477155,San José del Palmar
+3477163,Moñitos
+3477168,Santa Bárbara - Santander
+3477172,Empresa Municipal de Servicios Públicos Domiciliarios de Piedecuesta
+3477176,Nariño - Nariño
+3477179,E.S.E. Centro de Salud Nuestra Señora de la Natividad Jericó - Boyacá
+3477184,E.S.E. Hospital San Bartolomé - Capitanejo
+3477186,Busbanzá
+3477187,Asociación de Municipios del Urabá Antioqueño
+3477189,E.S.E. Hospital Marino Zuleta Ramírez - La Paz
+3477193,I.P.S. Asociación de Cabildos y/o Autoridades Tradicionales de la Guajira
+3477194,E. S. E. Hospital Vera Judith Imitola Villanueva Piojo Atlántico
+3477195,E.S.E. Tangua Salud Hermes Andrade Mejía
+3477198,E.S.E. Hospital Rubén Cruz Vélez - Tuluá
+3477199,E.P.S.I. Asociación del Cabildos Indígenas del Cesar y La Guajira
+3477200,San Juan de Río Seco
+3477204,Corporación Autónoma Regional del Cauca
+3477205,Briceño - Boyacá
+3477207,Úmbita
+3477208,Corporación Hospital Infantil Concejo de Medellín
+3477209,E.S.P. Empresa de Servicios Públicos La Plata Huila
+3477211,Instituto Municipal para el Deporte y la Recreación de Ibagué
+3477212,Suárez - Tolima
+3477216,E.S.E. de Guapí
+3477218,E.S.E. Joaquín Emiro Escobar - Herrán
+3477225,E.S.E. Hospital Municipal San Francisco de Asís - Elías
+3477227,El Guamo -  Bolívar
+3477229,Universidad del Quindío
+3477233,E.S.P. Empresa de Servicios Públicos Domiciliarios de Ortega
+3477237,Chivatá
+3477240,E.S.P. Empresa de Energía de Bogotá S.A.
+3477245,E.S.P. Empresas de Servicios Públicos - Granada
+3477247,Empresa Social del Estado Región de Salud Centro Oriente Almeidas
+3477248,E.S.P. Servicios Públicos de Santa Rosa de Viterbo S.A.
+3477249,E.S.P. Empresas Públicas del Quindío S.A.
+3477250,"E.S.P. Empresa de Servicios Públicos Domiciliarios de Acueducto, Alcantarillado y Aseo - Yondó"
+3477252,Administración Pública Cooperativa del Municipio de Encino
+3477257,San Martín - Meta
+3477261,E.S.E. Centro de Salud San José de Leiva
+3477265,Nuevo Colón
+3477269,Santa Bárbara (Iscuandé)
+3477271,E.S.E Centro de Salud Galapa - Atlántico
+3477277,I.P.S. San Sebastián de Suratá
+3477281,"Instituto para la Recreación, el Deporte, la Educación Extraescolar y el Aprovechamiento del Tiempo Libre en el Departamento de Casanare"
+3477284,Instituto para el Fomento de la Recreación y el Deporte de Sogamoso
+3477287,E.S.P. Empresa de Servicios Públicos - Frontino
+3477288,Montería
+3477290,E.S.E. Clínica de Maternidad Rafael Calvo C.
+3477291,Empresas Públicas Municipales de Urrao
+3477294,E.S.P. Empresa Pública de Alcantarillado de Santander S.A.
+3477295,I.P.S. San José de Florián - Santander
+3477299,Empresa de Alumbrado Público - Sabaneta
+3477301,E.S.P. Empresas Públicas de Nilo S.A.S.
+3477302,Instituto para el Fomento de la Recreación y el Deporte de el Santuario
+3477303,E.S.E. Hospital La Inmaculada - Guatapé
+3477306,"Instituto Girardotano del Deporte, la Recreación y el Aprovechamiento del Tiempo Libre"
+3477308,E.S.P. Empresa de Servicios Públicos de Chaparral
+3477309,Monguí
+3477310,E.S.E. Hospital San José - El Cocuy
+3477311,Chinú
+3477314,E.S.P. de Córdoba ESACOR S.A.S
+3477315,Puerto Rico - Caquetá
+3477317,Piojó
+3477320,Viotá
+3477324,Lotería del Meta
+3477325,E.S.P. Empresa de Energía del Valle de Sibundoy S.A.
+3477333,E.S.P. Empresas Públicas de Jericó S.A.
+3477335,Piendamó
+3477336,E.S.P. Central Hidroeléctrica de Caldas S.A.
+3477338,Nechí
+3477342,Fábrica de Licores y alcoholes de Antioquia
+3477347,E.S.E. Hospital San Sebastián - Piedras
+3477350,El Cantón de San Pablo (Managrú)
+3477351,"E.S.P. Empresa Puebloriqueña de Acueducto, Alcantarillado y Aseo S.A."
+3477352,Empresas Públicas de Pensilvania
+3477353,Támesis
+3477355,Cámara de Comercio de Montería
+3477357,Corporación Autónoma Regional del Centro de Antioquia
+3477358,Instituto de Investigaciones en Recursos Biológicos Alexander Von Humboldt
+3477361,E.S.E. Ana Silvia Maldonado Jiménez
+3477362,E.S.P. Hidroeléctrica Ituango S.A.
+3477364,Cáqueza
+3477372,E.S.E. Hospital San Juan de Dios - Puerto Carreño
+3477374,Consejo Profesional Nacional de Topografía
+3477375,E.P.S. Entidad Promotora de Salud Mallamas Indígena
+3477376,Cámara de Comercio de Manizales
+3477378,Sotaquirá
+3477382,Don Matías
+3477383,E.S.P. Empresa de Servicios Públicos Domiciliarios de Túquerres
+3477384,Topaipí
+3477385,E.S.E. Centro de Salud de Tablón de Gómez
+3477386,Güicán
+3477388,Fondo Nacional del Café
+3477389,Junta Municipal de Deportes y Recreación - Guataquí
+3477391,Totoró
+3477392,Concepción - Antioquia
+3477393,E.S.E. Centro de Salud El Peñón
+3477397,I.P.S Indígena Outtajiapulee
+3477400,E.S.E. Hospital San Julián - Argelia
+3477402,"E.S.P. Empresa de Servicios Públicos de Acueducto, Alcantarillado y Aseo S.A. - Bolívar Cauca"
+3477403,Saldaña
+3477406,Instituto Departamental de Deportes y Recreación de Bolívar
+3477413,E.S.E Centro de Salud Jorge González Olmos - Páez
+3477423,E.S.E. Hospital San José de Isnos
+3477430,E.S.E. Hospital San Agustín - Fonseca
+3477431,E.S.E. Hospital Universitario del Valle Evaristo García
+3477432,"Instituto para el Deporte, la Educación Física y la Recreación de El Peñol"
+3477435,Instituto Deportivo y Recreativo de Fusagasugá
+3477436,Andalucía
+3477437,Cámara de Comercio de Cali
+3477439,Quibdó
+3477444,E.S.E. Hospital Psiquiátrico Universitario San Isidro - Cali
+3477446,E.S.E. Hospital San Vicente de Paul - Alcalá
+3477451,Instituto Distrital para la Protección de la Niñez y de la Juventud
+3477453,E.S.E. Centro de Salud Santa Lucía de Cucaita
+3477454,E.S.E. Hospital Regional la Merced - Ciudad Bolívar
+3477461,E.S.E. Hospital Local Puerto Asís - Puerto Asís
+3477462,E.S.E. Hospital Arsenio Repizo Vanegas - San Agustín
+3477466,Miraflores - Boyacá
+3477467,Caja de Compensación Familiar del Oriente Colombiano
+3477468,E.S.E. Universitaria del Atlántico
+3477470,E.S.P. Aguas del Páramo de Sonsón S.A.S.
+3477475,El Peñón -  Cundinamarca
+3477477,E.S.E. Hospital Andrés Girardot - Güicán
+3477479,Instituto Departamental de Tránsito y Transporte
+3477480,E.S.P. Empresa de Servicios Públicos de Tame
+3477483,Morales - Bolívar
+3477485,Tuchín
+3477494,E.S.E. Hospital San José - Salgar
+3477497,Pulí
+3477500,Córdoba - Quindío
+3477502,E.S.E. Hospital Tomás Uribe Uribe - Tuluá
+3477504,Providencia - Nariño
+3477508,El Tablón de Gómez
+3477509,E.S.E. Hospital José María Hernández - Mocoa
+3477511,Centro de Diagnóstico Automotor de Tuluá Ltda.
+3477523,E.S.E. Hospital Departamental San Vicente de Paul - Garzón
+3477526,E.S.E. Hospital San Joaquín - Nariño
+3477530,Instituto Colombiano de Crédito Educativo y Estudios Técnicos en el Exterior
+3477534,Valparaíso - Antioquia
+3477536,E.S.E. Hospital Psiquiátrico San Camilo de Bucaramanga
+3477538,Buriticá
+3477543,E.S.E. Juan Ramón Núñez Palacios - La Argentina
+3477545,Empresa Pública de Madrid
+3477554,E.S.E. Hospital San José - Mariquita
+3477558,E.S.P. Empresas Públicas de Monterrey S.A.
+3477562,Casa de la Cultura de Cáchira
+3477565,Cámara de Comercio del Putumayo
+3477567,Universidad Pedagógica y Tecnológica de Colombia
+3477569,Lotería de Boyacá
+3477573,Empresa de Servicios Públicos de Duitama
+3477575,Empresa Industrial y Comercial de Servicios Turísticos de Nemocón
+3477576,Orquesta Filarmónica de Bogotá
+3477587,E.S.E. Centro de Salud Nivel I Luis Acosta - La Unión
+3477591,E.S.E. Hospital Rafael Paba Manjarrez - San Sebastián
+3477592,Fondo de Vivienda de Interés Social - Sabaneta
+3477596,Promueve Más S.A.S.
+3477606,Tibú
+3477608,E.S.P. Empresa de Gas y Energía Eléctrica Siglo XXI - La Primavera
+3477615,Charalá
+3477616,Falán
+3477622,Lotería de Medellín
+3477625,Casa de la Cultura Jorge Eliecer Gaitán
+3477633,Empresa Municipal de Servicios Públicos de Arauca
+3477636,Fertilizantes Colombianos S.A. - En Liquidación
+3477640,E.S.E. del Municipio de Magangué
+3477641,Empresa Social del Estado Región de Salud Medina
+3477643,E.S.E. Centro de Salud San José - Nimaima
+3477648,Puerto Inírida
+3477655,E.S.E. Hospital Felipe Suárez de Salamina
+3477656,Los Córdobas
+3477657,Instituto Purificense para la Recreación y el Deporte
+3477659,Instituto Municipal de Vivienda de Interés Social de Cajicá
+3477661,E.S.P. Generadora y Comercializadora de Energía del Caribe S.A.
+3477662,Instituto Municipal de Deporte y Recreación de Socorro
+3477663,E.S.P. Iluminación y Desarrollos Tecnológicos S.A.S
+3477664,E.S.E. Santiago Apóstol - Imués
+3477671,Terminal de Transportes de Ibagué S.A.
+3477673,E.S.P. Empresa de Servicios Públicos de Pamplona S.A.
+3477676,Puerto Rondón
+3477677,Área Metropolitana de Bucaramanga
+3477678,E.S.E. Centro de Salud de Sáchica
+3477684,Tecnológico de Artes Débora Arango Institución Redefinida
+3477685,Bolívar - Valle del Cauca
+3477689,E.S.E. Hospital San Vicente Ferrer - Andalucía
+3477699,E.S.E. Centro de Salud Fe y Esperanza - Soracá
+3477704,E.S.E. Hospital Nuestra Señora del Rosario - Campoalegre
+3477706,E.S.E. Centro de Salud Santa Bárbara - Iscuandé
+3477707,Mistrató
+3477709,E.S.E. Hospital San José - Guachetá
+3477714,Cámara de Comercio de la Guajira
+3477716,Acueducto y Alcantarillado de Popayán S.A.
+3477717,Boyacá
+3477723,Santa Rosalía
+3477725,E.S.E. Centro de Salud de Viracachá
+3477742,San Cristóbal
+3477743,Corporación Autónoma Regional de la Frontera Nororiental
+3477744,Instituto de Investigaciones Costeras y Marinas José Benito Vives de Andreis
+3477752,E.S.P. Empresa de Servicios Públicos de Santa Rosa de Osos S.A.
+3477753,Lloró
+3477760,Instituto Municipal de Recreación y Deporte de Chía
+3477765,El Águila
+3477766,E.S.P. Empresa de Servicio Público de Aseo de Yotoco S.A.S.
+3477769,E.S.P. de Agua Potable y Saneamiento Básico S.A.S.
+3477774,E.S.E. Hospital Integrado San Joaquín
+3477777,Corporación Social de Cundinamarca
+3477783,PAR Incoder en liquidación - Fiduagraria S.A
+3477785,E.S.E. Hospital Iván Restrepo Gómez
+3477788,E.S.P. Empresa de Acueducto y Alcantarillado Zipaquirá
+3477791,E.S.E. Hospital San Antonio - Timaná
+3477797,Acandí
+3477808,E.S.E. Hospital Habacuc Calderón - Carmen de Carupa
+3477811,E.S.E. Hospital Santa Lucía - Cajamarca
+3477812,Empresas Públicas de el Doncello S.A E.S.P
+3477820,E.S.E. Clínica Guane -  Floridablanca
+3477825,"E.S.P. Empresa de Acueducto, Alcantarillado y Aseo de Choachí"
+3477828,Belén de los Andaquíes
+3477832,E.S.E. Centro de Salud San Jerónimo - Mongua
+3477834,E.S.P. Empresa de Servicios Públicos de Coello
+3477838,E.S.E. Hospital Marco Fidel Suárez - Bello
+3477839,Instituto Departamental para la Recreación y el Deporte de Cundinamarca
+3477841,Patía (El Bordo)
+3477846,Metro de Bogotá S.A
+3477851,Institución  Universitaria Digital de Antioquia
+3477855,Maripí
+3477864,Vigía del Fuerte
+3477871,Politécnico Colombiano Jaime Isaza Cadavid
+3477874,Fondo de Vivienda de Interés Social de Puerto Berrío
+3477875,E.S.P. Empresas Públicas de Salgar S.A.
+3477877,Empresas Públicas Municipales de Málaga
+3477881,Chipatá
+3477883,Jerusalén
+3477884,Instituto de Deportes y Recreación - Barbosa
+3477887,Industrias Cárnicas del Oriente S.A
+3477890,Instituto Municipal para la Recreación y el Deporte - Nemocón
+3477898,Empresa Vial y Transporte del Municipio de Quinchía
+3477903,La Playa de Belén
+3477904,Escuela de Capacitación Municipal Floridablanca
+3477908,Instituto Municipal para la Recreación y el Deporte de Cota
+3477909,Instituto de Tránsito y Transporte de Acacías - Meta
+3477913,E.P.S. Asociación Mutual SER Empresa Solidaria de Salud
+3477918,E.S.E. Departamental Hospital San Antonio de Villamaría - Caldas
+3477920,E.S.P. Empresa de Servicios Públicos de Cunday
+3477923,Jesús María
+3477925,Lotería de Cundinamarca
+3477934,Compañía de Seguros Bolívar S.A.
+3477936,Zipacón
+3477941,E.S.E. Fabio Jaramillo Londoño
+3477946,Área Metropolitana de Cúcuta
+3477951,E.S.E. Centro de Salud del Municipio de Labranzagrande - Boyacá
+3477956,E.S.P. Empresas Públicas Municipales de Apía
+3477957,E.S.E. Centro de Rehabilitación Integral en Salud Mental de Antioquia
+3477959,Empresa Intermunicipal de Servicios Públicos Domiciliarios de Acueducto y Alcantarillado S.A. E.S.P.
+3477961,Hospital Nuestra Señora de Fatima Empresa Social del Estado.
+3477970,Nariño - Cundinamarca
+3477975,E.S.P. Empresa de Servicios Públicos Domiciliarios de Belén
+3477978,E.S.E. San Cayetano - Guapotá
+3477979,E.S.P. Empresa de Acueducto y Alcantarillado de San José del Guaviare
+3477982,Biblioteca Pública Piloto de Medellín para la América Latina
+3477986,Fundación Gilberto Alzate Avendaño
+3477989,Química Integrada S.A.
+3478001,Supía
+3478004,E.S.P. De Togüí S.A.
+3478008,E.S.E. Centro de Salud Héctor Pineda Gallo - Susacón
+3478011,"Empresa de Servicios Públicos de Acueducto, Alcantarillado y Aseo Municipal de Curumaní"
+3478026,"E.S.P. Empresa de Acueducto, Alcantarillado, Aseo y Servicios Complementarios de Zipacón S.A."
+3478036,Segurexpo de Colombia S.A. Aseguradora de Crédito y del Comercio Exterior
+3478038,E.S.E Centro de Salud - Betéitiva
+3478047,E.S.P. Empresas Públicas de Caicedonia
+3478052,Instituto Técnico Agrícola
+3478055,Instituto de Desarrollo Económico del Sur
+3478061,E.S.P. Servicios Públicos Domiciliarios de Puerto Parra
+3478067,Fondo de Valorización del Municipio de Medellín
+3478068,E.S.E. Hospital Nuestra Señora de las Mercedes Funza
+3478085,Centro de Formación Integral para el Trabajo - Envigado
+3478093,Instituto Municipal de Deportes y Recreación del Guamo
+3478096,Centro de Diagnóstico Automotor de Caldas Ltda.
+3478108,E.S.E. Hospital Nelson Restrepo Martínez - Guayabal
+3478110,E.S.E. Hospital San Carlos - Cañasgordas
+3478112,Instituto para la Recreación y el Deporte de Vichada
+3478113,Túquerres
+3478116,Lotería del Tolima
+3478123,"Instituto de Financiamiento, Promoción y Desarrollo de Caldas"
+3478130,Buenavista - Boyacá
+3478131,Corporación Autónoma Regional de Risaralda
+3478134,Cómbita
+3478136,Junta Municipal de Deportes - Chachagüí
+3478144,Hospital Armando Pabón López - Manaure
+3478152,Centro de Diagnóstico Automotor de Nariño Ltda.
+3478153,E.S.E. Laura Perdomo de García
+3478154,Ramiriquí
+3478155,E.S.P. Empresa Departamental de Servicios Públicos de Casanare S.A.
+3478157,E.S.P. Empresas Públicas de Teruel S.A.
+3478168,E.S.P. de la Palmeña S.A.S.
+3478172,Corporación Autónoma Regional de Caldas
+3478175,E.S.E. Hospital Nuestra Señora de La Candelaria - Guarne
+3478181,E.S.E. Centro de Rehabilitación Integral de Boyacá -Tunja
+3478188,E.S.P. Hydros Mosquera S. en C.A. -  Liquidaciòn
+3478193,E.S.P. Empresa de Servicios Públicos de Aseo - San José de Marinilla
+3478195,E.S.E. Hospital Emiro Quintero Cañizales - Ocaña
+3478197,E.S.P. Empresas Públicas de Cañasgordas S.A.
+3478216,Samaná
+3478220,Samacá
+3478224,Instituto Municipal de Deporte y Recreación de el Guamo Bolívar
+3478226,E.S.E. Hospital Héctor Abad Gómez - Yondó
+3478242,"Instituto Departamental de Cultura, Deporte y Turismo del Caquetá"
+3478247,E.S.E. Hospital del Sur Gabriel Jaramillo Piedrahíta
+3478251,Instituto Municipal de Deporte y Recreación de Cáchira Norte de Santander
+3478255,E.S.E. Hospital Regional San Rafael - Yolombó
+3478256,Empresa de Servicios Públicos La Gloria
+3478259,La Unión - Valle del Cauca
+3478260,Empresas Públicas de Medellín
+3478262,E.S.P. de Sandoná
+3478265,E.S.E. Centro de Salud de Timbío
+3478267,E.S.P. Empresa de Servicios Públicos Domiciliarios - Ambalema
+3478268,Ciudad Bolívar
+3478270,Lotería de Cúcuta
+3478271,E.S.E. Hospital Agustín Codazzi
+3478273,Instituto Cejeño de la Recreación y el Deporte - La Ceja del Tambo
+3478276,Instituto de Vivienda de Interés Social y Reforma Urbana - Paipa
+3478278,E.S.E. Hospital San Vicente - Ramiriquí
+3478281,Empresas Públicas Municipales de Garzón
+3478284,E.S.E. Hospital Departamental Juan Domínguez Romero de Soledad - En Liquidación.
+3478285,Ciénaga de Oro
+3478287,E.S.E. Hospital la Misericordia - Angelópolis
+3478291,E.S.P. Empresas Públicas Municipales de Betania S.A.
+3478301,Corporación para el Desarrollo Sostenible de Urabá
+3478303,Instituto Municipal de Deporte y Recreación - Restrepo Valle
+3478312,Córdoba - Nariño
+3478318,"Empresa Industrial, Comercial, Frigorífico y Plaza de Ferias de Zipaquirá"
+3478319,El Playón
+3478326,Instituto Municipal del Deporte y Recreaciòn de San Onofre
+3478327,E.S.P. Empresas Públicas de Amagá S.A.
+3478333,E.S.P. Servicios Públicos de Santana - Boyacá
+3478339,Zapayán
+3478341,Asociación de Corporaciones Autónomas Regionales y de Desarrollo Sostenible
+3478342,E.S.P. de Cucunubá S.A.S.
+3478349,Caja de Compensación Familiar
+3478355,E.S.E. Hospital San Rafael de Concepción
+3478359,Universidad Pedagógica Nacional
+3478360,"Instituto Municipal de Deporte, Recreación y Educación Física - Trujillo"
+3478367,E.S.E. Occidente - Timbiquí
+3478368,E.S.P. de Tocancipá S.A.
+3478371,E.S.E. Hospital San Rafael - Facatativá
+3478374,Sácama
+3478376,Instituto de Tránsito y Transporte de Pitalito
+3478378,E.S.E. Hospital San José - Belén de Umbría
+3478384,Institución Universitaria de Envigado
+3478389,Instituto Cajamarcuno para el Deporte y la Recreación
+3478401,Empresa de Renovación Urbana de Manizales
+3478415,Cámara de Comercio Aburrá Sur
+3478416,E.S.E. Centro Dermatológico Federico Lleras Acosta
+3478420,E.S.E. Hospital Regional de Chiquinquirá
+3478424,E.S.E Hospital Local del Bolívar - Santander
+3478425,Cámara de Comercio de Sincelejo
+3478426,Cácota
+3478427,Cámara de Comercio de Barranquilla
+3478429,E.S.E. Hospital General de Medellín
+3478434,Fondo Mixto de Cultura de Boyacá
+3478436,Consejo Profesional de Ingeniería Química de Colombia
+3478440,E.S.P. Empresas Públicas de Cundinamarca S.A.
+3478453,Ocaña
+3478456,Fondo de Estabilización de Precios del Cacao
+3478468,Universidad de Nariño
+3478481,PAR Patrimonio Autónomo de Remanentes de Telecomunicaciones
+3478504,E.S.E. Hospital la María - Medellín
+3478506,E.S.E. Hospital Gabriel Peláez M. - Jardín
+3478512,E.S.E. Hospital del Municipio de Manatí
+3478514,E.S.E. Centro de Salud las Mercedes de Caldas  - Boyacá
+3478521,El Tambo - Nariño
+3478522,Administradora del Monopolio Rentístico de los Juegos de Suerte y Azar.
+3478524,E.S.P. Servicios Públicos de San José de la Fragua S.A.
+3478525,E.S.E. Hospital Local de Sabanas de San Ángel
+3478528,E.S.P. Empresas Municipales de Tuluá
+3478532,Tribunal de Ética Médica del Atlántico
+3478538,"Cámara de Comercio de la Dorada, Puerto Boyacá, Puerto salgar y Oriente de Caldas"
+3478544,E.S.P. Empresa de Servicios Públicos del Municipio Villa de San Diego de Ubaté S.A.
+3478550,Instituto de Tránsito y Transporte Municipal de Riohacha
+3478557,La Victoria - Boyacá
+3478562,Empresa de Servicios Públicos Domiciliarios de Melgar
+3478563,Instituto Municipal de Recreación y Deportes de Villa del Rosario
+3478573,Sotará (Paispamba)
+3478574,"Fondo para la Rehabilitación, Inversión Social y Lucha contra el Crimen Organizado"
+3478576,E.S.P. Empresas Públicas de Jardín S.A.
+3478579,E.S.E. Hospital Local Talaigua Nuevo - Bolívar
+3478587,E.S.E. Hospital Departamental San José - Marulanda
+3478590,E.S.P. Empresa de Servicios Públicos de Villanueva S.A.
+3478592,Murindó
+3478602,Covarachía
+3478611,E.S.P. Aguas del Puerto S.A. - Puerto Berrío
+3478618,Empresas Públicas Municipales La Celia
+3478620,E.S.P. Empresa de Servicios Públicos de Lérida
+3478629,E.S.E. Hospital Raúl Orejuela Bueno
+3478630,E.S.E. Hospital Local de González
+3478632,Villagarzón (Villa Amazónica)
+3478647,Ábrego
+3478652,Cámara de Comercio de Pasto
+3478657,Instituto de Tránsito y Transportes de Arauca
+3478660,"E.S.P. Empresa Municipal de Acueducto, Alcantarillado y Aseo de la Unión de Sucre S.A."
+3478663,E.S.E. Hospital Nuestra Señora de los Santos - La Victoria
+3478665,E.S.P. Empresa de Telecomunicaciones de Bogotá S.A.
+3478669,Corporación para el Desarrollo Sostenible de La Macarena
+3478671,"E.S.E. Centro de Salud Coveñas, sucre en liquidación"
+3478680,Instituto de Tránsito del Atlántico
+3478682,I.P.S. Corporación Universitaria de Caldas
+3478690,E.S.P. Empresas Públicas Municipales de Tibú
+3478697,E.S.E. Centro Hospital Luis Antonio Montero Potosí - Nariño
+3478698,Empresa de Servicios Varios de Cali - En Liquidación
+3478699,Instituto Departamental de Recreación y Deportes del Atlántico
+3478701,Ráquira
+3478702,FGA Fondo de Garantías S.A.
+3478720,E.S.E. Andrés Cala Pimentel
+3478727,Fondo Rotatorio de Valorización de Sincelejo
+3478739,Cámara de Comercio de Tuluá
+3478742,Instituto Municipal de Deportes y Recreación - El Rosal
+3478745,I.P.S. Centro de Salud - Carmen de Chucurí
+3478753,Asociación de Municipios del Departamento del Caquetá
+3478777,E.S.E. Blanca Alicia Hernández - Albania
+3478779,E.S.E. Sanatorio de Contratación
+3478784,E.S.E. Hospital San José de Guaduas
+3478788,E.S.E. Hospital Pio X - Caracolí
+3478790,Tununguá
+3478794,Toribío
+3478795,Cámara de Comercio de Bogota
+3478799,E.S.E. Hospital Local María la Baja
+3478800,Santa María - Huila
+3478815,E.S.E. Hospital Integrado San Roque de Curití
+3478820,Corporación Autónoma Regional del Cesar
+3478827,Central de Transportes de Tuluá S.A.
+3478837,E.S.E. Hospital María Inmaculada - Rioblanco
+3478838,Fondo de Vivienda de Interés Social del Departamento del Huila
+3478842,E.S.E Centro de Salud San Juan Bautista de Pupiales - Nariño
+3478843,E.S.P. Sociedad Aguas del Norte Antioqueño S.A.
+3478852,Purísima
+3478858,E.S.E. Unidad Hospital Juan Luis Londoño de Zulia
+3478868,E.S.E. Hospital Local San Sebastián - Zambrano
+3478879,Santa Catalina - Bolívar
+3478885,Fondo Nacional Avícola
+3478887,Tarazá
+3478888,E.S.P Empresa de Servicios Públicos de Acueducto Alcantarillado y Aseo de Suaita S.A
+3478899,Corporación de Desarrollo de Chiquinquirá
+3478907,"Corporación para el Desarrollo Sostenible del Archipiélago de San Andrés, Providencia y Santa Catalina"
+3478908,Fondo Mixto para la Promoción de la Cultura y las Artes - Guaviare
+3478909,Villanueva - Bolívar
+3478918,E.S.P. Empresa de Alumbrado Público de Toluviejo
+3478920,E.S.E. Hospital Santa Sofía - Caldas
+3478924,E.S.P. Empresa de Servicios Públicos del Meta
+3478929,E.S.P. Biorgánicos del Sur del Huila S.A.
+3478933,Florián
+3478937,E.S.E. Hospital San Martín - La Belleza
+3478948,E.S.E. Hospital Sagrado Corazón de Jesús de la Hormiga
+3478971,E.S.E. Hospital Dptal. Regional de el Líbano
+3478986,E.S.P. Empresas Públicas de Rivera S.A.
+3478990,Santa Lucía
+3478991,E.I.C.E. Ceiba -  En Liquidaciòn
+3478992,Empresa de Servicios Públicos Cartagena del Chairá
+3478996,E.S.E. Hospital Germán Vélez Gutiérrez - Betulia
+3479005,E.S.E. Centro Hospital Divino Niño - Tumaco
+3479009,E.S.E. Hospital San Luis Beltrán - San Jerónimo
+3479010,Empresa de Servicio Públicos Municipales de Calima del Darién
+3479015,E.S.E. Hospital Felipe Arbeláez - Alejandría
+3479024,Empresas de Servicios Públicos de Toro
+3479030,E.S.E. Hospital Clarita Santos - Sandoná
+3479035,E.S.E. Hospital Santa Teresa de Jesús de Ávila - Dibulla
+3479037,E.S.P. Empresa de Servicios del Gualivá S.A.S
+3479038,E.S.E. Hospital San Martín - Armenia
+3479039,Empresa de Servicios Públicos Domiciliarios de Acueducto y Alcantarillado de Yopal
+3479046,E.S.P. Aguas Manantiales de Pácora
+3479058,E.S.E. Hospital Local de Repelón
+3479062,I.P.S. Centro de Salud Jesús de Nazareth - Enciso
+3479075,E.S.E. Hospital San José
+3479089,Fondo para Consolidación del Patrimonio Autónomo Pensional de Cartago
+3479097,E.S.E. Hospital César Uribe Piedrahíta - Caucasia
+3479099,E.S.E. Hospital San Andrés Apóstol
+3479102,E.S.E. Salud - Paz de Río
+3479107,Consejo Profesional Nacional de Ingeniería
+3479110,Instituto Departamental del Deporte y Recreación - Amazonas
+3479123,Corporación Autónoma Regional de las Cuencas de los ríos Rionegro y Nare
+3479124,Positiva Compañía de Seguros S.A.
+3479126,E.S.E. Hospital San Rafael - Fundación
+3479140,E.S.P. Empresas Públicas de Facatativá
+3479141,Empresas Públicas - Sabana de Torres
+3479149,Instituto Técnico Nacional de Comercio Simón Rodríguez
+3479151,E.S.E. Hospital San Rafael - Fusagasugá
+3479153,E.S.P. Empresas Públicas de Suaza S.A.
+3479154,Riosucio - Chocó
+3479157,E.I.C.E. Empresa Pública del Municipio de Soacha
+3479163,E.S.E. Hospital La Misericordia - Calarcá
+3479172,E.S.E. Hospital San José de Puebloviejo
+3479175,E.S.P. Servicio Público de Alumbrado de Pasto Sepal S.A.
+3479183,E.S.E. Camu - Purísima
+3479197,I.P.S. Centro de Salud Santa Helena de Opón
+3479198,Instituto Municipal para la Cultura y el Turismo - Moniquirá
+3479206,Terminal de Transportes de Villagarzón S.A
+3479208,Instituto de Deportes y Recreación
+3479209,E.S.P. del Municipio de Turmequé S.A.
+3479210,Instituto Departamental de Acción Comunal de Cundinamarca
+3479235,E.S.P. Empresa de Servicios Públicos de Acueducto y Alcantarillado - Chachagüí
+3479237,Instituto Departamental de Recreación y Deportes
+3479248,E.S.E. Hospital San José de la Palma
+3479252,Sociedad Televisión del Pacífico Ltda - Telepacífico
+3479254,E.S.P. Empresa de Servicios Públicos E.I.S. Cúcuta
+3479268,E.S.E. Hospital Venancio Díaz Díaz - Sabaneta
+3479271,Tribunal de Ética Odontológica de Caldas
+3479272,"Instituto de Financiamiento, Promoción y Desarrollo de Purificación"
+3479288,"E.S.P. Empresa de Energía del Archipiélago de San Andrés, Providencia y Santa Catalina S.A."
+3479295,"Instituto Municipal de Deporte, la Recreación y el Aprovechamiento del Tiempo Libre - Yumbo"
+3479312,San Sebastián de Buenavista
+3479323,Instituto para la Investigación y la Preservación del Patrimonio Cultural y Natural del Valle del Cauca
+3479329,Tribunal Seccional de Ética Médica del Tolima
+3479334,Instituto Municipal de Deporte y Recreación - Yotoco
+3479352,E.S.P. Empresa de Energía Eléctrica de Servicios Públicos - Murindó
+3479355,E.S.E. Hospital San José de Samaná
+3479366,E.S.P. de Saldaña S.A.
+3479373,Asociación Cable Aéreo Manizales
+3479375,Cámara de Comercio de Dosquebradas
+3479376,E.S.P. Empresas Públicas de Hobo S.A.
+3479387,E.S.P. Domiciliarios - Soatá
+3479418,Instituto Municipal para la Recreación y el Deporte - Cúcuta
+3479426,"Instituto Municipal de Recreación, Deporte y Cultura - Tinjacá"
+3479432,Agencia para la Reincorporación y la Normalización
+3479439,Distracción
+3479445,Guapí
+3479448,E.S.E. Hospital Nuestra Señora del Carmen - El Bagre
+3479459,"E.S.P. Empresa de Servicios Públicos de Acueducto, Alcantarillado y Aseo del Guamo"
+3479482,Corporación Deportiva Centenario de Pereira
+3479485,E.S.E. Camu El Prado - Cereté
+3479487,E.S.E. Hospital Departamental San José de San José - Caldas
+3479499,E.S.P. Empresa de Servicios Públicos de Agustín Codazzi
+3479516,Santa Cruz de Mompóx
+3479524,Sistema Estratégico de Transporte Público de Neiva S.A.S
+3479535,E.S.E. Nuestra Señora de las Mercedes de Saladoblanco
+3479540,Nóvita
+3479543,E.S.P. Empresa de Servicios Públicos de Marquetalia S.A.
+3479545,E.S.P. Empresas Públicas de San Andrés de Cuerquia S.A.
+3479548,E.S.E. Hospital Regional San Juan de Dios - Santafé de Antioquia
+3479551,San Zenón
+3479553,Hospital Nuestra Señora Santa Ana
+3479555,U.A.E. de Servicios Públicos - Bogotá
+3479564,Caja de Compensación Familiar del Choco
+3479568,Federación Colombiana de Municipios - Dirección Nacional - SIMIT
+3479573,Gestión Energética Integral de la Sabana S.A.S. (GETSA)
+3479582,E.S.P. de Argelia de María S.A.
+3479584,Refinería de Cartagena S.A.S
+3479585,"E.S.E Hospital Departamental De San Andrés, Providencia Y Santa Catalina"
+3479588,El Piñón
+3479598,E.S.E. Hospital Eduardo Santos - La Unión
+3479615,Empresas Públicas Municipales de Armenia
+3479623,E.S.E. Centro de Salud San Rafael - De Rondón
+3479624,Fondo de Garantías de Entidades Cooperativas
+3479625,E.S.E. Hospital San Jorge - Calima El Darién
+3479629,E.S.P. Empresas de Servicios Públicos de Rovira
+3479631,E.S.E Hospital San Gabriel Arcángel
+3479633,E.S.P. De Viotá S.A.S.
+3479645,Asociación de Municipios del Occidente Antioqueño
+3479646,E.S.P. Centrales Eléctricas de Nariño S.A.
+3479655,E.S.E. Hospital de Hatillo de Loba - Bolívar
+3479656,"E.S.P. Empresa Municipal de Acueducto, Alcantarillado y Aseo de Colosó S.A."
+3479661,Instituto de Valorización de Manizales
+3479667,E.S.E. Centro de Salud Nuestra Señora del Rosario de Tasco
+3479674,Sáchica
+3479690,E.S.E. Hospital Regional de la Orinoquía
+3479694,Caja de Compensación Familiar de Boyacá
+3479695,Instituto de Fomento y Desarrollo Económico del Guaviare
+3479696,Universidad de Atlántico
+3479698,E.S.E. Hospital Local Pijiño del Carmen
+3479710,"Instituto de Financiamiento, Promoción y Desarrollo de Tuluá"
+3479714,E.S.E. Centro de Salud Con Camas - Córdoba
+3479724,E.S.E. Hospital Federico Arbeláez - Cunday
+3479736,E.S.P. Servicios Públicos de Yumbo S.A.
+3479738,Instituto Departamental de Juventud y Deporte de Boyacá
+3479741,Fundación Empresas Públicas de Medellín
+3479754,E.S.E. Centro de Salud San Bartolomé de Córdoba - Nariño
+3479755,La Previsora S.A. (Compañía de Seguros Generales)
+3479757,E.S.E. Centro de Salud San Miguel Arcángel - Ospina
+3479758,Sabanas de San Ángel
+3479769,Bagadó
+3479770,E.S.P. Empresa Distribuidora del Pacífico S.A.
+3479774,E.S.E. Centro de Salud de Tubará
+3479777,Instituto Distrital de Santa Marta para la Recreación y el Deporte
+3479783,Chíquiza (San Pedro de Iguaque)
+3479800,Biblioteca Departamental Jorge Garcés Borrero
+3479818,"Instituto de Financiamiento, Promoción y Desarrollo de Manizales"
+3479819,Instituto Municipal del Deporte y la Recreación - Puerto Tejada
+3479820,Empresa Férrea Regional S.A.S.
+3479825,Mosquera - Nariño
+3479827,Empresa de Servicios Públicos de Lebrija
+3479834,Cámara de Comercio de Cartagena
+3479874,"Instituto de Financiamiento, Promoción y Desarrollo de Ibagué"
+3479884,Instituto Municipal de Deportes y Recreación de Apartadó
+3479900,E.S.E. Hospital Tobías Puerta - Uramita
+3479907,Corporación Autónoma Regional del Canal del Dique
+3479915,E.S.P. Empresa de Servicios Públicos Domiciliarios de la Dorada
+3479917,E.S.P. Empresas Públicas de Villamaría - Caldas
+3479932,E.S.E. Hospital Geriátrico Ancianato San Miguel
+3479940,"Instituto Municipal para la Educación Física, Recreación y Deportes de San Vicente de Chucurí"
+3479950,E.S.E. Sagrado Corazón de Jesús - Valencia
+3479953,E.S.P. Empresa de Servicios Públicos - Cocorná
+3479964,E.S.E. Hospital Dptal. Federico Lleras Acosta - Ibagué
+3479992,San Jacinto - Bolívar
+3480000,"Fondo de Estabilización de Precios para el Palmiste, Aceite de Palma y sus Fracciones"
+3480001,E.S.E. Centro de Salud del Municipio de Sutamarchán
+3480007,E.S.E. Hospital La Anunciación - Mutatá
+3480038,E.S.E. Hospital Luis Carlos Galán Sarmiento - Charalá
+3480043,Alianza Energética y Tecnológica del cauca S.A.S
+3480060,E.S.P. Empresa de Servicios Públicos Domiciliarios de Cisneros S.A.
+3480062,E.S.E. Hospital Emigdio Palacio - Entrerríos
+3480075,Chiriguaná
+3480076,"Administración Pública Cooperativa de Acueducto, Alcantarillado y Aseo de Rosalía"
+3480081,E.S.E. Hospital Local Pedro Sáenz Díaz - Ulloa
+3480084,Corporación Ruta N Medellín
+3480093,E.I.C.E. para el Desarrollo Urbano y Hábitat del Municipio de Apartadó
+3480103,E.S.P. Servicios Públicos de Campoalegre S.A.
+3480106,Corporación de la Industria Aeronáutica Colombiana S.A.
+3480109,Instituto Social de Vivienda y Hábitat de Medellín
+3480122,E.S.E. Hospital José Rufino Vivas - Dagua
+3480134,Asociación de Municipios de la Costa
+3480138,E.S.E. Hospital Integrado Landázuri
+3480143,E.S.P. Empresas Públicas Municipales de Guática
+3480144,Instituto de Protección y Bienestar Animal de Cundinamarca
+3480148,Instituto Municipal de Deportes y Recreación - Puerto Boyacá
+3480183,E.S.E. Hospital Oscar E. Vergara - San Pedro de Urabá
+3480190,E.S.P. Empresas Públicas de La Ceja
+3480194,E.S.P. Empresa de Acueducto y Alcantarillado del Río Palo S.A. - En Liquidación
+3480198,Asociación de Municipios Antioqueños del Norte Medio
+3480200,Manaure (Balcón del Cesar)
+3480206,E.S.P. Empresa de Servicios Públicos de Viterbo S.A.
+3480223,E.S.E. Hospital Departamental Especializado Granja Integral - Lérida
+3480232,E.S.P. Servicios Públicos de Macanal S.A.
+3480233,"Instituto de Desarrollo Urbano, Vivienda y Gestión Territorial de Chía"
+3480248,E.S.P. Servicios Públicos Domiciliarios Aguas del Caguán S.A.
+3480250,E.S.E. Hospital Local Ana María Rodríguez - San Estanislao de Kotska
+3480251,Instituto Superior de Educación Rural de Pamplona
+3480261,Instituto para la Economía Social
+3480263,E.S.E. Hospital San José - Restrepo
+3480264,Villamaría
+3480268,Fondo de Vivienda de Interés Social y Reforma Urbana
+3480299,Instituto de Fomento Agroempresarial de Tauramena- En Liquidaciòn
+3480301,E.S.P. Empresas Públicas Municipales de Sibaté S.C.A.
+3480307,E.S.P. Empresa de Servicios Públicos Domiciliarios Aguas del Pienta S.A.S.
+3480309,Asociación de Municipios del Alto Ariari
+3480320,Montería Ciudad Amable S.A.S.
+3480329,E.S.E. Centro de Salud - Cucunubá
+3480342,E.S.E. Hospital San Juan de Dios - Cocorná
+3480344,"Instituto Municipal de Educación Física, Deporte y Recreación - Rionegro Antioquia"
+3480346,Empresas Públicas Municipales - Aguachica
+3480347,E.S.P. Domiciliarios de Buriticá S.A.
+3480349,E.S.E. Hospital San Juan de Dios - Anorí
+3480371,E.S.E. Centro de Rehabilitación de Norte de Santander
+3480381,E.S.E. Hospital Isaías Duarte Cancino - Valle del Cauca
+3480384,CPGA de la Provincia de García Rovira
+3480391,Empresa Aguas del Chocó S.A. E.S.P.
+3480405,E.S.E. Centro de Salud Colosó - Sucre
+3480412,E.S.E. Centro de Salud San Vicente Ferrer - Saboyá - Boyacá
+3480436,Empresas Públicas Municipales de Neiva
+3480440,Centro de Diagnóstico Automotor de Palmira
+3480458,Artesanías de Colombia S.A.
+3480463,Instituto Municipal para la Recreación y el Deporte de Roldanillo
+3480477,E.S.P. de Sopó
+3480482,Instituto Tecnológico Metropolitano
+3480487,E.S.P. Aseo Alcalá S.A.
+3480512,E.S.E. Hospital Regional Manuela Beltrán III Nivel - Socorro Santander
+3480519,E.S.P. Empresa Municipal de Servicios Públicos de Trinidad
+3480520,E.S.E. Centro de Salud de Sampués - Sucre
+3480530,Instituto Municipal de Deportes y Recreación de Bello
+3480558,Instituto Municipal de Deporte y Recreación de Cimitarra
+3480567,E.S.P. Empresa de Servicio de Alumbrado Público de Yopal S.A.S.
+3480570,E.S.P. Empresa de Servicios Públicos de Guadalupe S.A.S
+3480604,E.S.E. Hospital San Juan de Dios - Peñol
+3480612,Oibana de Servicios Públicos
+3480630,E.S.P. Empresa de Servicios Públicos Varios de Pupiales
+3480653,E.S.P. Central Hidroeléctrica Juan García S.A.S
+3480675,I.P.S. Centro de Salud Nuestra Señora del Carmen - Vetas
+3480690,Empresa Lotería y Juego de Apuestas Permanentes del Departamento del Huila
+3480695,E.S.E. Hospital Local Cristian Moreno - Curumaní
+3480697,E.S.E. Hospital Kennedy -  Riofrío
+3480715,E.S.P. Servicios Públicos de San Pablo
+3480721,Instituto de Tránsito y Transporte de Albania - Guajira
+3480723,E.S.E. Hospital San Juan de Dios - Titiribí
+3480727,E.S.P. Empresa de Servicios Públicos - Guachucal
+3480730,E.S.E. Centro de Salud Simón Bolívar - Tutazá
+3480738,"E.S.P. Empresa de Acueducto, Alcantarillado y Aseo de Maní"
+3480743,E.S.P. Empresa de Energía del Quindío S.A.
+3480747,Desarrollo de Infraestructura Civil y Servicios Técnicos Especializados de Gestión para las Regiones - Sociedad de Economía Mixta S.A.S.
+3480754,Instituto Municipal de Deporte y Recreación de Colosó - Sucre
+3480761,E.S.E. Hospital Local San Sebastián - Morales
+3480769,Dirección de Tránsito y Transporte de Barbosa
+3480794,Suán
+3480798,E.S.P. Santa Helena del Opón AAA S.A.
+3480812,"E.S.P. Empresa de Servicios Públicos, Acueducto y Alcantarillado - Albán Nariño"
+3480813,Santa Helena de Opón
+3480831,Asociación de Municipios de la Cuenca del Atrato y Darién
+3480832,E.S.P. Centrales Eléctricas del Cauca S.A.
+3480845,E.S.P. Servicios Públicos de Duitama S.A.
+3480849,Cámara de Comercio de Armenia y del Quindío
+3480863,Sistema Estratégico de Transporte Público de Santa Marta S.A.S.
+3480864,Sandoná
+3480874,Empresa de Transporte Masivo del Valle de Aburrá Ltda.
+3480877,E.S.P. Empresa de Servicios Públicos de Buenavista - Córdoba
+3480892,E.S.E. Centro de Salud San José - San Marcos
+3480896,Corporación Gilberto Echeverri Mejìa
+3480900,E.S.E. Centro de Salud San José de Albán
+3480903,Instituto para el Deporte y la Recreación de Aguazul
+3480907,E.S.E. Centro de Salud Municipio del Páramo - Santander
+3480912,E.S.P. Empresa de Aseo Supía
+3480918,"E.S.P. Corporación de Servicios Públicos de Acueducto, Alcantarillado y Aseo Nariño Ltda."
+3480921,E.S.P. Impulsadora del Desarrollo Armónico Sostenible S.A.
+3480925,U.A.E. para la Gestión Catastral de Cundinamarca
+3480954,Lotería de Bogotá
+3480963,E.S.E. Hospital Sagrado Corazón de Jesús - Quimbaya
+3480967,U.A.E. Centro de Salud - Zetaquirá
+3480979,Cámara de Comercio de Santa Marta para el Magdalena
+3481005,E.S.P. de Tópaga S.A.
+3481024,Hospital Santa Lucía - Roncesvalles
+3481026,E.S.E. Hospital Benjamín Barney Gasca - Florida
+3481036,E.S.E. Hospital Santa María - Santa Bárbara
+3481042,E.S.E. Hospital San José - Tierralta
+3481053,Agencia de Desarrollo Local de Itagüí
+3481059,Empresas Públicas de Tello S.A.S. E.S.P.
+3481070,E.S.E. Hospital Nuestra Señora del Carmen - Carmen de Apicalá
+3481077,Empresa de Renovación Urbana de Bogotá
+3481089,Cámara de Comercio del Chocó
+3481095,Cuerpo de Bomberos Oficial de Montería
+3481099,Caja de Compensación Familiar del Atlántico
+3481121,Metroplús S.A.
+3481122,E.S.P. Empresa de Servicios Públicos Domiciliarios de Angostura S.A.
+3481130,E.S.P. Empresa de Servicios Públicos Municipales - La Unión Nariño
+3481147,E.S.P. Empresa de Servicios Públicos de Chía
+3481148,Centro Tecnológico de Cúcuta
+3481157,I.P.S. Centro de Salud Divino Niño Jesús de Chipatá
+3481160,Fondo de Vivienda de Interés Social y Reforma Urbana Distrital
+3481166,"Instituto de Cultura, Recreación y Deporte del Municipio de Pitalito"
+3481191,E.S.P. Empresas Públicas de Caramanta S.A.S.
+3481195,E.S.E. Prestadora de Servicios de Salud Gustavo Romero Hernández
+3481210,Asociación de Municipios Sabana Centro
+3481215,Jardín Botánico de Bogotá José Celestino Mutis
+3481219,Empresa de Servicios Públicos de El Banco
+3481223,E.S.P. Empresas Públicas - Concordia
+3481233,E.S.P. Empresas Públicas de Abejorral
+3481249,E.S.E. Hospital San Antonio - Tarazá
+3481259,Instituto Municipal para el Deporte y la Recreación - Piendamó
+3481271,Empresa de Desarrollo Urbano de Bolívar S.A.
+3481274,E.S.P. de Nariño S.A.S
+3481290,E.S.E. Hospital San Nicolás de Tolentino
+3481302,Terminal de Transportes Popayán S.A.
+3481349,E.S.E. Centro de Salud Santa Lucía - Buenavista
+3481352,"Instituto de Recreación, Deporte, Cultura y Turismo San Antonio del Tequendama"
+3481356,E.S.P Empresa de Servicios de Iluminación Pública y Desarrollos Tecnológicos de Cachipay S.A.S.
+3481365,Centro Cultural Bacatá de Funza
+3481394,E.S.P. Sabanalarga Empresa de Servicios Públicos S.A.
+3481421,E.S.E. Centro de Salud Suan Atlántico
+3481423,Centro de Diagnóstico Automotor de Risaralda S.A.
+3481426,Central de Transportes Estación Cúcuta
+3481445,E.S.E. Hospital Santa Lucía - Fredonia
+3481450,Hospital San Antonio - Soatá
+3481477,"Instituto Municipal de Cultura, Turismo, Recreación y Deporte de Nilo"
+3481513,Municipios Asociados del Altiplano y Oriente Antioqueño
+3481544,Centro de Diagnóstico Automotor de Popayán Ltda.
+3481552,Consejo Profesional de Química
+3481573,Instituto para el Deporte y la Recreación de Orocué
+3481576,Caja de Compensación Familiar de Fenalco del Tolima COMFENALCO
+3481587,"Fondo de Estabilización para las Exportaciones de Carne, Leche y sus Derivados"
+3481604,E.S.E. Hospital Caicedo Flórez - Suaita
+3481608,Corporación Colombiana de Investigación Agropecuaria
+3481616,Córdoba - Bolívar
+3481634,"Instituto del Deporte, la Educación Física y la Recreación del Valle del Cauca"
+3481636,Cooperativa de Organismos de Salud de Boyacá
+3481643,E.S.P. Empresa Aguas del Oriente Antioqueño S.A.
+3481661,E.S.E. Instituto Departamental de Rehabilitación y Educación Especial del Cesar
+3481667,Empresa de Servicios Públicos de Roldanillo  S.A.
+3481703,E.S.P. Empresa de Servicios Públicos Municipales
+3481747,E.S.E. Hospital Pio XII - Colón
+3481754,Instituto de Tránsito de Boyacá
+3481774,E.S.E. Departamental Hospital San José de Neira
+3481784,E.S.E. Hospital Departamental San Simón - Victoria
+3481793,Instituto Departamental del Deporte y Recreación del Guanía
+3481796,Cámara de Comercio del Amazonas
+3481798,E.S.E. Hospital Nuestra Señora del Carmen - Guamal
+3481801,E.I.C.E. Empresa de Desarrollo y Renovación Urbana
+3481809,E.S.P. La Central Hidroeléctrica San José de la Montaña S.A.S.
+3481835,Administración Pública Cooperativa Solidaria de Servicios Públicos del Municipio de Sotaquirá
+3481841,Corporación Autónoma Regional del Guavio
+3481872,Plaza de Mercado de Apartadó
+3481876,E.S.P. Aguas de San Andrés S.A.
+3481879,Asociación de Municipios del Sinú
+3481904,Empresa Municipal de Vías - Belén de Umbría
+3481906,Centro de Habilitación del Niño
+3481927,Corporación Municipal de Cultura de Armenia
+3481931,Fábrica de Licores del Tolima
+3481944,Fondo Municipal de Vivienda de Interés Social y Reforma Urbana de Puerto Tejada
+3481954,E.S.P. Empresa de Servicios Públicos de Flandes
+3481975,Cámara de Comercio de Pamplona
+3481982,E.S.E. Hospital María Angelines - Puerto Leguízamo
+3482015,Catedral de Sal de Zipaquirá S.A. S.E.M.
+3482026,E.S.E. Hospital de San Martín
+3482063,Cámara de Comercio de Sevilla
+3482071,Instituto Municipal de Recreación y Deporte de Tabio
+3482074,Fundación Casa del Menor Marco Fidel Suárez
+3482099,E.S.P. Empresa de Servicios Públicos Domiciliarios de la Provincia de Lengupa S.A.
+3482104,E.S.P. Emilio Gartner Empresa de Servicios Públicos de Balboa
+3482117,Empresa de Servicios Públicos de Palermo
+3482122,E.S.E. Vida Sinú
+3482141,Dirección Distrital de Liquidaciones
+3482154,E.S.E. Centro de Salud San Sebastián
+3482175,E.S.P. Corporación Fresnense de Obras Sanitarias
+3482203,E.S.P. De Milán S.A
+3482208,E.S.E. Región de Salud Soacha
+3482253,Asociación de Entidades Públicas Casa de la Cultura - Marsella
+3482270,E.S.E. Centro de Salud Jenesano - Boyacá
+3482280,E.S.E. Hospital Municipal Nuestra Señora de Guadalupe
+3482288,Empresa de Servicios Públicos de Pueblo Rico
+3482300,Instituto Municipal para la Recreación y el Deporte de Pacho
+3482314,I.P.S. Asociación de Autoridades Tradicionales Wayuu Sumuywajat
+3482329,E.S.E. Hospital Isabel Celis Yáñez
+3482340,Sociedad Terminal de Transportes de Ocaña S.A.
+3482346,E.S.P. Empresas Públicas Municipales de Quinchía
+3482352,Empresas Públicas Municipales de Mistrató
+3482357,Instituto Libanense para el Deporte y la Recreación
+3482369,E.S.E. Hospital San Nicolás - Planeta Rica
+3482373,E.S.E. Hospital Local de San Zenón
+3482376,E.S.P. Aguas de Aránzazu
+3482408,E.S.E. Centro de Salud Belén - Nariño
+3482414,Hospital José Cayetano Vásquez - Puerto Boyacá
+3482436,E.S.P. Domiciliarios de la Provincia de Márquez S.A.
+3482442,Región Administrativa y de Planeación Especial - Región Central
+3482443,Fondo de Estabilización de Precios del Algodón
+3482455,Instituto de Tránsito y Transporte de Charalá
+3482506,Instituto Municipal del Deporte y la Recreación de Palmira
+3482509,E.S.P. Empresa de Energía Eléctrica del Departamento del Guaviare S.A.
+3482529,E.S.E. Hospital José David Padilla Villafañe - Aguachica
+3482530,Organización Regional de Televisión del Eje Cafetero
+3482533,E.S.E. Hospital Especial de Cubará
+3482555,Instituto Departamental de Tránsito del Quindío
+3482557,E.S.P. Empresa de Servicios Públicos de Guaduas S.A. - Aguas del Capira
+3482569,Plaza Mayor Medellín Convenciones y Exposiciones S.A.
+3482585,Instituto de Deportes y Recreación de Yarumal
+3482596,E.S.E. Municipal David Molina Muñoz - Oporapa
+3482620,E.S.E. Hospital San Vicente de Paul - Fómeque
+3482628,Empresas de Servicios Públicos Municipales de Fusagasugá
+3482730,E.S.P. Rio Luisa Empresa de Servicios Públicos de San Luis S.A.
+3482753,E.S.E. Hospital Santa Ana - Bolívar
+3482776,Área Metropolitana de Barranquilla
+3482812,E.S.P. Servicios Públicos de Prado S.A.
+3482835,Unguía
+3482852,E.S.E. Hospital Regional la Candelaria - Purificación
+3482859,Entidad Asesora de Gestión Administrativa  y Técnica
+3482875,E.S.P. Empresa de Servicios Públicos Domiciliarios de Puente Nacional - Acuapuente S.A.
+3482911,E.S.E. Hospital José Rudecindo López Parodi - Barranco de Loba
+3482920,Camara de Comercio de Florencia para el Caquetá
+3482945,Instituto Municipal de Cultura y Ciudadanía de Apartadó Antioquia.
+3482959,Caja de Compensación Familiar del Amazonas
+3483022,E.S.P. Empresas Públicas - Puerto Boyacá
+3483055,E.S.E. Hospital San Rafael - Jericó
+3483063,Hospital San Francisco - Ciénaga de Oro
+3483073,E.S.P. Empresas Públicas de Garagoa S.A.
+3483078,E.S.E. Hospital San Jerónimo
+3483103,E.S.E. Hospital Santa Mónica - Dosquebradas
+3483126,Fondo de Vivienda de Interés Social - El Bagre
+3483139,Asociación de Municipios de Risaralda
+3483170,Instituto Municipal de Deporte y Cultura de Morales - Bolívar
+3483197,E.S.E. Unidad de Salud San Francisco de Asís
+3483202,I.P.S. Indígena Erejeeria Wayuu
+3483206,Asociación para la Construcción del Aeropuerto del Café en Palestina - Caldas
+3483235,E.S.E. Hospital Regional de Moniquirá
+3483239,Yalí
+3483263,E.S.E. Hospital Mercedes Téllez de Padilla - Vianí
+3483269,Instituto Departamental de Deportes y Recreación de Sucre
+3483273,E.S.E. Empresa Social del Estado del Meta - Solución Salud
+3483291,Instituto de Cultura y Turismo de Bolívar
+3483333,E.S.E. Hospital Gonzalo Contreras - La Unión
+3483340,Empresa Autónoma del Municipio de Guatapé
+3483341,Agencia de Educación Superior de Medellín - Sapiencia
+3483373,E.S.P. Empresa de Recursos Tecnológicos S.A.
+3483384,E.S.P. Empresas Públicas de San Roque S.A.S.
+3483388,E.S.E. Hospital San José - La Gloria
+3483410,E.S.E. Hospital Nuestra Señora del Perpetuo Socorro - Dabeiba
+3483427,E.S.E. Hospital Luis Antonio Mojica de Nátaga
+3483469,Centro Regional de Educación de Orocué
+3483485,E.S.E. Puesto de Salud de Oicatá
+3483527,E.S.E. Policlínico de Junín
+3483560,E.S.E. Hospital San Antonio - Tarquí
+3483572,E.S.E. Centro de Salud Señor de los Milagros
+3483582,E.S.E. Hospital Camilo Villazón Pumarejo - Pueblo Bello
+3483589,E.S.P. Servicios Públicos Domiciliarios de Armero Guayabal S.A.
+3483590,E.S.P. Empresa de Servicios Públicos Domiciliarios del Municipio de Guatapé
+3483597,E.S.E. Centro de Salud Santa Lucía - Atlántico
+3483626,E.S.E. Hospital Serafín Montaña Cuellar - San Luis
+3483635,Cámara de Comercio de Cúcuta
+3483658,E.S.E. Hospital Santa María - El Tambo
+3483659,Corporación de Ciencia y Tecnología para el Desarrollo de la Industria Naval Marítima y Fluvial
+3483671,E.S.P. Empresas Públicas de San Luis S.A.S.
+3483677,Cámara de Comercio de Cartago
+3483689,E.S.E. Unidad de Salud de Ibagué
+3483696,E.S.E. Centro de Salud - Cómbita
+3483724,E.S.P. Empresas Públicas Municipales - Sopetran
+3483738,Instituto de Tránsito y Transporte del Departamento del Cesar
+3483745,Asociación de Municipios del Catatumbo Provincia de Ocaña y Sur del Cesar
+3483749,Asociación de Municipios del Magdalena Medio Antioqueño
+3483753,Empresa de Servicios Públicos EMSAP S.A.S
+3483789,Hospital Universitario Julio Méndez Barreneche.
+3483826,Sociedad Portuaria de la Dorada Río Grande de la Magdalena S.A.- En Liquidación.
+3483863,Dirección de Tránsito de Bucaramanga
+3483874,E.S.P. Servicios Públicos de Orocué S.A.
+3483883,E.S.P. Empresas Públicas de Algeciras S.A.
+3483896,E.S.E. Hospital San José - Belalcázar
+3483920,Federación Nacional de Departamentos
+3483941,Región Administrativa y de Planificación RAP Pacífico
+3483943,Instituto Municipal para el Deporte y la Recreación de Amalfi
+3483944,U.A.E. Sistema Estratégico de Transporte Público de Pasajeros para Pasto
+3483980,E.S.E. Hospital San José - La Celia
+3484010,Instituto para la Investigación Educativa y el Desarrollo Pedagógico
+3484042,Instituto Municipal de Recreación y Deportes - Tocancipá
+3484048,E.S.P. Empresa Municipal de Servicios Públicos de Tauramena
+3484069,Instituto Municipal de Deporte y Recreación - Candelaria
+3484083,E.S.E. Hospital Santa Bárbara - Venadillo
+3484103,Municipios Asociados de la Subregión de Embalses de los ríos Negro y Nare
+3484204,E.S.E. Centro de Salud Santa Sofía
+3484237,Tribunal Seccional de Ética Médica de Cundinamarca
+3484251,Establecimiento Público Ambiental - Cartagena
+3484288,E.S.P. Empresas Públicas de Betulia S.A.
+3484298,Empresa de Energía Eléctrica de Arauca
+3484299,E.S.P. Empresas de Servicios Públicos de La Virginia
+3484302,E.S.P. Empresas Públicas de Hato Corozal S.A.
+3484322,Fondo Mixto de Promoción Cinematográfica - Proimágenes Colombia
+3484329,E.S.E. Hospital Municipal - Acacías
+3484333,Camará de Comercio del Piedemonte Araucano
+3484342,E.S.P. Acueducto Regional del Sur del Atlántico S.A.
+3484343,Instituto Distrital de Protección y Bienestar Animal
+3484344,E.S.E. Hospital Vito Fasael Gutiérrez Pedraza - Valle de San Juan
+3484360,Aguas de Norosí S.A.S E.S.P
+3484373,Empresas Pùblicas Municipales de Candelaria S.A.S E.S.P
+3484388,E.S.E. Centro de Salud de Briceño
+3484479,"Cámara de Comercio de San Andrés, Providencia y Santa Catalina Islas"
+3484487,Instituto Municipal para el Deporte y Recreación de Tuta
+3484535,E.S.E. Hospital La Misericordia - Nechí
+3484542,Hogar San José para Ancianos
+3484571,Hospital San José - San Andrés
+3484629,I.P.S.I. Unidad Médica Wayuu Anouta Wakuaipa
+3484647,E.S.E. Hospital Universitario Cari - En Liquidación.
+3484654,Alumbrado Público de Villa Rica Iluminación Inteligente Led S.A.S - E.S.P
+3484668,Empresa de Servicios Públicos Domiciliarios de Leguízamo
+3484692,Asociación de Municipios del Norte del Cauca RPG
+3484704,E.S.E. Hospital San Vicente de Paul - Apía
+3484734,E.S.E. Gámeza Municipio Saludable
+3484738,Empresa de Desarrollo Económico Social y de Vivienda
+3484760,Cámara de Comercio de San José
+3484783,Empresa de Iluminación Pública S.A.S E.S.P
+3484790,Empresa Vial y de Transporte de Mistrató
+3484792,Turnariño Ltda.
+3484796,Centro de Diagnóstico Automotor de Cúcuta Ltda.
+3484817,E.S.E. Hospital San Lorenzo - Supía
+3484818,Provincia de Administración y Planificación Cartama
+3484841,Municipios Asociados del Valle de Aburrá
+3484910,Colfondos S.A Pensiones y Cesantías
+3484938,E.S.P. del Valle de San José S.A.
+3484955,E.S.P. Empresa de Servicios Públicos Domiciliarios de Vélez
+3484965,"Empresa de Tecnología, Imprenta y Comunicaciones de Nariño"
+3484986,E.S.P. Empresas Públicas de Íquira S.A.
+3484996,Cámara de Comercio del Magdalena Medio y Nordeste Antioqueño
+3484998,E.S.E. Hospital Nuestra Señora del Carmen - El Colegio
+3484999,Empresa Distrital de Desarrollo y Renovación Urbano Sostenible de Santa Marta
+3485002,Instituto Municipal de Deportes Recreación y Cultura de Ponedera
+3485003,Instituto Municipal del Deporte y la Recreación Espinal
+3485009,"E.S.P. Empresas Públicas de Acueducto, Alcantarillado y Aseo de Villa Rica S.A."
+3485012,"Instituto Municipal del Deporte, la Recreación, el Aprovechamiento del Tiempo Libre, la Educación Extraescolar y Educación Física de Sibaté"
+3485022,Corporación Autónoma Regional del Atlántico
+3485042,E.S.E. Hospital Tulia Durán de Borrero - Baraya
+3485043,Asociación de Municipios del Parque Nacional Natural Tatama
+3485109,E.S.E. Centro de Salud Santa Bárbara- Sora
+3485120,E.S.E. Hospital Local de El Retén
+3485181,E.S.E. Hospital San José - Aguadas
+3485189,E.S.E. Hospital San Andrés - Tumaco
+3485220,E.S.P. Empresa de Acueducto Alcantarillado y Aseo del Municipio de Beltrán S.A.S
+3485269,Asociación de Municipios de la Subregión Centro Sur de Caldas
+3485270,"E.S.P. Empresa Oficial de Acueducto, Alcantarillado y Aseo de Chinú - En Liquidación"
+3485286,E.S.E. Hospital Ulpiano Tascón - San Pedro
+3485290,E.S.P. Empresas Públicas de Marsella
+3485293,E.S.E. Centro de Salud San Antonio de la Pared de Ráquira
+3485388,Hospital San Rafael - Chinú
+3485407,E.S.E. Hospital Nuestra Señora de Lourdes - Ataco
+3485414,E.S.E. Hospital San Cristóbal - Ciénaga
+3485429,E.S.E. Hospital San Roque - La Unión
+3485477,Sistema Estratégico de Transporte Público de Pasajeros de Popayán Movilidad Futura S.A.S
+3485494,E.S.E. Hospital Divino Salvador - Sopó
+3485520,Instituto Municipal para el Deporte y la Recreación - Florida Valle
+3485524,E.S.E. Hospital Nuestra Señora del Carmen - Hato Nuevo
+3485536,Cámara de Comercio de Chinchina
+3485543,E.S.E. Hospital Niño Jesús - Barranquilla - En Liquidación.
+3485599,Nueva E.S.E. Hospital Departamental San Francisco de Asís
+3485637,E.S.E. Hospital San Sebastián de Urabá - Necoclí
+3485718,E.S.E. Hospital San Francisco - Gachetá
+3485725,"E.S.P. Empresa de Acueducto, Alcantarillado y Aseo de Acacías"
+3485737,E.S.P. Empresa de Servicios Públicos Domiciliarios de la Estrella S.A.
+3485756,E.S.E. San José de Guavatá
+3485767,Instituto Municipal de Tránsito y Transporte de Soledad
+3485799,"Instituto de Deportes,Recreación y Educación Física - Yolombó"
+3485812,"Instituto de la Juventud, el Deporte y la Recreación de Chiquinquirá"
+3485814,Instituto Municipal del Deporte y la Recreación - Jamundí
+3485820,Instituto Municipal para la Recreación y el Deporte de Tenjo
+3485891,E.S.E. Centro de Salud San Rafael de Úmbita - Boyacá
+3485929,Instituto de Deporte y Recreación de Facatativá
+3485953,Área Metropolitana de Valledupar
+3485969,E.S.E. Oriente - Belalcázar
+3485981,E.S.E. Hospital Santa Lucía - El Dovio
+3486017,E.S.E. Hospital Francisco Barrera - Don Matías
+3486026,E.S.P. Empresa Prestadora de Servicio Público de Aseo - Chigorodó
+3486032,E.S.E. Hospital María Auxiliadora - Íquira
+3486056,E.S.E. Hospital San José - Condoto
+3486066,E.S.E. Centro de Salud Señor del Mar
+3486085,Corporación Autónoma Regional de Defensa de la Meseta de Bucaramanga
+3486124,E.S.P. de Galán S.A.
+3486212,Caja de Compensación Familiar del Valle del Cauca - Comfenalco Valle Delagente
+3486288,Instituto Municipal del Deporte y la Recreación - Chocontá
+3486306,Corporación Departamental de Recreación
+3486326,E.S.E. Hospital Regional de Vélez
+3486386,E.S.E. Hospital Nuestra señora del Rosario Suesca
+3486390,Cámara de Comercio de Villavicencio
+3486392,Instituto Municipal de Deporte y Recreación - Caicedonia
+3486410,IPS - Indígena del Pueblo Inga en Aponte
+3486426,E.S.E. Centro de Salud Jaime Díaz Pérez
+3486458,Región Administrativa y de Planificación de la Amazonía RAP - Amazonía
+3486483,Caja de Compensación Familiar del Cauca
+3486495,E.S.E. Hospital Fray Luis de León - Plato
+3486576,Corporación para el Desarrollo Sostenible del Norte y el Oriente Amazónico
+3486647,Instituto para la Educación Física la Recreación y el Deporte - Paipa
+3486657,E.S.E. Hospital Local Santa María - Santa Cruz de Mompox
+3486677,Instituto Municipal para la Recreación y el Deporte - San Juan de Pasto
+3486692,"Instituto Municipal de Deporte, Recreación, Cultura y Turismo de Puerto López"
+3486710,E.S.P. Empresa de Energía del Guainía - La Ceiba S.A.
+3486741,Tribunal Nacional de Ética Médica
+3486747,Terminal de Transporte de Apartadó
+3486763,Asociación de Municipios del Pie de Monte Oriental
+3486876,E.S.E. Centro de Salud San Antonio - Socotá
+3486897,E.S.P. Cabrerana de Servicios Públicos S.A.
+3486918,Consejo Profesional de Biología
+3486970,Establecimiento Público Ambiental Barranquilla Verde
+3486982,Instituto Municipal para el Desarrollo Social y Económico de Palmira
+3486990,Corporación de Alta Tecnología para la Defensa
+3487001,Caja de Compensación Familiar de Sucre
+3487004,Instituto Colombiano para la Evaluación de la Educación
+3487038,Centro de Recepción de Menores
+3487070,E.S.P. Empresa Aguas de Nuquí S.A.
+3487091,E.S.E. Centro de Salud Miguel Barreto López - Tello
+3487178,Tribunal de Ética Médica de Santander
+3487196,E.S.E. Hospital Santa Ana - Falán
+3487243,E.S.P. Domiciliarios de Caracolí S.A.
+3487351,Cámara de Comercio de Santa Rosa de Cabal
+3487395,E.S.P. Colombia Móvil S.A.
+3487508,Instituto Municipal de Deportes y Recreación - Quinchía
+3487521,E.S.P. Empresas Públicas de Quibdó - En Liquidación
+3487528,E.S.E. Hospital Nuestra Señora de Fátima - Suaza
+3487588,E.S.E. Centro de Salud Nuestra Señora de Belén
+3487624,Instituto Municipal de Tránsito y Transporte
+3487629,E.S.E. Hospital San Francisco de Asís - Anzá
+3487758,"Empresa de Acueducto, Alcantarillado y Aseo del Municipio de Pijiño del Carmen - Magdalena S.A E.S.P"
+3487811,Tribunal de Ética Médica de Caldas
+3487841,Instituto Municipal de Deporte y Recreación de Ventaquemada
+3487853,Instituto Municipal para la Recreación y el Deporte - San Luis de Palenque
+3487877,E.S.E. Centro de Salud Santa Bárbara - Tununguá
+3487911,Instituto Municipal de Tránsito y Transporte de Campoalegre - Huila - En liquidación
+3487989,I.P.S. Centro de Salud Santa Bárbara - Santander
+3488138,E.S.E. Nuestra Señora del Rosario de Pisba
+3488213,E.S.P. Empresa de Servicios Públicos Domiciliarios de Barbosa
+3488230,Televisión Regional de Oriente Ltda.
+3488246,E.S.P. Empresa Regional de Acueducto y Saneamiento Básico S.A.S.
+3488250,Empresa de Servicios Públicos de Condoto
+3488251,E.S.E. Camu San Rafael - Sahagún
+3488274,E.S.P. Empresa de Servicios Públicos de Purificación
+3488315,E.S.E. Hospital José María Córdoba - Concepción
+3488320,Lotería del Quindío E.I.C.E.
+3488379,E.S.E. Centro de Salud San Antonio de Padua - Gachantivá
+3488383,Fondo Mixto para la Promoción de la Cultura y las Artes del Valle del Cauca
+3488504,E.S.E. Inés Ochoa Pérez - Tibasosa
+3488725,E.S.E. Hospital Donaldo Saúl Morón Manjarrez - Jagua del Pilar
+3488814,E.S.E. Hospital San Roque - Guacarí
+3488826,Instituto Municipal del Deporte y la Recreación de Tuluá
+3488865,Caja Promotora de Vivienda Militar y de Policía
+3488919,Cámara de Comercio de Sogamoso
+3488943,Instituto de Tránsito y Transporte del Huila
+3489049,Cámara de Comercio de Ocaña
+3489068,E.S.E. Centro de Salud San José - Boyacá
+3489122,"E.S.P. Empresa de Distribución de Agua Potable, Alcantarillado y Aseo del Carmen de Apicalá S.A."
+3489124,Cámara de Comercio de Buga
+3489129,E.S.E. Centro de Salud de Zapayán
+3489131,E.S.E. Centro de Salud Nuestra Señora del Pilar
+3489139,Cámara de Comercio de Bucaramanga
+3489210,I.P.S. Indígena Wayuu Anashii
+3489321,E.S.E. Hospital Rosario Pumarejo de López
+3489402,E.S.P. Empresa de Servicios Públicos Puerto Salgar
+3489531,Instituto Municipal para la Recreación y el Deporte de los Patios
+3489542,Administración Pública Cooperativa de Servicios Públicos Aguas de San Francisco Córdoba
+3489595,Administradora de Fondos de Pensiones Y Cesantía Protección S.A
+3489696,Instituto para la Recreación y el Deporte de Floridablanca
+3489719,Cámara de Comercio del Cauca
+3489827,Instituto Municipal de Recreación y Deportes - Anapoima
+3489854,"Instituto del Deporte, la Recreación y Aprovechamiento del Tiempo Libre - Guarne"
+3489855,E.S.P. Domiciliarios de La Montañita S.A.
+3489935,Lotería del Cauca
+3490020,Instituto Tecnológico del Putumayo
+3490201,E.S.P. Empresas Públicas de Yaguará S.A.
+3490218,Instituto Municipal del Deporte y la Recreación - Guadalajara de Buga
+3490232,Fondo Rotatorio de Valorización Municipal - Aguachica
+3490261,Cámara de Comercio de Tumaco
+3490264,Asociación de Municipios de Lengupa
+3490292,E.S.P. XM Compañía de Expertos en Mercados S.A.
+3490313,Empresa de Acueducto y Alcantarillado Puerto Asís
+3490373,E.S.E. Centro de Salud Nuestra Señora de Fátima - Chachagüí
+3490394,Empresas Públicas Municipales de Sevilla - En Liquidación
+3490421,E.I.C.E. Máquinas y Servicios Viales del Municipio de Tibú
+3490490,Corporación Autónoma Regional del Sur de Bolívar
+3490493,Empresa de Servicios Públicos de Pivijay - En liquidación
+3490525,"Instituto Municipal de Cultura, Recreación y Deporte de Itagüí"
+3490907,E. S. P. del Guainía Escalar S.A.S.
+3491121,E.S.E. Hospital Local - Puerto López
+3491170,"Instituto de Cultura, Turismo y Recreación - Socorro"
+3491268,E.S.P Empresa de Servicios Públicos de Aseo del Noroeste de Caldas S.A.S
+3491301,Fondo de Garantías de Instituciones Financieras
+3491324,E.S.P. Empresa de Servicios Públicos de La Paz
+3491328,E.S.P. del Sector Rural Urbano y Centros Poblados de Güepsa Sociedad Anónima por Acciones Simplificadas de Alcantarillado - Aseo Rural y Urbano del Municipio de Güepsa - Santander
+3491426,Operaciones Tecnológicas y Comerciales Sociedad por Acciones Simplificada
+3491523,Asociación de Municipios del Meta
+3491635,Fondo de Fomento del Fríjol y la Soya Nacional
+3491654,E.S.E. Centro de Salud de San José de Pare
+3491705,E.S.P. Empresa de Energía Eléctrica del Departamento del Vichada S.A.
+3491817,E.S.E. Hospital San Vicente de Paul - San Juan de Ríoseco
+3491879,E.S.E. Hospital Departamental de Sabanalarga - En Liquidación
+3491913,E.S.E. Hospital Ramón María Arana - Murillo
+3492065,E.S.E. Hospital Santa Bárbara  - Vergara
+3492083,Instituto Departamental de Deporte y Recreación del Quindío
+3492208,E.P.S. Caja de Previsión Social y Seguridad del Casanare
+3492247,E.S.E. Nuestra Señora del Carmen - Santa María
+3492352,Lotería de Bolívar La Millonaria del Caribe
+3492373,Instituto Distrital de la Participación y Acción Comunal
+3492518,Cámara de Comercío de Magangué
+3492550,E.S.E. Hospital San Francisco de Asís - Palermo
+3492578,Cámara De Comercio del Sur y Oriente del Tolima
+3492736,E.S.E. Hospital Local de Puerto Libertador el Divino Niño
+3492793,E.S.E. Centro de Salud con Camas de la Cabecera Municipal de El Peñón
+3492881,Municipios Unidos del Suroriente Antioqueño
+3492902,E.S.P. Servicio Público de Aseo - Venecia
+3493137,Cámara de Comercio de Urabá
+3493187,E.S.E. Hospital San Antonio de Chía
+3493218,Caja de Compensación Familiar de Cartagena y Bolívar
+3493516,Terminal de Transportes de Fusagasugá
+3493577,E.S.E. Hospital Local San José de Achí
+3493762,Instituto de Deportes y Recreación de San Gil
+3493787,E.S.P. Empresas Públicas de El Santuario
+3493814,Cámara de Comercio de Palmira
+3493847,E.S.E. Hospital Laureano Pino - San José de la Montaña
+3493910,Empresa Cartagueña de Desarrollo-EMCADE
+3493945,E.S.P. Empresa de Servicios Públicos Domiciliarios de Aguazul
+3493994,Instituto de Turismo y Recreación de Paipa
+3493999,Asociación de Municipios de la Provincia de Vélez y el Occidente de Boyacá
+3494072,Instituto Municipal de Deporte y Recreación de Cumaribo
+3494075,Patrimonio Autónomo INNPULSA
+3494159,Tribunal Nacional de Ética Odontológica
+3494321,Casa de la Cultura Jesús Angel González Arias Jaga
+3494364,E.S.E. Hospital La Unión - Sucre
+3494391,Instituto para el Deporte y la Recreación INDESA - Sabaneta
+3494417,E.S.E. Hospital Local Santiago de Tolú
+3494888,E.S.P Domiciliarios Girón S.A.S
+3494893,I.P.S. Centro de Salud San Roque de Güepsa
+3494932,Fondo Regional de Garantías del Tolima S.A.
+3495111,Instituto de Deportes y Recreación de Caldas
+3495227,Corporación para el Desarrollo Sostenible de La Mojana y El San Jorge
+3495582,E.S.E. Centro de Salud - Luis Patiño Camargo
+3495593,Fondo de Garantias de Boyacá y Casanare
+3495595,"Empresa Regional Jerusalèn,Nariño, Guataqui S.A.S E.S.P."
+3495756,E.S.P. Electrificadora del Municipio de Nuquí S.A.
+3495790,E.I.C.E. Empresa Autónoma de El Peñol
+3495983,Corporación Autónoma Regional de Sucre
+3496250,"Corporación Hospital San Juan de Dios - Uniremington, Santa Rosa de Osos"
+3496263,Instituto Municipal de Deporte y Recreación - Chigorodó
+3496265,Instituto Distrital de Deportes y Recreación de Cartagena
+3496339,Hospital San Roque de Córdoba - Quindío
+3496423,Federación Nacional de Esmeraldas de Colombia
+3496541,Empresa Oficial de Servicios Públicos Domiciliarios de Mercaderes Cauca
+3497097,"Instituto Municipal para el Deporte, la Recreación, la Educación Física y la Educación Física Extraescolar - Villapinzón"
+3497323,Camara de comercio de Ibagué
+3497442,E.S.P. Servicios Públicos Domiciliarios - Morales  Bolívar
+3497507,E.S.E. Hospital San Vicente de Paul - Génova
+3497628,Empresa Municipal Galería El Bordo - En Liquidación
+3497902,Parques del Río S.A.S.
+3497938,Asociación de Municipios de la Subregión de la Ciénaga Grande Santa Marta
+3497968,Caja de Compensación Familiar Campesina
+3498262,Fondo de Protección Solidaria
+3498435,E.S.P. de Vigía del Fuerte
+3498603,E.S.E. Centro de Salud San Pedro de Iguaque del Municipio de Chíquiza
+3498614,Camara de Comercio de Facatativá
+3498713,Fondo de Garantías de Santander S.A.
+3498824,Escuela Contra la Drogadicción
+3499032,E.S.P. Empresa de Servicios Públicos Domiciliarios - Sibaté
+3499351,Instituto Departamental para la Recreación y el Deporte
+3499889,Junta Municipal de Deportes y Recreación de Rivera - Huila
+3499973,E.S.E. Centro de Salud Inmaculada Concepción
+3499990,"Agencia para la Gestión del Paisaje, Patrimonio y Alianzas Público Privadas"
+3500050,E.S.E. Salud Nobsa - Boyacá
+3500320,E.S.E. Hospital Santa Marta - Samacá
+3500502,Fondo de Bienestar Social y Escuela de Formación de Estudios Fiscales de la Contraloría General del Departamento del Magdalena
+3501068,E.P.S. Alianza Medellín Antioquia S.A.S.
+3501179,Alianza Societaria y de Desarrollo Empresarial de Boyacá S.A.S.
+3501293,"Instituto de Cultura, Turismo, Recreación y Deporte de Apulo"
+3501321,Instituto Municipal de Deporte y Recreación de Ginebra
+3501719,Consejo Nacional de Bibliotecología
+3502661,C.P.G.M.A.E. Alto Nordeste Antioqueño
+3502686,Instituto Municipal de Deporte y Recreación de Guachené
+3502748,E.S.E. Hospital Nuestra Señora del Perpetuo Socorro de Uribia - Guajira
+3502966,Cámara de Comercio de Duitama
+3503121,E.S.E. Centro de Salud Lagosalud de Cuítiva
+3503122,"Instituto de Cultura, Deportes, la Educación Física y la Recreación del Departamento de Putumayo"
+3503235,Consejo Profesional de Ingeniería de Petróleos
+3503243,Agencia de Comercialización e Innovación para el Desarrollo de Cundinamarca ACIDC
+3503310,Instituto Municipal para el Deporte y la Recreación de Tumaco - Inder Tumaco
+3504103,Organismo Nacional de Acreditación de Colombia
+3504275,E.S.E. Hospital San Pedro del Piñón
+3504359,"Instituto Municipal para la Recreación, el Deporte, el Aprovechamiento del Tiempo Libre y la Educación Extraescolar de Totoró Cauca"
+3504433,"Fondo de Estabilización de Precios para los Azúcares Centrifugados, las Melazas Derivadas de la Extracción o del Refinado de Azúcar y los Jarabes de Azúcar"
+3504660,E.S.E. Hospital Nuestra Señora del Rosario - Belmira
+3504691,E.S.E. Hospital Local Nivel I Nuestra Señora del Socorro - Sincé
+3505135,E.S.E. Hospital Santa Rosa de Lima - Suárez Tolima
+3506105,Fondo Regional de Garantías del Caribe Colombiano S.A.
+3506158,Asociación de Municipios de la Región Caribe
+3506211,Patrimonio Autónomo Programa de Transformación Productiva - PTP
+3506356,Instituto Municipal de Deporte y Recreación de Mitú
+3506373,Departamento Administrativo de Transporte y Tránsito de Villa del Rosario
+3507473,E.S.E. Hospital San Antonio de Padua - Simití
+3507787,Compañía Energética del Caribe S.A.S E.S.P
+3507948,Asociación de Áreas Metropolitanas de Colombia
+3508086,Cámara de Comercio de Pereira
+3509274,Administrador del Patrimonio Escindido de Empresas Varias de Medellín E.S.P.
+3509515,Caja de Compensación Familiar Camacol Comfamiliar Camacol
+3509660,E.S.P. y Domiciliarios de Acueducto y Alcantarillado de el Carmen de Bolívar S.A.
+3510244,E.S.P. Empresas Públicas Municipales de Yolombó
+3511098,Instituto Municipal del Deporte y la Recreación
+3512017,E.S.E. Centro de Salud San José - Toluviejo
+3512153,Corporacion de Ciencia y Tecnología Ambiental Macarenia
+3512749,Fondo de Garantías del Café S.A.
+3514436,Fondo de Vivienda de Interés Social y Reforma Urbana - Donmatías
+3514617,Instituto Municipal de Recreación y Deportes Sevilla
+3516716,Caja de Compensación Familiar de Fenalco COMFENALCO Quindío
+3516754,Empresa Comercial y de Servicios Integrados de Funza - En Liquidación
+3518123,Asociación de Municipios Ruralidad Sostenible
+3519110,Empresa de Servicios Públicos de Magangue
+3519155,E.S.P. Electrificadora del Tolima S.A.  - En Liquidación
+3520385,"Instituto del Deporte, la Recreación y el Aprovechamiento del Tiempo Libre -  Santo Domingo"
+3521538,Caja de Vivienda Popular de Villavicencio - En Liquidación
+3522263,"E.S.P. Empresa de Servicios Públicos de Acueducto, Alcantarillado, Aseo y Complementarios de Neira Caldas S.A.S."
+3523147,Centro Turístico Ambiaku S.A.
+3523174,Sociedad Administradora de Fondos de Pensiones y Cesantías Porvenir S.A.
+3523428,Caja de Auxilios y de Prestaciones de la Asociación Colombiana de Aviadores Civiles de Colombia
+3525101,Instituto de Tránsito y Transporte de Campoalegre
+3525342,Fondo de Transportes y Tránsito de Bolívar - En Liquidación
+3525367,E.S.P. Empresa de Servicios Domiciliarios de Honda - En Liquidación
+3526334,Cámara de Comercio de Valledupar para el Valle del Río Cesar
+3526415,Caja de Compensación Familiar de Risaralda
+3526792,Compañía de Seguros de Vida Aurora S.A
+3528840,E.S.P. Empresa de Servicios Públicos de Coyaima
+3528859,E.S.P. Hidroeléctricas del Río Arma S.A.S.
+3529509,C.P.G.A. del Guaviare y Sur del Meta - En Liquidación
+3531807,Región Administrativa y de Planificación - RAP El Gran Santander
+3532056,Cámara de Comercio de Tunja
+3533825,"E.S.P. Empresa Departamental de Servicios Públicos Domiciliarios de Acueducto, Alcantarillado y Aseo de la Guajira S.A"
+3534201,Fondo Mixto de la Cultura y las Artes del Quindío
+3535693,Caja de Compensación Familiar del Caqueta
+3538917,"Instituto Distrital del Deporte, la Recreación y el Tiempo Libre de Buenaventura"
+3539629,E.S.P. Empresa de Servicios Públicos Domiciliarios de Solita S.A.
+3540812,E.S.P. Empresa Mixta Municipal de Servicios Públicos S.A.
+3543170,Caja de Compensación Familiar Comfenalco Santander
+3544568,E.S.P. de Cáchira S.A.S.
+3549977,Caja de Compensación Familiar de la Guajira
+3551752,Instituto Municipal para el Deporte y la Recreación de Madrid
+3553715,Sociedad de Capital Público Departamental Ltda.
+3557859,Caja de Compensación Familiar Comfenalco Antioquia
+3560984,Caja de Compensación Familiar de Fenalco - Andi Comfenalco Cartagena
+3562602,Caja de Compensación Familiar de Cundinamarca
+3563867,"Instituto Municipal del Deporte y la Recreación, el Aprovechamiento del Tiempo Libre, la Educación extraescolar y la Educación física de Corozal"
+3570421,Caja de Compensación Familiar de Nariño
+3572364,Caja de  Compensación Familiar de Norte de Santander
+3573591,E.S.P. Central Hidroeléctrica la Cascada de Granada  S.A.S.
+3574890,Caja de Compensación Familiar de Caldas
+3579826,Caja de Compensación Familiar del Valle del Cauca
+3590111,Asociación Regional de Municipios de la Amazonía y Orinoquía
+3592216,Caja de Compensación Familiar del Cesar
+3597884,Caja de Compensación Familiar Compensar
+3612859,E.S.P. Empresas Públicas de Santa Bárbara S.A.
+3625339,E.S.P. De Támesis S.A.S
+3625740,Caja de Compensación Familiar del Tolima
+3646377,Caja de Compensacion Familiar de San Andrés Islas
+3660214,Caja de Compensación Familiar de Barrancabermeja
+3673041,Caja de Compensación Familiar de Barranquilla Combarranquilla
+3676292,Región Administrativa y de Planificación- RAP Llanos
+3706850,Región Administrativa y de Planificación Caribe - RAP Región Caribe
+3764866,Caja de Compensación Familiar del Putumayo
+3801412,Empresa de Petróleos del Llano - En liquidación
+3881494,Patrimonio Autónomo de Administración y Pago E.S.E. Rafael Uribe Uribe Cont 019
+3925788,Caja de Compensación Familiar de Arauca
+3991757,E.S.P. de Aguas de Upía S.A.-  En Liquidaciòn
+4430614,Asociación de Municipios Petroleros de Colombia
+6629513,Instituto Nacional de Cancerología
+6629532,E.S.P. Domiciliarios - Sáchica-En liquidación
+6629657,Instituto de Vivienda Gestión Urbana y Rural de Yopal 2020
+6629691,Cuota de Fomento Ganadero y Lechero - CFGL ADM. - Federación Colombiana de Ganaderos FEDEGAN
+6632475,Región Metropolitana Bogotá - Cundinamarca
+6635365,Frigorífico del Sinú Frigosinú S.A.
+6645831,E.S.P. Antioqueña de Iluminaciones S.A.S.
+6646481,S.E.M. Idea + S.A.S.
+6681538,Fondo Nacional de Gestión de Riesgo de Desastres
