@@ -12,7 +12,7 @@ from streamlit_option_menu import option_menu
 
 from utils import DIC_COLORES, convert_df, get_dic_colors, get_dic_colors_area, create_dataframe_sankey
 
-st.set_page_config(layout='wide', page_title="ofiscal - PePE", page_icon='imgs/favicon.jpeg')
+st.set_page_config(layout='wide', page_title="ofiscal - Finanzas Territoriales", page_icon='imgs/favicon.jpeg')
 
 df = pd.read_csv('datasets/gastos_def_2024.csv')
 df2 = pd.read_csv('datasets/datos_desagregados_2025.csv')
@@ -725,7 +725,7 @@ elif selected_option == 'Ejecución':
         )
         st.plotly_chart(fig)
 
-        # peor ejecución
+        # peor ejecución
         fig = make_subplots(rows=1, cols=2, subplot_titles=("Ejecutado (%)", "Comprometido (%)"))
 
         fig.add_trace(go.Bar(y=bots_ejec['Sector'], 

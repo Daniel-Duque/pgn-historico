@@ -16,7 +16,7 @@ import matplotlib.pyplot as plt
 from plotly.subplots import make_subplots
 import plotly.graph_objs as go
 
-
+from utils import DIC_COLORES, convert_df, get_dic_colors, get_dic_colors_area, create_dataframe_sankey
 import streamlit as st
 
 st.set_page_config(layout='wide')
@@ -35,10 +35,11 @@ with tab0:
   muni = st.selectbox("NOMBRE_ENTIDAD",
      filtrado1["NOMBRE_ENTIDAD"])
   
-  ano1 = st.selectbox("primer año",
+  ano1= st.selectbox("primer año",
      [2021,2022,2023])
   ano2 = st.selectbox("segundo año",
      [2021,2022,2023])  
+  years= [2021,2022,2023]
   municipio_code=str(filtrado1[filtrado1["NOMBRE_ENTIDAD"]==muni]["CODIGO_ENTIDAD"].iloc[0])
 
 
@@ -176,26 +177,23 @@ with tab2:
 with tab3:
     
     st.header("Treemap")
-    
-    fig = px.treemap(municipio, 
-                     path=[px.Constant(municipio_name),
-                               
-                               #'PROGRAMATICO_MGA',                               
-                               #'SECCION_PRESUPUESTAL',
-                               'CUENTA_NIVEL_01', 
-                               'CUENTA_NIVEL_02',
-                               'CUENTA_NIVEL_03',
-                               'CUENTA_NIVEL_04',
-                               'CUENTA_NIVEL_05',
-                               'CUENTA_NIVEL_06',
-                               'CUENTA_NIVEL_07',
-                               'CUENTA_NIVEL_08',
-                               #'PROGRAMATICO_MGA'
-                               ],
-                    values='APROPIACION_DEFINITIVA',
-                    title="Matriz de composición anual de los municipios",
-                    branchvalues="remainder")
+    year = st.slider("Seleccione el año (ingreso)", 
+                    min_value=min(years),
+                    max_value=max(years))
+    filter_inc = municipiomerge
+
+    fig = px.treemap(filter_inc, 
+                    path=[px.Constant('PGN'),     'Ingreso', 
+                            'Ingreso específico'],
+                    values='APROPIACION_INICIAL',
+                    color_discrete_sequence=[DIC_COLORES['ax_viol'][1],
+                                             DIC_COLORES['ro_am_na'][3],
+                                             DIC_COLORES['az_verd'][2]],
+                    title="Matriz de composición anual de ingreso del PGN <br><sup>Cifras en miles de millones de pesos</sup>")
     
     fig.update_layout(width=1000, height=600)
     
-    st.plotly_chart(fig) 
+    st.plotly_chart(fig)    
+
+
+
